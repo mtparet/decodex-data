@@ -1,0 +1,4831 @@
+{
+  "sites": {
+    "573": [
+      0,
+      "Un site qui donne des conseils et astuces sur de nombreux sujets, avec un fonctionnement comparable à celui de Wikipédia. Certains sont fiables, d'autres beaucoup moins. A prendre avec des pincettes, notamment sur les conseils relatifs à la santé.",
+      "Wikihow",
+      "wikihow"
+    ],
+    "574": [
+      0,
+      "L'encyclopédie collaborative en ligne compile des informations sur de très nombreux sujets (l'édition anglaise comporte plus de 5 millions de pages). Son caractère collaboratif est, selon les cas, une force (il permet de corriger des erreurs laissées par d'autres contributeurs) et une faiblesse (certaines pages font l'objet d'une sorte de guérilla de modifications qui nuit à la qualité du contenu). Un regard sur les sources citées par une page Wikipédia est un bon début pour évaluer sa fiabilité.",
+      "Wikipédia",
+      "wikipedia"
+    ],
+    "575": [
+      0,
+      "9gag n'est pas une source d'information en soi, mais un vaste blog où les internautes postent des images, des vidéos ou encore des liens. Mieux vaut remonter à la source de l'information pour vous faire une idée.",
+      "9gag",
+      "9gag"
+    ],
+    "576": [
+      0,
+      "Une plateforme participative qui n'est pas orientée idéologiquement, mais de nombreux contributeurs du site s'en servent notamment pour relayer des théories conspirationnistes.",
+      "Agoravox",
+      "agoravox"
+    ],
+    "577": [
+      0,
+      "Dailymotion n'est pas une source d'information en soi, mais une plateforme de partage de vidéos avec des informations pouvant à la fois émaner de médias « sérieux », de partis politiques et d'internautes plus ou moins fiables et plus ou moins bien intentionnés. L'information que vous y trouverez dépend donc fondamentalement de son émetteur.",
+      "Dailymotion",
+      "dailymotion"
+    ],
+    "578": [
+      0,
+      "Facebook n'est pas une source d'information en soi, mais un réseau social avec plus d'un milliard d'utilisateurs, avec des informations pouvant à la fois émaner de médias « sérieux », de partis politiques et d'internautes plus ou moins fiables et plus ou moins bien intentionnés. L'information que vous y trouverez dépend donc fondamentalement de son émetteur.",
+      "Facebook",
+      "facebook"
+    ],
+    "579": [
+      0,
+      "Google+ n'est pas une source d'information en soi, mais un réseau social avec des millions d'utilisateurs. Les informations peuvent à la fois émaner de médias « sérieux », de partis politiques mais aussi d'internautes plus ou moins fiables et plus ou moins bien intentionnés. L'information que vous y trouverez dépend donc fondamentalement de son émetteur.",
+      "Google+",
+      "google"
+    ],
+    "580": [
+      0,
+      "Instagram n'est pas une source d'information en soi, mais un réseau social avec des millions d'utilisateurs. Les informations peuvent à la fois émaner de médias « sérieux », de partis politiques mais aussi d'internautes plus ou moins fiables et plus ou moins bien intentionnés. L'information que vous y trouverez dépend donc fondamentalement de son émetteur.",
+      "Instagram",
+      "instagram"
+    ],
+    "581": [
+      0,
+      "Attention, il ne s'agit pas d'articles de « Marianne» à proprement parler mais de l'espace dédié aux tribunes, qui publie des points de vue variés. Les informations que vous y trouverez auront donc une connotation plus subjective qu'un article traditionnel.",
+      "L'agora de Marianne",
+      "l-agora-de-marianne"
+    ],
+    "582": [
+      0,
+      "Attention, il ne s'agit pas d'articles des « Echos » à proprement parler mais d'un espace « Cercle », qui publie des points de vue variés. Les informations que vous y trouverez auront donc une connotation plus subjective qu'un article traditionnel.",
+      "Le Cercle des Echos",
+      "le-cercle-des-echos"
+    ],
+    "583": [
+      0,
+      "Attention, il ne s'agit pas d'articles du « Figaro » à proprement parler mais de l'espace « FigaroVox », qui publie les opinions de différents interlocuteurs. Les informations que vous y trouverez auront donc une connotation plus subjective qu'un article traditionnel.",
+      "Le FigaroVox",
+      "le-figarovox"
+    ],
+    "584": [
+      0,
+      "Attention, il ne s'agit pas d'articles de « L'Obs » à proprement parler mais du « Plus », qui publie des points de vue variés. Les informations que vous y trouverez auront donc une connotation plus subjective qu'un article traditionnel.",
+      "Le Plus de l'Obs",
+      "le-plus-de-l-obs"
+    ],
+    "585": [
+      0,
+      "Il ne s'agit pas d'articles de « Mediapart», mais de blogs hébergés par le site. Cette section regroupe plusieurs cas différents : les blogs invités et sélectionnés de la rédaction, mais aussi les blogs créés par des internautes, indépendamment de la rédaction. Leur pertinence ne peut donc être jugée qu'au cas par cas.",
+      "Les blogs de Mediapart",
+      "les-blogs-de-mediapart"
+    ],
+    "586": [
+      0,
+      "Il ne s'agit pas d'articles du « Monde », mais de blogs hébergés par le site. Cette section regroupe plusieurs cas différents : les blogs invités et sélectionnés de la rédaction, mais aussi les blogs créés par des abonnés, indépendamment de la rédaction. Leur pertinence ne peut donc être jugée qu'au cas par cas.",
+      "Les blogs du Monde",
+      "les-blogs-du-monde"
+    ],
+    "587": [
+      0,
+      "Il ne s'agit pas d'articles du « Monde Diplomatique », mais de blogs hébergés par le site. Leur pertinence ne peut donc être jugée qu'au cas par cas.",
+      "Les blogs du Monde Diplomatique",
+      "les-blogs-du-monde-diplomatique"
+    ],
+    "588": [
+      0,
+      "L'espace de discussion du site Internet Doctissimo, consacré à la santé et au bien-être. Attention : les avis ou conseils partagés dans ces discussions n'émanent pas forcément de personnes compétentes sur le sujet.",
+      "Les forums de Doctissimo",
+      "les-forums-de-doctissimo"
+    ],
+    "589": [
+      0,
+      "Attention, il ne s'agit pas d'articles du « Monde » à proprement parler mais de l'espace « idées » et du suppléments « Idées » , qui publient des points de vue variés. Les informations que vous y trouverez auront donc une connotation plus subjective qu'un article traditionnel.",
+      "Les pages opinion du Monde",
+      "les-pages-opinion-du-monde"
+    ],
+    "590": [
+      0,
+      "Attention, il ne s'agit pas d'articles de « Libération » à proprement parler mais de l'espace « idées », qui publie des points de vue variés. Les informations que vous y trouverez auront donc une connotation plus subjective qu'un article traditionnel.",
+      "Les tribunes de Libération",
+      "les-tribunes-de-liberation"
+    ],
+    "591": [
+      0,
+      "Attention, il ne s'agit pas d'un article du « Point »à proprement parler mais de l'espace dédié aux tribunes, qui publie des points de vue variés. Les informations que vous y trouverez auront donc une connotation plus subjective qu'un article traditionnel.",
+      "Les tribunes du Point",
+      "les-tribunes-du-point"
+    ],
+    "592": [
+      0,
+      "Linkedin n'est pas une source d'information en soi, mais un réseau social avec des millions d'utilisateurs. Les informations peuvent à la fois émaner de médias « sérieux », de partis politiques mais aussi d'internautes plus ou moins fiables et plus ou moins bien intentionnés. L'information que vous y trouverez dépend donc fondamentalement de son émetteur.",
+      "Linkedin",
+      "linkedin"
+    ],
+    "593": [
+      0,
+      "Reddit est un site communautaire où les internautes échangent des liens, des informations que les lecteurs évaluent en donnant des votes positifs ou négatifs. Reddit n'est donc pas une source en soi. Mieux vaut remonter à la source de l'information pour vous faire une idée.",
+      "Reddit",
+      "reddit"
+    ],
+    "594": [
+      0,
+      "Snapchat n'est pas une source d'information en soi, mais un réseau social avec des millions d'utilisateurs. Les informations peuvent à la fois émaner de médias « sérieux », de partis politiques mais aussi d'internautes plus ou moins fiables et plus ou moins bien intentionnés. L'information que vous y trouverez dépend donc fondamentalement de son émetteur.",
+      "Snapchat",
+      "snapchat"
+    ],
+    "595": [
+      0,
+      "Tumblr n'est pas une source d'information en soi, mais un réseau social où les internautes postent des images, des vidéos ou encore des liens. Mieux vaut remonter à la source de l'information pour vous faire une idée.",
+      "Tumblr",
+      "tumblr"
+    ],
+    "596": [
+      0,
+      "Twitter n'est pas une source d'information en soi mais un réseau social avec des millions d'utilisateurs. Des informations peuvent à la fois émaner de médias « sérieux », de partis politiques mais aussi d'internautes plus ou moins fiables et plus ou moins bien intentionnés. L'information que vous y trouverez dépend donc fondamentalement de son émetteur.",
+      "Twitter",
+      "twitter"
+    ],
+    "597": [
+      0,
+      "Portail d'information généraliste alimenté par des contenus de nombreux sites Internet.",
+      "Yahoo!",
+      "yahoo"
+    ],
+    "598": [
+      0,
+      "Youtube n'est pas une source d'information en soi, mais une plateforme de partage de vidéos avec des informations pouvant à la fois émaner de médias « sérieux », de partis politiques mais aussi d'internautes plus ou moins fiables et plus ou moins bien intentionnés. Ce que que vous y trouverez dépend donc fondamentalement de son émetteur.",
+      "YouTube",
+      "youtube"
+    ],
+    "599": [
+      0,
+      "Les forums du site JeuxVideo.com font partie des plus actifs en France, notamment par les adolescents. On y trouve des millions de fils de discussion, sur tous types de sujets (et pas seulement les jeux vidéo). Parmi les sections les plus actives du forum, on trouve l'emblématique « Blablas 18-25 ans », surnommé le « 18-25 », réservoir de mauvaises blagues et polémiques. Ses forums ont notamment été critiqués à plusieurs reprises pour des propos racistes, homophobes et sexistes.",
+      "Les Forums de JeuxVideo.com",
+      "les-forums-de-jeuxvideo-com"
+    ],
+    "600": [
+      1,
+      "Un site satirique qui parodie l'actualité.",
+      "24matin.ch",
+      "24matin-ch"
+    ],
+    "601": [
+      1,
+      "Un faux site d'information en anglais qui ressemble à celui du réseau de chaînes de télévision américain ABC.",
+      "ABC News Go",
+      "abc-news-go"
+    ],
+    "602": [
+      1,
+      "Un site qui permet à n'importe quel internaute de créer un article fictif et de le partager sur les réseaux sociaux.",
+      "Actualites.co",
+      "actualites-co"
+    ],
+    "603": [
+      1,
+      "Un site satirique américain.",
+      "Amplifying Glass",
+      "amplifying-glass"
+    ],
+    "604": [
+      1,
+      "Un site satirique qui parodie l'actualité de l'éducation.",
+      "Bilboquet Magazine",
+      "bilboquet-magazine"
+    ],
+    "605": [
+      1,
+      "Un site humoristique et décalé sur le rugby.",
+      "Boucherie Ovalie",
+      "boucherie-ovalie"
+    ],
+    "606": [
+      1,
+      "Un site satirique qui diffuse de nombreux canulars.",
+      "Boulevard69",
+      "boulevard69"
+    ],
+    "607": [
+      1,
+      "Un site satirique, sorte de « Gorafi » de la high-tech.",
+      "Branched",
+      "branched"
+    ],
+    "608": [
+      1,
+      "Un site satirique qui se présente comme « le vrai journal des vraies valeurs de la France vraie ».",
+      "Brave Patrie",
+      "brave-patrie"
+    ],
+    "609": [
+      1,
+      "Un site qui permet à n'importe quel internaute de créer un article fictif et de le partager sur les réseaux sociaux.",
+      "Breaking News 247",
+      "breaking-news-247"
+    ],
+    "610": [
+      1,
+      "Un faux site d'information en anglais.",
+      "City World News",
+      "city-world-news"
+    ],
+    "611": [
+      1,
+      "Un faux site d'information en anglais.",
+      "Civic Tribune",
+      "civic-tribune"
+    ],
+    "612": [
+      1,
+      "Un site parodique américain, cousin de « The Onion ».",
+      "Clickhole",
+      "clickhole"
+    ],
+    "613": [
+      1,
+      "Un site pour créer de fausses pages avec le design de vrais sites Web.",
+      "Clonezone",
+      "clonezone"
+    ],
+    "614": [
+      1,
+      "Un site satirique qui diffuse de nombreux canulars, anciennement connu sous le nom de Radio Cockpit.",
+      "Craesh-Aerien.aero",
+      "craesh-aerien-aero"
+    ],
+    "615": [
+      1,
+      "Un site satirique qui diffuse de nombreux canulars.",
+      "Darons",
+      "darons"
+    ],
+    "616": [
+      1,
+      "Une parodie de Wikipédia.",
+      "Désencyclopédie",
+      "desencyclopedie"
+    ],
+    "617": [
+      1,
+      "Un site satirique qui parodie l'actualité de l'éducation.",
+      "Edukactus",
+      "edukactus"
+    ],
+    "618": [
+      1,
+      "Un site satirique algérien.",
+      "El Manchar",
+      "el-manchar"
+    ],
+    "619": [
+      1,
+      "Un faux site d'information en anglais.",
+      "Empire Herald",
+      "empire-herald"
+    ],
+    "620": [
+      1,
+      "Un faux site d'information en anglais.",
+      "Empire News",
+      "empire-news"
+    ],
+    "621": [
+      1,
+      "Un site satirique américain.",
+      "Empire Sports",
+      "empire-sports"
+    ],
+    "622": [
+      1,
+      "Un site qui permet à n'importe quel internaute de créer un article fictif et de le partager sur les réseaux sociaux.",
+      "En Bref",
+      "en-bref"
+    ],
+    "623": [
+      1,
+      "Un site qui permet à n'importe quel internaute de créer un article fictif et de le partager sur les réseaux sociaux.",
+      "Flash Info",
+      "flash-info"
+    ],
+    "624": [
+      1,
+      "Un site satirique sur le sport.",
+      "Football France",
+      "football-france"
+    ],
+    "625": [
+      1,
+      "Un site satirique qui se moque de la presse locale.",
+      "France Foire",
+      "france-foire"
+    ],
+    "626": [
+      1,
+      "Un site satirique qui diffuse de nombreux canulars.",
+      "Freddy Mag",
+      "freddy-mag"
+    ],
+    "627": [
+      1,
+      "Un site satirique qui diffuse de nombreux canulars.",
+      "Gomerblog",
+      "gomerblog"
+    ],
+    "628": [
+      1,
+      "Un faux site d'information en anglais.",
+      "Huzlers",
+      "huzlers"
+    ],
+    "629": [
+      1,
+      "Un site satirique américain.",
+      "Itaglive",
+      "itaglive"
+    ],
+    "630": [
+      1,
+      "Un site satirique qui se moque de la presse locale.",
+      "L'Echo de la Boucle",
+      "l-echo-de-la-boucle"
+    ],
+    "631": [
+      1,
+      "Un site satirique sur le sport.",
+      "L'Epique",
+      "l-epique"
+    ],
+    "632": [
+      1,
+      "Un site satirique qui se moque de la presse locale.",
+      "La Deche du Midi",
+      "la-deche-du-midi"
+    ],
+    "633": [
+      1,
+      "Un site parodique à prendre au second degré.",
+      "La Sardine du Port",
+      "la-sardine-du-port"
+    ],
+    "634": [
+      1,
+      "Un site satirique qui se moque de la presse locale.",
+      "Le Daily Béret",
+      "le-daily-beret"
+    ],
+    "635": [
+      1,
+      "« Le Gorafi » est un site satirique créé en 2012 qui parodie les sites d'information français.",
+      "Le Gorafi",
+      "le-gorafi"
+    ],
+    "636": [
+      1,
+      "Un site satirique français, sur le modèle du Gorafi.",
+      "Le Jurafi",
+      "le-jurafi"
+    ],
+    "637": [
+      1,
+      "Un site satirique qui diffuse de nombreux canulars.",
+      "Le Navet",
+      "le-navet"
+    ],
+    "638": [
+      1,
+      "Un site satirique qui se moque de la presse locale.",
+      "Lerryberitfr",
+      "lerryberitfr"
+    ],
+    "639": [
+      1,
+      "Un site satirique qui diffuse de nombreux canulars.",
+      "Linkbeef",
+      "linkbeef"
+    ],
+    "640": [
+      1,
+      "Un site qui dit critiquer les médias par la caricature en diffusant de fausses informations.",
+      "Mediamass",
+      "mediamass"
+    ],
+    "641": [
+      1,
+      "Un faux site d'information en anglais.",
+      "National Report",
+      "national-report"
+    ],
+    "642": [
+      1,
+      "Un faux site d'information en anglais.",
+      "Nevada County Scooper",
+      "nevada-county-scooper"
+    ],
+    "643": [
+      1,
+      "Un site satirique qui diffuse de nombreux canulars.",
+      "News Biscuit",
+      "news-biscuit"
+    ],
+    "644": [
+      1,
+      "Un faux site d'information en anglais.",
+      "News Examiner",
+      "news-examiner"
+    ],
+    "645": [
+      1,
+      "Un site satirique britannique.",
+      "News Thump",
+      "news-thump"
+    ],
+    "646": [
+      1,
+      "Un faux site d'information en anglais.",
+      "News Watch 33",
+      "news-watch-33"
+    ],
+    "647": [
+      1,
+      "Un site satirique qui diffuse de nombreux canulars.",
+      "Newslo",
+      "newslo"
+    ],
+    "648": [
+      1,
+      "Un site satirique belge.",
+      "Nordpresse",
+      "nordpresse"
+    ],
+    "649": [
+      1,
+      "Un faux site d'information en anglais.",
+      "Now8news",
+      "now8news"
+    ],
+    "650": [
+      1,
+      "Un site satirique qui diffuse de nombreux canulars.",
+      "Piremedias",
+      "piremedias"
+    ],
+    "651": [
+      1,
+      "Un site satirique américain.",
+      "Politicops",
+      "politicops"
+    ],
+    "652": [
+      1,
+      "Un site satirique américain.",
+      "Rock City Times",
+      "rock-city-times"
+    ],
+    "653": [
+      1,
+      "Un site satirique qui diffuse de nombreux canulars.",
+      "Science Info",
+      "science-info"
+    ],
+    "654": [
+      1,
+      "Un faux site d'information en anglais.",
+      "Stuppid",
+      "stuppid"
+    ],
+    "655": [
+      1,
+      "Un site satirique qui parodie la presse locale.",
+      "Sud ou Est",
+      "sud-ou-est"
+    ],
+    "656": [
+      1,
+      "Un faux site d'information en anglais.",
+      "The Boston Tribune",
+      "the-boston-tribune"
+    ],
+    "657": [
+      1,
+      "Un site satirique qui diffuse de nombreux canulars.",
+      "The Lapine",
+      "the-lapine"
+    ],
+    "658": [
+      1,
+      "Un site parodique anglophone, à prendre au second degré.",
+      "The Mideast Beast",
+      "the-mideast-beast"
+    ],
+    "659": [
+      1,
+      "Le grand frère américain du « Gorafi ».",
+      "The Onion",
+      "the-onion"
+    ],
+    "660": [
+      1,
+      "Un faux site d'information en anglais.",
+      "The Reporterz",
+      "the-reporterz"
+    ],
+    "661": [
+      1,
+      "Un site satirique qui diffuse de nombreux canulars.",
+      "The Spoof",
+      "the-spoof"
+    ],
+    "662": [
+      1,
+      "Un faux site d'information en anglais.",
+      "The Stately Harold",
+      "the-stately-harold"
+    ],
+    "663": [
+      1,
+      "Un site satirique américain.",
+      "Weekly World News",
+      "weekly-world-news"
+    ],
+    "664": [
+      1,
+      "Un site satirique qui diffuse de nombreux canulars.",
+      "World News Daily Report",
+      "world-news-daily-report"
+    ],
+    "665": [
+      1,
+      "Un site satirique américain qui diffuse de fausses actualités scientifiques",
+      "Wyoming Institute of Technology",
+      "wyoming-institute-of-technology"
+    ],
+    "666": [
+      1,
+      "Un site satirique français, à prendre au second degré.",
+      "Mes propres recherches",
+      "mes-propres-recherches"
+    ],
+    "667": [
+      2,
+      "Un site américain pro-Donald Trump, qui diffuse régulièrement des informations erronées. Par exemple, le site a déformé en mai 2016 des déclarations du nouveau maire de Londres, Sadiq Khan. Il avait ainsi écrit à tort que le maire aurait menacé le nouveau président d'attaques terroristes sur les Etats-Unis s'il ne révisait pas ses positions vis-à-vis des citoyens de confession musulmane.",
+      "100% Fed Up",
+      "100-fed-up"
+    ],
+    "668": [
+      2,
+      "Un site éclectique qui mélange vraies et fausses informations, et parle notamment de présence extraterrestre sur Terre ou de guerre en Syrie.",
+      "2012 un nouveau paradigme",
+      "2012-un-nouveau-paradigme"
+    ],
+    "669": [
+      2,
+      "Un site peu fiable qui héberge des théories conspirationnistes. Il reprend notamment de fausses informations sur les vaccins, sur des traitements miracles contre le cancer ou encore sur la Syrie (comme le mythe de la « petite Syrienne qu'on sauve tout le temps »).",
+      "2012nouvelmorguemondial",
+      "2012nouvelmorguemondial"
+    ],
+    "670": [
+      2,
+      "Un site américain « alternatif » qui relaie parfois de fausses informations comme celles sur les « casques blancs » de Syrie. Il diffuse aussi des théories conspirationnistes sur la disparition du vol MH370 de la Malaysia Airlines.",
+      "21st Century Wire",
+      "21st-century-wire"
+    ],
+    "671": [
+      2,
+      "Un blog américain qui diffuse régulièrement de fausses informations. Il a notamment affirmé à tort que les votes par correspondance ne sont pas comptabilisés dans tous les Etats américains lors de l'élection présidentielle. Il tentait de démontrer que Donald Trump aurait pu obtenir plus de votes d'électeurs que Hillary Clinton (ce qui s'est avéré faux).",
+      "70 News",
+      "70-news"
+    ],
+    "672": [
+      2,
+      "Une fausse réplique du site d'« ABC News », qui utilise abusivement le nom de cette télévision américaine pour diffuser de fausses informations.",
+      "ABC News .co",
+      "abc-news-co"
+    ],
+    "673": [
+      2,
+      "Un site conspirationniste qui remet en cause la « version officielle » des attentats 11-Septembre, sans preuve réelle. Plusieurs sites comme Metabunk ou 911myths ont déconstruit ses théories en revenant aux faits.",
+      "AE911truth",
+      "ae911truth"
+    ],
+    "674": [
+      2,
+      "Un site peu fiable qui héberge des théories conspirationnistes sur les extraterrestres et relaie des rumeurs sur la mort de personnalités toujours en vie.",
+      "alalumieredunouveaumonde",
+      "alalumieredunouveaumonde"
+    ],
+    "675": [
+      2,
+      "Un site qui se présente comme une « agence de presse associative » et se veut « antisioniste ». Il a été condamné pour des propos antisémites, raconte « L'Express ». Comme le souligne « Rue89 »  dans un article, ce site diffuse régulièrement des théories conspirationnistes.",
+      "Alter Info",
+      "alter-info"
+    ],
+    "676": [
+      2,
+      "Un site américain peu fiable qui produit des informations présentées de manière trompeuse, sans vérification et sous des titres racoleurs. Il a par exemple affirmé à tort, en 2014, que l'armée américaine aurait cédé aux pressions des musulmans en acceptant des tenues religieuses, déformant une décision de l'armée américaine.",
+      "American News",
+      "american-news"
+    ],
+    "677": [
+      2,
+      "Un site américain qui diffuse parfois de fausses informations. Il a notamment relayé la théorie du « Pizzagate », qui affirmait sans preuve qu'un réseau pédophile dirigé par des proches de Hillary Clinton sévissait dans une pizzeria de Washington.",
+      "Anonews.co",
+      "anonews-co"
+    ],
+    "678": [
+      2,
+      "Un site qui diffuse de fausses informations et des théories conspirationnistes. Le journal « Libération »  a notamment montré comment il a affirmé à tort que la photographie d'une fillette rescapée de bombardements en Syrie était une manipulation.",
+      "Antipresse",
+      "antipresse"
+    ],
+    "679": [
+      2,
+      "Un site peu fiable qui reprend des théories conspirationnistes, notamment celle des « chemtrails ». Il s'agit d'une théorie qui affirme que les trainées de condensation dans le sillage des avions ne seraient pas de la vapeur d'eau mais des produits chimiques délibérément répandus par les agences gouvernementales et militaires, qui chercheraient à modifier le climat et manipuler les populations.",
+      "Arcturius",
+      "arcturius"
+    ],
+    "680": [
+      2,
+      "Un site connu pour avoir publié de fausses informations. RFI lui a consacré un article qui en recense plusieurs.",
+      "Awdnews",
+      "awdnews"
+    ],
+    "681": [
+      2,
+      "Un site islamophobe américain, qui répand régulièrement de fausses informations.",
+      "Bare Naked Islam",
+      "bare-naked-islam"
+    ],
+    "682": [
+      2,
+      "Un site qui propose aux internautes de donner leur avis sur des sujets variés, notamment politiques, sans appliquer de méthodologie qui rende ces pseudo-sondages représentatifs de la population française.",
+      "Bataii.com",
+      "bataii-com"
+    ],
+    "683": [
+      2,
+      "Un site alimenté par un blogueur clairement raciste et antisémite, également fondateur de Breizatao, qui diffuse de nombreuses fausses informations et a été condamné à de la prison ferme pour « provocation à la haine ou à la violence ».",
+      "Boris Le Lay",
+      "boris-le-lay"
+    ],
+    "684": [
+      2,
+      "Un site qui répand de nombreuses fausses informations et dont le créateur a été condamné à de la prison ferme pour « provocation à la haine ou à la violence ».",
+      "Breizatao",
+      "breizatao"
+    ],
+    "685": [
+      2,
+      "Un site présenté comme un média d'information local neutre, mais orienté à l'extrême droite et qui publie régulièrement de fausses informations.",
+      "Breizh Info",
+      "breizh-info"
+    ],
+    "686": [
+      2,
+      "Un site peu fiable qui reprend régulièrement de fausses informations diffusées par des auteurs conspirationnistes comme les thèses de Thierry Meyssan ou Henry Makow.",
+      "Chaos Controle",
+      "chaos-controle"
+    ],
+    "687": [
+      2,
+      "Un site peu fiable qui veut lutter contre le « néo-conformisme ». On y trouve régulièrement des informations déformées voire erronées.",
+      "Commentaires.ch",
+      "commentaires-ch"
+    ],
+    "688": [
+      2,
+      "Un site peu fiable qui héberge des théories conspirationnistes, comme la création d'une race secrète humain-porc.",
+      "Conscience du peuple",
+      "conscience-du-peuple"
+    ],
+    "689": [
+      2,
+      "Un site peu fiable, qui estime sans preuve que le 11 septembre 2001 est une conspiration.",
+      "Consensus 911",
+      "consensus-911"
+    ],
+    "690": [
+      2,
+      "Le site d'un auteur américain qui se présente abusivement comme un média d'information. Il répand des théories conspirationnistes sur le 11 septembre 2001 notamment et donne de fausses informations climatosceptiques.",
+      "Corbett Report",
+      "corbett-report"
+    ],
+    "691": [
+      2,
+      "Un site qui se présente comme un site d'information indépendant mais qui publie en réalité des articles trompeurs et relaie des théories négationnistes, qui prétendent notamment que l'extermination des juifs pendant la Seconde guerre mondiale n'a pas eu lieu.",
+      "Croa",
+      "croa"
+    ],
+    "692": [
+      2,
+      "Un site dédié en grande partie à l'alimentation, qui diffuse régulièrement des conseils exagérés sur de soi-disant aliments miracles. La plus grande prudence est recommandée.",
+      "Cuisine et Santé",
+      "cuisine-et-sante"
+    ],
+    "693": [
+      2,
+      "Un site politique américaine fortement orienté à l'extrême gauche et clairement anti-Trump qui publie régulièrement des informations trompeuses ou approximatives.",
+      "DailyNewsBin",
+      "dailynewsbin"
+    ],
+    "694": [
+      2,
+      "Un ancien journaliste sportif britannique devenu adepte des théories du complot, notamment sur les reptiliens. Les partisans de cette idée affirment théorie que ces créatures œuvrent dans l'ombre dans le but de manipuler l'espèce humaine.",
+      "David Icke",
+      "david-icke"
+    ],
+    "695": [
+      2,
+      "Un site américain qui relaie parfois de fausses informations.",
+      "DC Posts",
+      "dc-posts"
+    ],
+    "696": [
+      2,
+      "Un site peu fiable qui produit des informations parfois erronées sous des titres racoleurs.",
+      "DemicMedia",
+      "demicmedia"
+    ],
+    "697": [
+      2,
+      "Un faux site américain à l'origine de plusieurs fausses informations relayées de manière massive au cours de la dernière campagne présidentielle.",
+      "Denver Guardian",
+      "denver-guardian"
+    ],
+    "698": [
+      2,
+      "Un site américain qui relaie parfois de fausses informations.",
+      "Departed Media",
+      "departed-media"
+    ],
+    "699": [
+      2,
+      "Un site peu fiable qui relaie de nombreuses théories conspirationnistes, notamment la prétendue théorie du « Pizzagate», sur un faux scandale pédophile aux Etats-Unis.",
+      "Dernières nouvelles du dragon",
+      "dernieres-nouvelles-du-dragon"
+    ],
+    "700": [
+      2,
+      "Un site peu fiable qui héberge de fausses informations et des théories sur les extraterrestres et de prétendues sociétés secrètes qui domineraient le monde.",
+      "Diatala",
+      "diatala"
+    ],
+    "701": [
+      2,
+      "Le site de l'humoriste controversé Dieudonné, plusieurs fois condamné pour antisémitisme et incitation à la haine raciale, qui relaie régulièrement de fausses informations.",
+      "Dieudosphere (Dieudonné)",
+      "dieudosphere"
+    ],
+    "702": [
+      2,
+      "Un blog qui prétend « démystifer la démocratie ». Il publie régulièrement des informations déformées ou erronées.",
+      "Diktacratie",
+      "diktacratie"
+    ],
+    "703": [
+      2,
+      "Un site américain qui diffuse des théories conspirationnistes.",
+      "Disclose TV",
+      "disclose-tv"
+    ],
+    "704": [
+      2,
+      "Un site américain qui diffuse de fausses informations.",
+      "Disinfo",
+      "disinfo"
+    ],
+    "705": [
+      2,
+      "Un site peu fiable qui héberge des théories conspirationnistes.",
+      "Dondevamos",
+      "dondevamos"
+    ],
+    "706": [
+      2,
+      "Le site de la mouvance du militant « nationaliste révolutionnaire » Alain Soral, qui reprend de nombreux articles de sites peu fiables, dont de nombreuses fausses informations et théories conspirationnistes.",
+      "Egalité et Réconciliation",
+      "egalite-et-reconciliation"
+    ],
+    "707": [
+      2,
+      "Un site peu fiable qui prétend avoir une dimension scientifique mais relaie souvent de fausses informations.",
+      "Esprit Science Metaphysiques",
+      "esprit-science-metaphysiques"
+    ],
+    "708": [
+      2,
+      "Un site américain à l'origine de plusieurs fausses informations relayées de manière massive au cours de la dernière campagne présidentielle américaine. Il a par exemple relayé des fausses informations favorables à Donald Trump (entre autres exemples, une fausse affirmation selon laquelle le pape François aurait soutenu Donald Trump ou un autre article indiquant à tort que la fondatino Clinton aurait donné des millions de dollars au patron du FBI).",
+      "ETF News",
+      "etf-news"
+    ],
+    "709": [
+      2,
+      "Un blog à tendance conspirationniste.",
+      "Fawkes News",
+      "fawkes-news"
+    ],
+    "710": [
+      2,
+      "Un site qui relaie des informations sans aucune vérification et souvent présentées de manière trompeuse.",
+      "France en Colère",
+      "france-en-colere"
+    ],
+    "711": [
+      2,
+      "Une page Facebook partisan de Marine Le Pen qui relaie régulièrement de fausses informations et des photomontages grossiers.",
+      "France, ma patrie, ma nation",
+      "france-ma-patrie-ma-nation"
+    ],
+    "712": [
+      2,
+      "Un site peu fiable qui héberge des théories conspirationnistes sur les extraterrestres et des conseils dangereux pour la santé.",
+      "Freewiseman",
+      "freewiseman"
+    ],
+    "713": [
+      2,
+      "Un site créé par un ancien universitaire canadien, qui se présente comme « engagé dans la lutte pour révéler les aspects cachés du Nouvel ordre mondial ». Peu fiable, ce site héberge de nombreuses théories conspirationnistes, notamment sur les Illuminati.",
+      "Henry Makow",
+      "henry-makow"
+    ],
+    "714": [
+      2,
+      "Un compte Twitter dans la mouvance de La Manif pour tous, un mouvement opposé au mariage entre personnes de même sexe. Ce compte publie régulièrement de fausses informations.",
+      "Hérisson Dissident",
+      "herisson-dissident"
+    ],
+    "715": [
+      2,
+      "Un site qui diffuse des articles trompeurs et des théories conspirationnistes.",
+      "Histoires paranormales",
+      "histoires-paranormales"
+    ],
+    "716": [
+      2,
+      "Le site d'un mouvement d'extrême droite anti-Hollande, impliqué notamment dans les manifestations Jour de colère en 2014. Il publie régulièrement des informations déformées ou erronées.",
+      "Hollande dégage",
+      "hollande-degage"
+    ],
+    "717": [
+      2,
+      "Un site anti-Hollande qui a diffusé de nombreuses fausses informations.",
+      "Hollande Démission",
+      "hollande-demission"
+    ],
+    "718": [
+      2,
+      "Un site qui diffuse des articles trompeurs et des théories conspirationnistes.",
+      "Hors de vos pensées",
+      "hors-de-vos-pensees"
+    ],
+    "719": [
+      2,
+      "Un site Internet qui reprend de nombreuses théories conspirationnistes, comme celle de l'Italien Giulietto Chiesa. A ne pas confondre avec le quotidien italien du même nom.",
+      "IlFattoQuotidiano.fr",
+      "ilfattoquotidiano-fr"
+    ],
+    "720": [
+      2,
+      "Un site qui répand, comme son nom l'indique, des théories sur un prétendu complot illuminati.",
+      "Illuminati Watcher",
+      "illuminati-watcher"
+    ],
+    "721": [
+      2,
+      "Un site peu fiable qui héberge des théories parfois conspirationnistes et antisémites.",
+      "Info Contre Info",
+      "info-contre-info"
+    ],
+    "722": [
+      2,
+      "Un site créé par un animateur américain, Alex Jones. Il répand régulièrement des théories conspirationnistes qui remettent en cause, sans preuve réelle, la « version officielle » des attentats du 11-Septembre ou affirment que les Nations unies voudraient répandre une maladie qui tuerait 80 % de la population mondiale. Comme le montre une enquête du « Washington Post », ses affirmations sans preuves rencontrent un certain écho chez Donald Trump.",
+      "Infowars",
+      "info-wars"
+    ],
+    "723": [
+      2,
+      "Un site peu fiable qui diffuse parfois des fausses informations.",
+      "Informaction.info",
+      "informaction-info"
+    ],
+    "724": [
+      2,
+      "Un site présenté comme traitant l'actualité traditionnelle mais qui diffuse des articles trompeurs et des théories conspirationnistes.",
+      "Informations en direct France",
+      "informations-en-direct-france"
+    ],
+    "725": [
+      2,
+      "Un site présenté comme un média d'information local neutre, mais orienté à l'extrême droite et qui publie régulièrement de fausses informations.",
+      "Infos Bordeaux",
+      "infos-bordeaux"
+    ],
+    "726": [
+      2,
+      "Un site militant qui diffuse régulièrement de fausses informations.",
+      "Islamisme.fr",
+      "islamisme-fr"
+    ],
+    "727": [
+      2,
+      "Un site anti-avortement qui se présente comme un centre d'écoute et d'information sur l'intervention volontaire de grossesse (IVG), sans que son parti pris n'apparaisse clairement",
+      "IVG.net",
+      "ivg-net"
+    ],
+    "728": [
+      2,
+      "Une page Facebook d'extrême droite qui relaie parfois de fausses informations.",
+      "Je mange du porc et je t'emmerde",
+      "je-mange-du-porc-et-je-t-emmerde"
+    ],
+    "729": [
+      2,
+      "Une page Facebook militante qui relaie des articles de sites peu fiables, sans vérification.",
+      "Je soutiens Vladimir Poutine",
+      "je-soutiens-vladimir-poutine"
+    ],
+    "730": [
+      2,
+      "Un site anti-Hollande clairement militant et qui diffuse régulièrement de fausses informations.",
+      "Je suis stupide, j'ai voté Hollande",
+      "je-suis-stupide-j-ai-vote-hollande"
+    ],
+    "731": [
+      2,
+      "Le site d'un mouvement nationaliste radical.",
+      "Jeune Nation",
+      "jeune-nation"
+    ],
+    "732": [
+      2,
+      "Le blog de Pierre Jovanovic, une des figures de la mouvance conspirationniste.",
+      "Jovanovic",
+      "jovanovic"
+    ],
+    "733": [
+      2,
+      "Jean-Pierre Petit, ancien chercheur au CNRS, adepte de l'ufologie et de nombreuses théories du complot, notamment sur le tsunami de 2004 en Indonésie ou le 11-Septembre. A ne pas confondre avec l'économiste du même nom.",
+      "JP Petit",
+      "jp-petit"
+    ],
+    "734": [
+      2,
+      "Une entreprise fondée par Alain Soral qui publie des auteurs de la mouvance d'Egalité et Réconciliation, dont certains ouvrages antisémites.",
+      "Kontre Kulture",
+      "kontre-kulture"
+    ],
+    "735": [
+      2,
+      "Un compte Twitter orienté à l'extrême droite qui relaie régulièrement de fausses informations.",
+      "L'Informatrice",
+      "l-informatrice"
+    ],
+    "736": [
+      2,
+      "Un site d'extrême droite qui relaie de nombreuses fausses informations.",
+      "L'insoumis",
+      "l-insoumis"
+    ],
+    "737": [
+      2,
+      "Une page Facebook d'extrême droite qui relaie de fausses informations.",
+      "L'oeil De La HONTE",
+      "l-oeil-de-la-honte"
+    ],
+    "738": [
+      2,
+      "Un site peu fiable qui héberge des théories conspirationnistes.",
+      "La Chronique Agora",
+      "la-chronique-agora"
+    ],
+    "739": [
+      2,
+      "Un site d'opinion proche de l'extrême droite créé par Mike Borowski, ancien collaborateur du député Christian Vanneste. Il revendique le fait de ne pas faire de l'information mais de donner son opinion. Le site publie régulièrement de fausses informations, par exemple sur un projet de mosquée à Tulle en 2015, et des informations déformées et exagérées sous des titres chocs.",
+      "La gauche m'a tuer",
+      "la-gauche-m-a-tuer"
+    ],
+    "740": [
+      2,
+      "Un site Internet qui reprend des articles sur des sujets divers dont de fausses informations émanant de sites peu fiables.",
+      "La mine d'infos",
+      "la-mine-d-infos"
+    ],
+    "741": [
+      2,
+      "Un site peu fiable qui héberge parfois des fausses informations.",
+      "La Presse galactique",
+      "la-presse-galactique"
+    ],
+    "742": [
+      2,
+      "Une page Facebook militante qui diffuse régulièrement de fausses informations du site La Gauche m'a tuer.",
+      "La révolte des vaches à lait",
+      "la-revolte-des-vaches-a-lait"
+    ],
+    "743": [
+      2,
+      "Un site peu fiable qui relaie des théories conspirationnistes.",
+      "Lablogalupus",
+      "lablogalupus"
+    ],
+    "744": [
+      2,
+      "Un site peu fiable qui relaie des théories conspirationnistes.",
+      "Le Grand Soir",
+      "le-grand-soir"
+    ],
+    "745": [
+      2,
+      "Un site proche de La Manif pour tous, qui a déjà diffusé de fausses informations. Son responsable a notamment été condamné en justice pour avoir comparé le traitement des militants de La Manif pour tous au sort des enfants juifs pendant l'occupation.",
+      "Le Salon beige",
+      "le-salon-beige"
+    ],
+    "746": [
+      2,
+      "Le site du professeur Henri Joyeux, radié de l'ordre des médecins en 2016 notamment pour « des manquements d’une extrême gravité au code de déontologie » et qui met notamment en avant des théories conspirationnistes anti-vaccins.",
+      "Le site du Professeur Henri Joyeux",
+      "le-site-du-professeur-henri-joyeux"
+    ],
+    "747": [
+      2,
+      "Un site qui diffuse des articles trompeurs et des théories conspirationnistes.",
+      "Le6emetiroir",
+      "le6emetiroir"
+    ],
+    "748": [
+      2,
+      "Un site présenté comme un média d'information local neutre, mais orienté à l'extrême droite et qui publie régulièrement de fausses informations.",
+      "Lengadoc Info",
+      "lengadoc-info"
+    ],
+    "749": [
+      2,
+      "Un site peu fiable qui relaie de nombreuses théories conspirationnistes.",
+      "Les Chroniques de Rorschach",
+      "les-chroniques-de-rorschach"
+    ],
+    "750": [
+      2,
+      "Un blog d'analyses économiques et géopolitiques qui héberge parfois des théories conspirationnistes, notamment sur la crise ukrainienne.",
+      "Les Crises",
+      "les-crises"
+    ],
+    "751": [
+      2,
+      "Un site qui diffuse des théories conspirationnistes et négationnistes, remettant par exemple en cause, sans preuve réelle, la « version officielle » du 11 septembre 2001 ou bien l'extermination des juifs pendant la Seconde guerre mondiale.",
+      "Les moutons rebelles",
+      "les-moutons-rebelles"
+    ],
+    "752": [
+      2,
+      "Un site suisse proche de l'extrême droite épinglé à plusieurs reprises pour des articles de désinformation.",
+      "LesObservateurs.ch",
+      "lesobservateurs-ch"
+    ],
+    "753": [
+      2,
+      "Un site « antisioniste à tendance antisémite », selon « Rue89 ».",
+      "Medialibre",
+      "medialibre"
+    ],
+    "754": [
+      2,
+      "Un site qui diffuse des théories conspirationnistes sur l'espace, la terre ou encore la bombe atomique.",
+      "Mensonges.fr",
+      "mensonges-fr"
+    ],
+    "755": [
+      2,
+      "Un site adepte de l'ufologie et des théories loufoques.",
+      "Messages de la nature",
+      "messages-de-la-nature"
+    ],
+    "756": [
+      2,
+      "Un site se présentant sobrement comme une « encylopédie alternative », mais en fait très orienté à l'extrême droite.",
+      "Metapedia",
+      "metapedia"
+    ],
+    "757": [
+      2,
+      "Un site alimenté par Michel Collon, militant anti-américain et antisioniste, proche des positions du conspirationniste Thierry Meyssan.",
+      "Michel Collon",
+      "michel-collon"
+    ],
+    "758": [
+      2,
+      "Un site peu fiable qui relaie des théories conspirationnistes.",
+      "MK-Polis",
+      "mk-polis"
+    ],
+    "759": [
+      2,
+      "Un site peu fiable qui héberge parfois des fausses informations.",
+      "Mondialisation.ca",
+      "mondialisation-ca"
+    ],
+    "760": [
+      2,
+      "Un site d'extrême droite qui veut « mettre en avant toutes les actualités liées à l'immigration en France » mais relaie de nombreuses fausses informations.",
+      "My Journal",
+      "my-journal"
+    ],
+    "761": [
+      2,
+      "Un site qui présente comme des « sondages » des questions en ligne, orientées et dont les résultats ne peuvent être considérés comme représentatifs de l'opnion de la population française.",
+      "My Sondage",
+      "my-sondage"
+    ],
+    "762": [
+      2,
+      "Un site américain « alternatif » qui relaie parfois de fausses informations.",
+      "Newz Sentinel",
+      "newz-sentinel"
+    ],
+    "763": [
+      2,
+      "Un site présenté comme un média d'information local neutre, mais orienté à l'extrême droite et qui publie régulièrement de fausses informations.",
+      "Nice Provence Info",
+      "nice-provence-info"
+    ],
+    "764": [
+      2,
+      "Un site conspirationniste qui affirme notamment que l'attentat du 14 juillet à Nice n'était qu'une mise en scène.",
+      "NodisInfo",
+      "nodisinfo"
+    ],
+    "765": [
+      2,
+      "Un site présenté comme un média d'information local neutre, mais orienté à l'extrême droite et qui publie régulièrement de fausses informations.",
+      "Nord Actu",
+      "nord-actu"
+    ],
+    "766": [
+      2,
+      "Un site peu fiable qui relaie de fausses informations.",
+      "Nouvel Ordre mondial",
+      "nouvel-ordre-mondial"
+    ],
+    "767": [
+      2,
+      "Une page Facebook identitaire qui relaie parfois de fausses informations.",
+      "On Aime La France",
+      "on-aime-la-france"
+    ],
+    "768": [
+      2,
+      "Un site peu fiable orienté à l'extrême droite qui reprend de nombreuses informations de sources diverses, sans les vérifier.",
+      "Oulala.info",
+      "oulala-info"
+    ],
+    "769": [
+      2,
+      "Un site alimenté par un ancien étudiant en journalisme, Hicham Hamza. Il relaie des théories du complot, notamment sur l'attentat de Charlie Hebdo.",
+      "Panamza",
+      "panamza"
+    ],
+    "770": [
+      2,
+      "Un site présenté comme un média d'information local neutre, mais orienté à l'extrême droite et qui publie régulièrement de fausses informations.",
+      "Paris Vox",
+      "paris-vox"
+    ],
+    "771": [
+      2,
+      "Un site peu fiable qui diffuse régulièrement de fausses informations.",
+      "Pars Today",
+      "pars-today"
+    ],
+    "772": [
+      2,
+      "Un site qui diffuse des informations sans vérification et des théories conspirationnistes sans preuve réelle.",
+      "Penser Librement",
+      "penser-librement"
+    ],
+    "773": [
+      2,
+      "Un blog identitaire clairement orienté à l'extrême droite, qui reprend de fausses informations.",
+      "Peuple de France",
+      "peuple-de-france"
+    ],
+    "774": [
+      2,
+      "Un blog d'extrême droite qui relaie de nombreuses théories conspirationnistes.",
+      "Pilule rouge",
+      "pilule-rouge"
+    ],
+    "775": [
+      2,
+      "Un site peu fiable qui héberge des théories conspirationnistes.",
+      "Pluxactu",
+      "pluxactu"
+    ],
+    "776": [
+      2,
+      "Polemia est le think tank de Jean-Yves Le Gallou, une personnalité d'extrême droite. Ce dernier est l'un des promoteurs du concept de « réinformation », qui vise à créer des sites d'information dits « alternatifs », en réalité orientés pour diffuser la pensée politique d'extrême droite.",
+      "Polemia",
+      "polemia"
+    ],
+    "777": [
+      2,
+      "Un site Internet en apparence neutre mais en réalité orienté à l'extrême droite, qui reprend notamment sans vérification des articles de sites comme TV Libertés ou Boulevard Voltaire.",
+      "Présidentielle 2017 info",
+      "presidentielle-2017-info"
+    ],
+    "778": [
+      2,
+      "Un site iranien qui relaie des théories conspirationnistes et antisémites.",
+      "Presstv.ir",
+      "presstv-ir"
+    ],
+    "779": [
+      2,
+      "Un blog pro-Trump qui diffuse régulièrement des informations trompeuses ou erronées.",
+      "Project Purge",
+      "project-purge"
+    ],
+    "780": [
+      2,
+      "Un site peu fiable qui héberge des théories conspirationnistes.",
+      "Purfi",
+      "purfi"
+    ],
+    "781": [
+      2,
+      "Un site américain « alternatif » qui relaie parfois de fausses informations.",
+      "Red State Watcher",
+      "red-state-watcher"
+    ],
+    "782": [
+      2,
+      "Un compte Twitter orienté à l'extrême droite, qui publie régulièrement de fausses informations.",
+      "Réinformation RC",
+      "reinformation-rc"
+    ],
+    "783": [
+      2,
+      "Un site d'extrême droite qui relaie des théories conspirationnistes.",
+      "Reinformation.tv",
+      "reinformation-tv"
+    ],
+    "784": [
+      2,
+      "Un site conspirationniste qui remet en cause la « version officielle » du 11 septembre 2001.",
+      "Reopen911",
+      "reopen911"
+    ],
+    "785": [
+      2,
+      "Un sité dédié au « complot reptilien », qui diffuse des théories douteuses sur la domination du monde par des reptiles humanoïdes.",
+      "Reptiliens.blogspot",
+      "reptiliens-blogspot"
+    ],
+    "786": [
+      2,
+      "Un site d'extrême droite qui diffuse de fausses informations et des théories conspirationnistes.",
+      "Réseau International",
+      "reseau-international"
+    ],
+    "787": [
+      2,
+      "Une page Facebook d'extrême droite qui relaie régulièrement de fausses informations.",
+      "Résistance et unité",
+      "resistance-et-unite"
+    ],
+    "788": [
+      2,
+      "Résistance républicaine se revendique « apolitique » mais est néanmoins très proche de l'extrême droite. Il a notamment participé au lancement du « Pegida français » anti-islam.",
+      "Résistance républicaine",
+      "resistance-republicaine"
+    ],
+    "789": [
+      2,
+      "Un blog à tendance conspirationniste.",
+      "Révolution Vibratoire",
+      "revolution-vibratoire"
+    ],
+    "790": [
+      2,
+      "Un site présenté comme un média d'information local neutre, mais orienté à l'extrême droite et qui publie régulièrement de fausses informations.",
+      "Rhones Alpes Info",
+      "rhones-alpes-info"
+    ],
+    "791": [
+      2,
+      "Un site d'extrême droite, clairement hostile à l'islam, condamné à plusieurs reprises pour provocation à la haine.",
+      "Riposte laïque",
+      "riposte-laique"
+    ],
+    "792": [
+      2,
+      "Un site basé à Moscou créé en 2014, qui diffuse beaucoup de propagande russe, notamment des articles anonymes.",
+      "Russia Insider",
+      "russia-insider"
+    ],
+    "793": [
+      2,
+      "Un site peu fiable qui héberge des théories conspirationnistes.",
+      "Rusty James",
+      "rusty-james"
+    ],
+    "794": [
+      2,
+      "Un site qui défend l'alimentation naturelle mais répand régulièrement de fausses informations.",
+      "Sante Nature Innovation",
+      "sante-nature-innovation"
+    ],
+    "795": [
+      2,
+      "Un site qui défend l'alimentation naturelle mais répand régulièrement de fausses informations.",
+      "Santé Nutrition",
+      "sante-nutrition"
+    ],
+    "796": [
+      2,
+      "Un site peu fiable qui héberge des théories conspirationnistes.",
+      "Sott (Signs of the Times)",
+      "signs-of-the-times"
+    ],
+    "797": [
+      2,
+      "Une page Facebook d'extrême droite qui diffuse de nombreuses fausses informations.",
+      "SOS Racisme anti-blanc",
+      "sos-racisme-anti-blanc"
+    ],
+    "798": [
+      2,
+      "Une page Facebook orientée à l'extrême droite qui relaie parfois de fausses informations.",
+      "Soutien National En Bleu Marine",
+      "soutien-national-en-bleu-marine"
+    ],
+    "799": [
+      2,
+      "Un site conspirationniste anglo-saxon.",
+      "Steve Quayle",
+      "steve-quayle"
+    ],
+    "800": [
+      2,
+      "Une page Facebook d'extrême droite qui présente régulièrement des informations de manière trompeuse et sans aucune vérification.",
+      "STOP Immigration France",
+      "stop-immigration-france"
+    ],
+    "801": [
+      2,
+      "Un site peu fiable qui héberge des théories conspirationnistes.",
+      "Stop Mensonges",
+      "stop-mensonges"
+    ],
+    "802": [
+      2,
+      "Un site américain « alternatif » qui relaie parfois de fausses informations.",
+      "Subject Politics",
+      "subject-politics"
+    ],
+    "803": [
+      2,
+      "Un site peu fiable qui produit des informations parfois erronées sous des titres racoleurs.",
+      "SwagActu",
+      "swagactu"
+    ],
+    "804": [
+      2,
+      "Un site américain « alternatif » qui relaie parfois de fausses informations.",
+      "Tap News",
+      "tap-news"
+    ],
+    "805": [
+      2,
+      "Un site américain à l'origine de plusieurs fausses informations relayées de manière massive au cours de la dernière campagne présidentielle.",
+      "The political insider",
+      "the-political-insider"
+    ],
+    "806": [
+      2,
+      "Un site présenté comme un média d'information local neutre, mais orienté à l'extrême droite et qui publie régulièrement de fausses informations.",
+      "Infos Toulouse",
+      "toulouse-infos"
+    ],
+    "807": [
+      2,
+      "Le compte Twitter d'un internaute qui se revendique comme « patriote ». Attention, cet internaute est connu pour avoir diffusé de nombreuses fausses informations, parfois de manière parfaitement volontaire. France Info l’a épinglé pour un mensonge sur le prix de la montre de Jean-Luc Mélenchon, « Libération » a pointé une exagération sur des migrants qui auraient « le contrôle d’une ville en Allemagne », BuzzFeed a rectifié une citation déformée de Karim Benzema… Le Lab d’Europe 1 a également montré comment il avait créé de fausses captures d’écran d’articles de médias, notamment du « Monde », pour faire circuler des rumeurs.",
+      "Tprincedelamour",
+      "tprincedelamour"
+    ],
+    "808": [
+      2,
+      "Un site américain « alternatif » qui relaie parfois de fausses informations.",
+      "True Pundit",
+      "true-pundit"
+    ],
+    "809": [
+      2,
+      "Un site américain « alternatif » qui relaie parfois de fausses informations.",
+      "USA News Flash",
+      "usa-news-flash"
+    ],
+    "810": [
+      2,
+      "Un faux site américain qui publie de fausses informations en se faisant passer pour « Usa Today ».",
+      "UsaTodayCom",
+      "usatodaycom"
+    ],
+    "811": [
+      2,
+      "Un site américain à tendance conspirationniste.",
+      "The Vigilant Citizen",
+      "the-vigilant-citizen"
+    ],
+    "812": [
+      2,
+      "Une page Facebook prorusse qui relaie des informations de sources diverses, parfois erronées.",
+      "Vladimir Poutine - Fan Club -",
+      "vladimir-poutine-fan-club"
+    ],
+    "813": [
+      2,
+      "Le site de Thierry Meyssan, un conspirationniste proche du gouvernement syrien.",
+      "Voltairenet",
+      "voltairenet"
+    ],
+    "814": [
+      2,
+      "Un mouvement qui se revendique de « lutte contre la pédocriminalité », mais verse dans les théories conspirationnistes, accusant avocats, politiques, juges ou encore journalistes d'appartenir à un système généralisé qui protègerait les auteurs d'actes pédophiles.",
+      "Wanted Pedo",
+      "wanted-pedo"
+    ],
+    "815": [
+      2,
+      "Un site peu fiable qui relaie des théories conspirationnistes.",
+      "What Does It Mean",
+      "what-does-it-mean"
+    ],
+    "816": [
+      2,
+      "Un site américain qui diffuse de fausses informations.",
+      "What Really Happened",
+      "what-really-happened"
+    ],
+    "817": [
+      2,
+      "Un site peu fiable qui relaie des théories conspirationnistes et publie régulièrement de fausses informations.",
+      "Wikistrike",
+      "wikistrike"
+    ],
+    "818": [
+      2,
+      "Le compte Twitter d'un militant d'extrême droite, qui relaie régulièrement de fausses informations.",
+      "Yann Merkado",
+      "yann-merkado"
+    ],
+    "819": [
+      2,
+      "Un site américain « alternatif » qui relaie parfois de fausses informations.",
+      "Your News Wire",
+      "your-news-wire"
+    ],
+    "820": [
+      2,
+      "Un site anti-avortement qui est présenté comme un centre d'écoute et d'information sur l'IVG, sans que son parti pris n'apparaisse clairement.",
+      "Avortement.net",
+      "avortement-net"
+    ],
+    "821": [
+      2,
+      "Un site américain orienté, partisan de Vladimir Poutine et de Donald Trump, qui relaie régulièrement des informations biaisées voire erronées.",
+      "Information Liberation",
+      "information-liberation"
+    ],
+    "822": [
+      2,
+      "Un site américain qui répand des théories conspirationnistes, notamment sur les Illuminati ou les extraterrestres.",
+      "Illuminati News",
+      "illuminati-news"
+    ],
+    "823": [
+      2,
+      "Une page Facebook qui se présente comme émanant du mouvement Anonymous, ce qui n'est pas le cas. Elle diffuse des informations de sources variées, parfois peu fiables.",
+      "Anonymous France",
+      "anonymous-france"
+    ],
+    "824": [
+      2,
+      "Un blog d'actualité aux analyses parfois conspirationnistes, notamment sur la politique internationale.",
+      "Les Brins d'Herbes",
+      "les-brins-d-herbes"
+    ],
+    "825": [
+      2,
+      "Un site qui dit vouloir proposer un média « non-partisan et résistant face au système ». Il relaie des informations de sources variées dont de nombreuses théories conspirationnistes émanant d'auteurs comme Michel Collon ou Pierre Jovanovic.",
+      "Cercle des Volontaires",
+      "cercle-des-volontaires"
+    ],
+    "826": [
+      2,
+      "Un blog qui se revendique comme « pro-américain », « pro-israélien » et « néo-conservateur ». Très militant, il publie régulièrement de fausses informations, notamment sur l'immigration.",
+      "Dreuz Info",
+      "dreuz-info"
+    ],
+    "827": [
+      2,
+      "Un site qui se présente comme faisant de l'information « alternative » alimenté par différents contributeurs sous pseudonymes. Il diffuse régulièrement des informations trompeuses, par exemple sur les vaccins, voire des théories conspirationnistes, comme après les attentats de janvier 2015.",
+      "Les Moutons enragés",
+      "les-moutons-enrages"
+    ],
+    "828": [
+      2,
+      "Un site d'information américain conspirationniste, qui diffuse parfois de fausses informations.",
+      "Activist Post",
+      "activist-post"
+    ],
+    "829": [
+      2,
+      "Un site orienté à l'extrême droite et connu pour avoir publié de fausses informations : il a notamment inventé des fausses citations et relayé des théories conspirationnistes, par exemple, sur l'attentat de « Charlie Hebdo ».",
+      "Médias Presse Info",
+      "medias-presse-info"
+    ],
+    "830": [
+      3,
+      "Un site dont les auteurs se revendiquent « fiers de ne pas être des journalistes » et défendent le fait d'écrire pour « défendre [leurs] idées », orientées à droite. Militant et peu fiable, il véhicule parfois de fausses informations.",
+      "24 heures actu",
+      "24-heures-actu"
+    ],
+    "831": [
+      3,
+      "Un site qui propose des réflexions critiques sur l'économie, l'environnement et la société. Il reprend des informations de sources variées, pour beaucoup peu fiables, comme des théories conspirationnistes présentées sans distanciation.",
+      "4emesinge",
+      "4emesinge"
+    ],
+    "832": [
+      3,
+      "La branche « jeunes » du Bloc identitaire, groupuscule d'extrême droite, qui relaie régulièrement des informations trompeuses ou erronées sur les réseaux sociaux.",
+      "Génération Identitaire",
+      "generation-identitaire"
+    ],
+    "833": [
+      3,
+      "Le « 20 minutes » suisse, moins fiable que le titre français, à l'origine de plusieurs fausses informations. Le site a par exemple accusé, à tort, un lutteur français d'avoir dédié sa victoire aux terroristes Salah Abdeslam et Mohamed Merah.",
+      "20min.ch",
+      "20min-ch"
+    ],
+    "834": [
+      3,
+      "Une page Facebook traitant de « terrorisme, police, sécurité », mais qui relaie des informations sans vérification.",
+      "Actu17",
+      "actu17"
+    ],
+    "835": [
+      3,
+      "Un site qui se présente comme une agence de presse classique, mais est proche de l'extrême droite  et relaie des théories conspirationnistes.",
+      "Agence Info Libre",
+      "agence-info-libre"
+    ],
+    "836": [
+      3,
+      "Al-Kanz, essentiellement animé par une seule personne, publie des articles et des tribunes sur toute actualité relative à la culture musulmane, en reprenant, sans toujours les vérifier, des informations de sources variées sur cette thématique.",
+      "Al Kanz",
+      "al-kanz"
+    ],
+    "837": [
+      3,
+      "Un site Internet américain orienté à gauche, à lire avec prudence, car il mélange articles satiriques et « vrais » articles.",
+      "American News X",
+      "american-news-x"
+    ],
+    "838": [
+      3,
+      "Un site Internet qui publie ses propres analyses et reprend des informations de divers sites et contributeurs, pour certains peu fiables comme Sputnik News ou Pravda.ru. A prendre avec des pincettes.",
+      "Arret sur Info",
+      "arret-sur-info"
+    ],
+    "839": [
+      3,
+      "Un site américain connu pour avoir posté de fausses informations, notamment sur une comète censée engendrer le « chaos » sur Terre en 2015.",
+      "Before it's news",
+      "before-it-s-news"
+    ],
+    "840": [
+      3,
+      "Un site américain orienté clairement à gauche, qui publie parfois des informations trompeuses et/ou approximatives.",
+      "Being Liberal",
+      "being-liberal"
+    ],
+    "841": [
+      3,
+      "Un site américain orienté à gauche qui publie parfois des informations trompeuses ou exagérées.",
+      "Bipartisan Report",
+      "bipartisan-report"
+    ],
+    "842": [
+      3,
+      "Un site créé par le maire de Béziers, Robert Ménard, soutenu par le FN, qui a plusieurs fois publié ou relayé de fausses informations.",
+      "Boulevard Voltaire",
+      "boulevard-voltaire"
+    ],
+    "843": [
+      3,
+      "Un site d'information américain qui relaye régulièrement des informations sans vérification ni précision de la source et diffuse parfois de fausses informations.",
+      "Brandon Tuberville",
+      "brandon-tuberville"
+    ],
+    "844": [
+      3,
+      "Un site Internet américain de droite extrême qui relaie régulièrement des informations fausses. Son ancien directeur, Steve Bannon, est désormais conseiller de Donald Trump.",
+      "Breitbart",
+      "breitbart"
+    ],
+    "845": [
+      3,
+      "Une sorte de réplique du site américain BuzzFeed aux titres souvent racoleurs, qui publie de nombreuses informations non vérifiées, déformées ou exagérées.",
+      "Buzzfil",
+      "buzzfil"
+    ],
+    "846": [
+      3,
+      "Un site Internet catholique traditionaliste qui veut recenser les actes « christianophobes », d'importance variée, partout dans le monde, sans les vérifier. Il vaut donc mieux recouper cette source avec d'autres.",
+      "Christianophobie",
+      "christianophobie"
+    ],
+    "848": [
+      3,
+      "Un site qui relaie des informations de manière trompeuse et de fausses rumeurs sur l'immigration ou le mariage gay.",
+      "Contre-Info",
+      "contre-info"
+    ],
+    "849": [
+      3,
+      "Un site Internet participatif proche de la mouvance libertarienne, qui comporte surtout des tribunes et a parfois relayé de fausses informations, comme des fausses citations de ministres.",
+      "Contrepoints",
+      "contrepoints"
+    ],
+    "850": [
+      3,
+      "Un think tank libéral et une association qui milite pour des baisses d'impôts drastiques et diffuse parfois des informations approximatives, voire erronées, pour défendre ses idées.",
+      "Contribuables",
+      "contribuables"
+    ],
+    "851": [
+      3,
+      "Un média américain qui veut publier des informations à « scandale » de manière radicale. Un positionnement qui peut l'amener à soutenir des théories conspirationnistes, comme dans le cas du prétendu jugement qui aurait « blanchi » Slobodan Milosevic.",
+      "Counterpunch",
+      "counterpunch"
+    ],
+    "852": [
+      3,
+      "Un tabloïd britannique, qui présente souvent les faits de manière racoleuse ou exagérée.",
+      "DailyMail",
+      "dailymail"
+    ],
+    "853": [
+      3,
+      "Un site se présentant comme « média global de divertissement français ». Il est spécialisé dans les contenus « insolites », mais se contente en général de reprises plus ou moins fidèles, et diffuse parfois des informations fausses ou déformées.",
+      "Demotivateur",
+      "demotivateur"
+    ],
+    "854": [
+      3,
+      "Un site Internet consacré à la santé et au bien-être. Attention : certains articles sont signés par des médecins, d'autres non. A distinguer des forums du site, qui eux sont alimentés par des internautes.",
+      "Doctissimo",
+      "doctissimo"
+    ],
+    "855": [
+      3,
+      "Un blog américain conservateur qui agrège des informations de nombreuses sources. Il a relayé nombre de fausses rumeurs et affirmations approximatives.",
+      "Drudge Report",
+      "drudge-report"
+    ],
+    "856": [
+      3,
+      "Un site d'extrême droite lancé par Jean Robin, un ancien proche de la figure d'extrême droite Alain Soral, plusieurs fois condamné, et qui publie des informations de nature militante, parfois conspirationniste, sans toujours les sourcer et les vérifier.",
+      "Enquête & Débat",
+      "enquete-debat"
+    ],
+    "857": [
+      3,
+      "Le site d'un ex-enseignant, qui s'était fait connaître par son opposition au référendum européen de 2005. Il se définit comme « révolutionnaire », veut réformer la Constitution, et diffuse parfois des théories conspirationnistes, notamment sur des « agents de l'étranger » ou un « nouvel ordre mondial », sans preuve ni vérification.",
+      "Blog du \"Plan C\", par Etienne Chouard",
+      "blog-du-plan-c-par-etienne-chouard"
+    ],
+    "858": [
+      3,
+      "Le site d'un ex-enseignant, qui s'était fait connaître par son opposition au référendum européen de 2005. Il se définit comme « révolutionnaire », veut réformer la Constitution, et diffuse parfois des théories conspirationnistes, notamment sur des « agents de l'étranger » ou un « nouvel ordre mondial », sans preuve ni vérification.",
+      "Etienne Chouard",
+      "etienne-chouard"
+    ],
+    "859": [
+      3,
+      "Un site d'opinion, hostile à l'islam, qui publie parfois de fausses informations.",
+      "Eurocalifat",
+      "eurocalifat"
+    ],
+    "860": [
+      3,
+      "Un journal indépendant de gauche, situé à Amiens, dirigé par François Ruffin, réalisateur du film « Merci patron », avec une ligne éditoriale militante et un parti pris clairement revendiqué.",
+      "Fakir",
+      "fakir"
+    ],
+    "861": [
+      3,
+      "Un blog d'extrême droite fondé par un ancien cadre du Front national, Pierre Sautarel. Le site produit peu d'informations lui-même, mais il est alimenté par une sorte de « revue de presse », principalement axée autour de thèmes chers à l'extrême droite (immigration, identité, faits divers...). Si la plupart des sources utilisées sont fiables, la présentation des faits par le site est souvent trompeuse. Il relaie également parfois des rumeurs non vérifiées, sur un ton interrogatif.",
+      "Fdesouche",
+      "fdesouche"
+    ],
+    "862": [
+      3,
+      "Un « magazine d'informations locales » dirigé par une élue locale non inscrite, anciennement membre du MoDem.",
+      "Herault Tribune",
+      "herault-tribune"
+    ],
+    "863": [
+      3,
+      "Un site consacré notamment aux séries et aux jeux vidéo, avec un traitement parfois approximatif de l'actualité.",
+      "Hitek",
+      "hitek"
+    ],
+    "864": [
+      3,
+      "Un site Internet racoleur spécialisé dans les contenus « insolites » rarement vérifiés.",
+      "Humour de mecs",
+      "humour-de-mecs"
+    ],
+    "865": [
+      3,
+      "Un site chrétien et spirituel qui reprend des informations sans toujours les vérifier et renvoie parfois vers des sources non fiables.",
+      "Info Chrétienne",
+      "info-chretienne"
+    ],
+    "866": [
+      3,
+      "Un fil d'actualité sur Twitter animé par des journalistes, qui relaie de nombreuses informations de sources diverses, mais ne vérifie pas toujours et commet parfois des erreurs dans la précipitation.",
+      "Infos 140",
+      "infos-140"
+    ],
+    "867": [
+      3,
+      "Un site militant pro-israélien qui défend des thèses opposées à un Etat palestinien et favorables à la colonisation, diffusant également des informations non sourcées et approximatives.",
+      "JSS News",
+      "jss-news"
+    ],
+    "868": [
+      4,
+      "Un site d'information et de divertissement français. Le site publie ses propres informations, mais reprend parfois des informations approximatives ou fausses venant d'autres sites.",
+      "Konbini",
+      "konbini"
+    ],
+    "869": [
+      3,
+      "Un site d'extrême gauche et anti extrême droite, dont les contenus proviennent souvent de militants sans être vérifiés.",
+      "La Horde",
+      "la-horde"
+    ],
+    "870": [
+      3,
+      "Un site animé par le journaliste scientifique Thierry Souccar, qui publie également des ouvrages avec la maison d'édition portant son nom. Le site Internet prend position contre la vaccination avec des arguments erronés. Le site relaie les thèses d'Henri Joyeux, chef de file des « anti-vaccination », radié de l'ordre des médecins en 2016, notamment pour « des manquements d'une extrême gravité au code de déontologie ».",
+      "La Nutrition",
+      "la-nutrition"
+    ],
+    "871": [
+      3,
+      "Un site Internet racoleur qui revendique que le « bouche à oreille est le meilleur des médias ».",
+      "La Zappeuse Folle",
+      "la-zappeuse-folle"
+    ],
+    "872": [
+      3,
+      "Un site d'extrême droite qui donne un regard militant sur l'information, par exemple au sujet de l'évacuation de l'église Sainte-Rita en août 2016.",
+      "Le Bréviaire des patriotes",
+      "le-breviaire-des-patriotes"
+    ],
+    "873": [
+      3,
+      "Un site orienté à l'extrême droite, qui publie des informations militantes et pas toujours vérifiées.",
+      "Le Journal du siècle",
+      "le-journal-du-siecle"
+    ],
+    "874": [
+      3,
+      "Un site orienté à l'extrême droite. qui publie des informations militantes et pas toujours vérifiées.",
+      "Le Libre Penseur",
+      "le-libre-penseur"
+    ],
+    "875": [
+      3,
+      "Un site de divertissement français, spécialisé dans les contenus « insolites » et trash.",
+      "Le Tribunal du Net",
+      "le-tribunal-du-net"
+    ],
+    "876": [
+      3,
+      "Un site qui, comme son nom l'indique, appartient à la mouvance identitaire et diffuse des informations orientées à l'extrême droite.",
+      "Les Identitaires",
+      "les-identitaires"
+    ],
+    "877": [
+      3,
+      "Un fil d'actualité sur Twitter qui relaie de nombreuses informations de sources diverses, mais commet parfois des erreurs dans la précipitation.",
+      "Les News",
+      "les-news"
+    ],
+    "878": [
+      3,
+      "Un site Internet destiné aux jeunes créé en 2008, qui relaye parfois des informations non vérifiées.",
+      "Melty",
+      "melty"
+    ],
+    "879": [
+      3,
+      "Une Web TV orientée à l'extrême droite. qui publie des informations militantes et pas toujours vérifiées.",
+      "MetaTV",
+      "metatv"
+    ],
+    "880": [
+      3,
+      "Un site de divertissement francophone, spécialisé dans les contenus « insolites » et « buzz ».",
+      "Millennium Buzz",
+      "millennium-buzz"
+    ],
+    "881": [
+      3,
+      "Un journal d'extrême droite condamné à plusieurs reprises par la justice pour des propos racistes, homophobes ou encore des faits de diffamation.",
+      "Minute",
+      "minute"
+    ],
+    "882": [
+      3,
+      "Un site de divertissement francophone, spécialisé dans les contenus « insolites » et « buzz ».",
+      "MinuteBuzz",
+      "minutebuzz"
+    ],
+    "883": [
+      3,
+      "Un site militant aux accents décroissants qui combat la société de consommation, mais relaie des informations parfois non vérifiées.",
+      "Mr Mondialisation",
+      "mr-mondialisation"
+    ],
+    "884": [
+      3,
+      "Un site de divertissement canadien, spécialisé dans les contenus « insolites » et « buzz ».",
+      "My Fun Buzz",
+      "my-fun-buzz"
+    ],
+    "885": [
+      3,
+      "Un des principaux tabloïds américains, qui publie des informations parfois approximatives sous des titres racoleurs ou trompeurs.",
+      "New York Post",
+      "new-york-post"
+    ],
+    "886": [
+      3,
+      "Un site qui se présente comme un « portail libéral-conservateur ». Issu de la mouvance d'extrême droite, le site ne vérifie pas ses sources et publie parfois des informations approximatives, par exemple sur le mariage homosexuel, affirmant à tort qu'il ouvrirait la voie à la polygamie ou à la zoophilie.",
+      "Nouvelles de France",
+      "nouvelles-de-france"
+    ],
+    "887": [
+      3,
+      "Un site orienté à l'extrême droite fondé par Fabrice Robert, du groupuscule Bloc identitaire. Il reprend sans vérification des informations trouvées sur Internet.",
+      "Novopress",
+      "novopress"
+    ],
+    "888": [
+      3,
+      "Un « magazine d'informations locales » dirigé par une élue locale non inscrite, anciennement membre du MoDem.",
+      "Occitanie Tribune",
+      "occitanie-tribune"
+    ],
+    "889": [
+      3,
+      "Un mouvement américain de gauche créé en opposition au Tea Party, qui diffuse parfois des informations biaisées ou erronées.",
+      "Occupy Democrats",
+      "occupy-democrats"
+    ],
+    "890": [
+      3,
+      "Un site qui se présente comme un observatoire des médias. Il est en fait tenu par deux figures de l'extrême droite et publie des portraits virulents et souvent mensongers de journalistes, sans jamais les contacter.",
+      "OJIM",
+      "ojim"
+    ],
+    "891": [
+      3,
+      "Un compte Twitter en anglais, issu d'un magazine allemand, et relayant des vidéos hors contexte ou antidatées autour de l'islam et des migrants.",
+      "OnlineMagazin",
+      "onlinemagazin"
+    ],
+    "892": [
+      3,
+      "Un site communautaire musulman qui a déjà véhiculé des fausses informations, notamment sur l'affaire Merah.",
+      "Oumma",
+      "oumma"
+    ],
+    "893": [
+      3,
+      "Un site militant qui se présente comme anticapitaliste, anti-autoritaire et révolutionnaire.",
+      "Paris Lutte Info",
+      "paris-lutte-info"
+    ],
+    "894": [
+      3,
+      "Un site de divertissement français, spécialisé dans les contenus « insolites » et décalés.",
+      "Pause Cafein",
+      "pause-cafein"
+    ],
+    "895": [
+      3,
+      "Un site de divertissement francophone, spécialisé dans les articles d'inspiration « positive », mais qui peut être approximatif et insuffisamment fiable sur certains sujets.",
+      "Positivr",
+      "positivr"
+    ],
+    "896": [
+      3,
+      "Un hebdomadaire de presse people, dont les informations ne sont pas forcément sourcées ou vérifiées, et qui a tendance à exagérer certains faits, notamment dans les titres, dans une démarche sensationnaliste. Par exemple, le site a relayé fin décembre 2016 un article relayant des rumeurs non vérifiées sur la mort de la reine Elizabeth II sous le titre : « Une source anonyme annonce sa mort... »",
+      "Public",
+      "public"
+    ],
+    "897": [
+      3,
+      "Un site et une page Facebook proches de l'ancien humoriste Dieudonné, condamné à de nombreuses reprises. Ils diffusent régulèrement de fausses informations.",
+      "Quenel Plus",
+      "quenel-plus"
+    ],
+    "898": [
+      3,
+      "Un radio orientée à l'extrême droite dirigée par Henry de Lesquen, raciste déclaré, et qui présente parfois des informations de manière trompeuse.",
+      "Radio Courtoisie",
+      "radio-courtoisie"
+    ],
+    "899": [
+      3,
+      "Un site Internet lyonnais qui se présente comme faisant de l'information alternative, militante, orientée à l'extrême gauche.",
+      "Rebellyon",
+      "rebellyon"
+    ],
+    "900": [
+      3,
+      "Un journal d'extrême droite condamné à plusieurs reprises par la justice pour des propos racistes, antisémites ou encore des faits d'incitation à la haine raciale.",
+      "Rivarol",
+      "rivarol"
+    ],
+    "901": [
+      3,
+      "Un média en anglais spécialisé dans la création de vidéos qui appartient au média pro-russe Russia Today, une chaîne de télévision associée à un site d'information, financée par le pouvoir russe et créée en 2005 dans le but de donner une image plus favorable de Vladimir Poutine à l'étranger. Ce média explique qu'il relaie « la position russe », et peut présenter des enquêtes de qualité, mais présente le biais de toujours relayer des informations favorables à Moscou. Il a ainsi affirmé à tort que Slobodan Milosevic avait été blanchi par le tribunal pénal international, ou relayé de fausses informations sur des tortures au Bataclan le 13 novembre 2015.",
+      "Ruptly",
+      "ruptly"
+    ],
+    "902": [
+      3,
+      "Le blog de Jacques Sapir, économiste et directeur d'études à l'EHESS à Paris. Spécialiste de la Russie, opposé à la monnaie unique, partisan de la « démondialisation », il relaie parfois de fausses informations, niant la présence de soldats russes en Ukraine en 2014, pourtant établie.",
+      "Russeurope",
+      "russeurope"
+    ],
+    "903": [
+      3,
+      "Une chaîne de télévision associée un site d'information, financée par le pouvoir russe, créée en 2005 dans le but de donner une image plus favorable de Vladimir Poutine à l'étranger. Ce média explique qu'il relaie « la position russe », et peut présenter des enquêtes de qualité, mais présente le biais de toujours relayer des informations favorables à Moscou. Il a ainsi affirmé à tort que Slobodan Milosevic (dirigeant serbe proche de la Russie) avait été blanchi par le tribunal pénal international, ou relayé de fausses informations sur des tortures au Bataclan le 13 novembre 2015.",
+      "Russia Today",
+      "russia-today"
+    ],
+    "904": [
+      3,
+      "Une chaîne de télévision associée à un site d'information, financée par le pouvoir russe, créée en 2005 dans le but de donner une image plus favorable de Vladimir Poutine à l'étranger. Ce média peut présenter des enquêtes de qualité, mais présente le biais de toujours relayer des informations favorables à Moscou.",
+      "Russia Today (version française)",
+      "russia-today-version-francaise"
+    ],
+    "905": [
+      3,
+      "Un site dédié à la santé qui reprend des informations sans forcément les vérifier. Prudence, il ne s'agit pas d'avis médicaux.",
+      "Sante Ici",
+      "sante-ici"
+    ],
+    "906": [
+      3,
+      "Une page Facebook d'extrême droite, qui affiche son soutien à Marine Le Pen, et relaie des informations orientées.",
+      "Soutien National En Bleu Marine",
+      "soutien-national-en-bleu-marine"
+    ],
+    "907": [
+      3,
+      "Un média qui reprend l'actualité « insolite » et « buzz » ainsi que des vidéos en tous genres, parfois de manière racoleuse.",
+      "Spi0n",
+      "spi0n"
+    ],
+    "908": [
+      3,
+      "Site de l'agence de presse officielle russe. Son directeur a été directement nommé par Vladimir Poutine sur décret. Il propage régulièrement de fausses informations.",
+      "Sputniknews",
+      "sputniknews"
+    ],
+    "909": [
+      3,
+      "Site de l'agence de presse officielle russe, dans sa version française. Son directeur a été directement nommé par Vladmir Poutine sur décret. Il propage régulièrement de fausses informations.",
+      "Sputniknews FR",
+      "sputniknews-fr"
+    ],
+    "910": [
+      3,
+      "Le site qui fait la promotion du prédicateur musulman du même nom, qui commente régulièrement l'actualité.",
+      "Tariq Ramadan",
+      "tariq-ramadan"
+    ],
+    "911": [
+      3,
+      "Un blog alimenté par le journaliste très controversé Jean-Paul Ney, connu pour ses informations fausses ou dangereuses. Il avait ainsi publié l'identité d'une personne qu'il accusait de faire partie du commando terroriste qui a frappé la rédaction de « Charlie Hebdo », ce qui s'est avéré faux.",
+      "The Disruptive",
+      "the-disruptive"
+    ],
+    "912": [
+      3,
+      "Un site Internet qui relaie parfois des informations trompeuses. A prendre avec des pincettes.",
+      "The Mind Unleashed",
+      "the-mind-unleashed"
+    ],
+    "913": [
+      3,
+      "Le site Internet d'une organisation américaine orientée à gauche, qui est notamment favorable aux réductions des inégalités.",
+      "The Other 98%",
+      "the-other-98"
+    ],
+    "914": [
+      3,
+      "Un site de la mouvance La Manif pour tous consacré à la critique de la théorie du genre, souvent avec des arguments fallacieux.",
+      "Théorie du genre",
+      "theorie-du-genre"
+    ],
+    "915": [
+      3,
+      "Un site de divertissement français spécialisé dans les classements, au ton léger, mais qui ne peut pas être pris comme une source sérieuse car certaines informations peuvent être erronées.",
+      "Topito",
+      "topito"
+    ],
+    "916": [
+      3,
+      "Un site et surtout une plateforme vidéo très proche de l'extrême droite, qui reçoit régulièrement des figures de cette dernière et diffuse des informations militantes ou biaisées.",
+      "TV Libertés",
+      "tv-libertes"
+    ],
+    "918": [
+      3,
+      "Un site prorusse et orienté à l'extrême droite, qui reprend des informations de sources diverses sans les vérifier, certaines s'avérant fausses.",
+      "Ze Journal",
+      "ze-journal"
+    ],
+    "919": [
+      3,
+      "Un site américain très orienté, pro-démocrates, qui diffuse parfois des informations racoleuses ou déformées.",
+      "Addictinginfo",
+      "addictinginfo"
+    ],
+    "920": [
+      3,
+      "Une encyclopédie collaborative calquée sur le modèle de Wikipédia, mais qui souhaite défendre les idées libérales et libertariennes. Un positionnement assumé et clairement affiché qui engendre néanmoins des biais dans de nombreux articles de l'encyclopédie.",
+      "Wikibéral",
+      "wikiberal"
+    ],
+    "921": [
+      3,
+      "Un site d'extrême droite qui relaie majoritairement des articles favorables au Front national.",
+      "NationsPresse.info",
+      "nationspresse-info"
+    ],
+    "922": [
+      3,
+      "Un site Internet qui publie des analyses tranchées sur des sujets variés, signées d'experts de divers horizons, mais qui peuvent néanmoins être parfois trompeuses ou erronées.",
+      "Les éconoclastes",
+      "les-econoclastes"
+    ],
+    "923": [
+      3,
+      "Un blog qui reprend des articles d'information de sources variées, parfois peu fiables.",
+      "Info et Secret",
+      "info-et-secret"
+    ],
+    "925": [
+      3,
+      "Un site qui se présente comme un « média social féminin » édité par le groupe Cerise, racheté par le groupe Prisma Media en 2016. Il revendique faire de « l'infotainement », forme de traitement de l'information par le divertissement, et pas de l'actualité à proprement parler.  Il diffuse des informations sous un angle parfois racoleur, avec des titres sensationnalistes voire trompeurs.",
+      "Ohmymag",
+      "ohmymag"
+    ],
+    "926": [
+      3,
+      "Un site qui se présente comme un « portail masculin » édité par le groupe Cerise, racheté par le groupe Prisma Media en 2016.. Il revendique faire de « l'infotainement », forme de traitement de l'information par le divertissement, et pas de l'actualité à proprement parler. Il diffuse des informations sous un angle parfois racoleur, avec des titres sensationnalistes voire trompeurs.",
+      "Gentside",
+      "gentside"
+    ],
+    "928": [
+      3,
+      "Un site internet dédié à l'actualité médiatique créé par le journaliste controversé Jean-Marc Morandini. Condamné pour plagiat en 2012 pour des reprises « intensives » du site du « Point », le site reprend de nombreuses rumeurs sans les vérifier. A prendre avec des pincettes.",
+      "Jean-Marc Morandini",
+      "jean-marc-morandini"
+    ],
+    "929": [
+      3,
+      "Le site santé qui porte le nom du journaliste médias controversé Jean-Marc Morandini. Comme le site médias de ce dernier, condamné pour plagiat en 2012, le site est alimenté par des copies d'articles d'autres sites, comme le montre une enquête du site BuzzFeed. Il diffuse également des informations peu fiables. A prendre avec des pincettes.",
+      "Morandini Santé",
+      "morandini-sante"
+    ],
+    "930": [
+      4,
+      "Un site américain en ligne, d'orientation plutôt libérale (sur le plan sociétal), appartenant au groupe IAC.",
+      "The Daily Beast",
+      "the-daily-beast"
+    ],
+    "931": [
+      4,
+      "\"Un magazine mensuel français qui parle de consommation et de vie quotidienne, édité par Fleurus Presse..\"",
+      "Réponse à tout",
+      "reponse-a-tout"
+    ],
+    "932": [
+      3,
+      "Un hebdomadaire d'information généraliste positionné politiquement à droite. Le magazine a été condamné pour provocation à la haine raciale envers les Roms en 2015 après sa couverture « Roms : l'overdose ». Le site Internet et le journal mentionnent clairement leurs sources et publient des informations vérifiées mais certaines enquêtes ou reprises d'autres médias sont à prendre avec précaution.",
+      "Valeurs actuelles",
+      "valeurs-actuelles"
+    ],
+    "933": [
+      4,
+      "Un quotidien gratuit et site Internet d'information généraliste qui appartient à Rossel et Sipa-Ouest France depuis 2016.",
+      "20 Minutes",
+      "20-minutes"
+    ],
+    "934": [
+      4,
+      "Le site de la chaîne d'information américaine ABC News.",
+      "ABC",
+      "abc"
+    ],
+    "935": [
+      4,
+      "L'Agence France-Presse (AFP) est la principale agence de presse généraliste française, implantée dans environ 195 pays. La vérification de ses informations et la mention systématique des sources sont parmi ses principaux piliers, lui donnant une très grande fiabilité en règle générale.",
+      "AFP",
+      "afp"
+    ],
+    "936": [
+      4,
+      "Chaîne de télévision arabe, propriété du Qatar, qui émet notamment en arabe et en anglais.",
+      "Al Jazeera",
+      "al-jazeera"
+    ],
+    "937": [
+      4,
+      "Un média d'information de la chaîne de télévision arabe Al Jazeera (propriété du Qatar), qui diffuse des contenus d'information pensés pour les réseaux sociaux, principalement des vidéos.",
+      "AJ+",
+      "aj"
+    ],
+    "938": [
+      4,
+      "Un site Internet américain, plutôt classé à gauche, créé par Don Hazen, ancien rédacteur en chef de Mother Jones.",
+      "Alternet",
+      "alternet"
+    ],
+    "939": [
+      4,
+      "Le site officiel de l'assurance-maladie.",
+      "Ameli",
+      "ameli"
+    ],
+    "940": [
+      4,
+      "Un site Internet d'information et d'analyse des médias, né après la suppression de l'émission du même nom sur France 5.",
+      "Arrêt sur images",
+      "arret-sur-images"
+    ],
+    "941": [
+      4,
+      "Chaîne de télévision culturelle de service public franco-allemande.",
+      "Arte",
+      "arte"
+    ],
+    "942": [
+      4,
+      "Un quotidien et site Internet japonais, l'un des principaux titres du pays, classé politiquement au centre gauche, et clairement pacifiste.",
+      "Asahi Shinbun",
+      "asahi-shinbun"
+    ],
+    "943": [
+      4,
+      "Associated Press (AP) est l'une des principales agences de presse généralistes mondiales, qui diffuse de manière générale des informations vérifiées en précisant systématiquement ses sources.",
+      "Associated Press",
+      "associated-press"
+    ],
+    "944": [
+      4,
+      "Un pure player français d'orientation libérale et conservatrice. Le site est à l'origine de plusieurs scoops comme les enregistrements secrets de Nicolas Sarkozy par son ancien conseiller Patrick Buisson, mais a plusieurs fois repris des informations sans vérification.",
+      "Atlantico",
+      "atlantico"
+    ],
+    "945": [
+      4,
+      "Un groupe de radio-télévision britannique qui diffuse à l'international, réputé pour son sérieux.",
+      "BBC",
+      "bbc"
+    ],
+    "946": [
+      4,
+      "Un hebdomadaire féminin.",
+      "Be",
+      "be"
+    ],
+    "947": [
+      4,
+      "Chaîne de télévision d'information en continu, propriété du groupe NextRadio TV.",
+      "BFMTV",
+      "bfmtv"
+    ],
+    "948": [
+      4,
+      "Un magazine mensuel féminin.",
+      "Biba",
+      "biba"
+    ],
+    "949": [
+      4,
+      "Un grand groupe de presse américain qui regroupe notamment une agence de presse (Bloomberg News) et une chaîne de télévision (Bloomberg TV). Toutes deux sont spécialisées dans les informations économiques et financières.",
+      "Bloomberg",
+      "bloomberg"
+    ],
+    "950": [
+      4,
+      "Un portail d'information qui appartient au même groupe que la banque en ligne du même nom, dont la Société générale est actionnaire.",
+      "Boursorama",
+      "boursorama"
+    ],
+    "951": [
+      4,
+      "Un site Web d'information consacré à l'information économique décliné en plusieurs langues, et propriété du groupe allemand Axel Springer.",
+      "Business Insider",
+      "business-insider"
+    ],
+    "952": [
+      4,
+      "La version française de Business Insider, un site Web d'information consacré à l'information économique propriété du groupe allemand Axel Springer.",
+      "Business Insider France",
+      "business-insider-france"
+    ],
+    "953": [
+      4,
+      "Un site d'information et de divertissement américain décliné dans plusieurs pays.",
+      "BuzzFeed",
+      "buzzfeed"
+    ],
+    "954": [
+      4,
+      "Chaîne de télévision généraliste privée et en partie payante, principalement axée sur le cinéma et le sport. Le groupe Canal + est une filiale du groupe Vivendi, dirigé par Vincent Bolloré.",
+      "Canal+",
+      "canal"
+    ],
+    "955": [
+      4,
+      "Un magazine mensuel qui traite l'actualité économique.",
+      "Capital",
+      "capital"
+    ],
+    "956": [
+      4,
+      "Un quotidien et site Internet régional qui appartient au groupe Sud Ouest.",
+      "Centre Presse Aveyron",
+      "centre-presse-aveyron"
+    ],
+    "957": [
+      4,
+      "Un magazine hebdomadaire économique.",
+      "Challenges",
+      "challenges"
+    ],
+    "958": [
+      4,
+      "Un quotidien et site Internet régional qui appartient au groupe Sud Ouest.",
+      "Charente libre",
+      "charente-libre"
+    ],
+    "959": [
+      4,
+      "Un des principaux quotidiens d'information américain, qui couvre l'actualité de Chicago et de l'Illinois.",
+      "Chicago Tribune",
+      "chicago-tribune"
+    ],
+    "960": [
+      4,
+      "CNN est un réseau américain de chaînes d'information et de sites Internet, qui appartient à CNN News Group et diffuse dans le monde entier via CNN International.",
+      "CNN",
+      "cnn"
+    ],
+    "961": [
+      4,
+      "Un site d'information dédié à la politique française et européenne.",
+      "Contexte",
+      "contexte"
+    ],
+    "962": [
+      4,
+      "Un quotidien et site Internet italien, parmi les principaux titres du pays, considéré comme ni franchement de droite, ni franchement de gauche.",
+      "Corriere della Sera",
+      "corriere-della-sera"
+    ],
+    "963": [
+      4,
+      "Un quotidien et site Internet régional qui appartient au groupe La Provence.",
+      "Corse-Matin",
+      "corse-matin"
+    ],
+    "964": [
+      4,
+      "Un magazine féminin.",
+      "Cosmopolitan",
+      "cosmopolitan"
+    ],
+    "965": [
+      4,
+      "Un hebdomadaire d'actualité centré principalement sur les informations internationales, qui reprend de nombreux articles traduits de la presse étrangère, propriété du groupe Le Monde.",
+      "Courrier international",
+      "courrier-international"
+    ],
+    "966": [
+      4,
+      "Un site de vérification des rumeurs, focalisé sur celles qui émanent de l'extrême droite. Le site est en principe plutôt fiable, mais adopte un positionnement politique et un ton très tranchés.",
+      "Debunkers de hoax",
+      "debunkers-de-hoax"
+    ],
+    "967": [
+      4,
+      "Un des principaux quotidiens d'information sur Denver et le Colorado.",
+      "Denver Post",
+      "denver-post"
+    ],
+    "968": [
+      4,
+      "Un magazine d'enquête et site d'information allemand, plutôt classé politiquement au centre gauche.",
+      "Der Spiegel",
+      "der-spiegel"
+    ],
+    "969": [
+      4,
+      "Un quotidien et site d'information allemand, plutôt classé au centre gauche et libéral sur le plan sociétal.",
+      "Der Standard",
+      "der-standard"
+    ],
+    "970": [
+      4,
+      "Un quotidien et site Internet régional qui appartient au groupe BFCM.",
+      "Dernières Nouvelles d'Alsace",
+      "dernieres-nouvelles-d-alsace"
+    ],
+    "971": [
+      4,
+      "Un journal et site Internet allemand orienté à gauche, à tendance féministe, écologiste et pacifiste.",
+      "Die Tageszeitung",
+      "die-tageszeitung"
+    ],
+    "972": [
+      4,
+      "Un quotidien gratuit et site Internet d'information généraliste qui appartient au groupe de médias de Vincent Bolloré, également propriétaire de Canal +.",
+      "Direct matin",
+      "direct-matin"
+    ],
+    "973": [
+      4,
+      "Un hebdomadaire féminin.",
+      "Elle",
+      "elle"
+    ],
+    "974": [
+      4,
+      "Chaîne de télévision européenne d'information en plusieurs langues.",
+      "Euronews",
+      "euronews"
+    ],
+    "975": [
+      4,
+      "Radio publique généraliste privée, propriété du groupe Lagardère.",
+      "Europe 1",
+      "europe-1"
+    ],
+    "976": [
+      4,
+      "Un magazine hebdomadaire féminin du groupe Prisma Media.",
+      "Femme actuelle",
+      "femme-actuelle"
+    ],
+    "977": [
+      4,
+      "Un quotidien britannique, l'un des plus connus sur le secteur de l'économie et des finances. Prisé des banquiers et des institutions financières, le titre est souvent présenté comme « le journal de la City ».",
+      "Financial Times",
+      "financial-times"
+    ],
+    "978": [
+      4,
+      "Chaîne de télévision publique généraliste française.",
+      "France 2",
+      "france-2"
+    ],
+    "979": [
+      4,
+      "Chaîne de télévision publique d'information internationale en continu, diffusée dans plus de 180 pays.",
+      "France 24",
+      "france-24"
+    ],
+    "980": [
+      4,
+      "Chaîne de télévision publique généraliste française à vocation régionale.",
+      "France 3",
+      "france-3"
+    ],
+    "981": [
+      4,
+      "Chaîne de télévision publique généraliste française.",
+      "France 5",
+      "france-5"
+    ],
+    "982": [
+      4,
+      "Réseau de radio publique d'information locale déclinée en 45 radios de proximité.",
+      "France Bleu",
+      "france-bleu"
+    ],
+    "983": [
+      4,
+      "Radio publique culturelle et de débats.",
+      "France Culture",
+      "france-culture"
+    ],
+    "986": [
+      4,
+      "Radio publique généraliste.",
+      "France Inter",
+      "france-inter"
+    ],
+    "987": [
+      4,
+      "Site Internet, télévision et radio d'actualité généraliste du groupe France Télévisions.",
+      "Franceinfo",
+      "franceinfo"
+    ],
+    "988": [
+      4,
+      "Un quotidien et site Internet allemand engagé dans la défense des droits de l'homme, des minorités et de l'environnement et classé politiquement sur une ligne à tendance social-libérale.",
+      "Frankfurter Rundschau",
+      "frankfurter-rundschau"
+    ],
+    "990": [
+      4,
+      "Un magazine mensuel féminin.",
+      "Glamour",
+      "glamour"
+    ],
+    "991": [
+      4,
+      "Un hebdomadaire féminin.",
+      "Grazia",
+      "grazia"
+    ],
+    "992": [
+      4,
+      "Une revue mensuelle de vulgarisation historique.",
+      "Historia",
+      "historia"
+    ],
+    "993": [
+      4,
+      "Un site américain spécialisé dans la vérification de rumeurs sur Internet.",
+      "Hoax Slayer",
+      "hoax-slayer"
+    ],
+    "994": [
+      4,
+      "Un site français spécialisé dans la vérification des canulars du Web.",
+      "Hoaxbuster",
+      "hoaxbuster"
+    ],
+    "995": [
+      4,
+      "Un des principaux quotidiens d'information sur la région de Houston, au Texas.",
+      "Houston Chronicle",
+      "houston-chronicle"
+    ],
+    "996": [
+      4,
+      "Un site Web d'information et de divertissement lancé aux Etats-Unis et décliné dans plusieurs pays. Le site est en grande partie alimenté par les articles de la rédaction. A différencier des tribunes et billets de blogs, identifiés sous l'étiquette « Les Blogs », en haut de la page. Les informations que vous trouverez dans ces articles relaient des opinions variées (politiques, experts...) et ont une connotation plus subjective qu'un article journalistique.",
+      "Huffington Post",
+      "huffington-post"
+    ],
+    "997": [
+      4,
+      "Journal économique américain publié en anglais, chinois, japonais et italien.",
+      "International Business Times",
+      "international-business-times"
+    ],
+    "998": [
+      4,
+      "Un tabloïd et site d'information irlandais, qui se concentre sur les faits divers, le sport et la vie des « people ».",
+      "Irish Daily Star",
+      "irish-daily-star"
+    ],
+    "999": [
+      4,
+      "Chaîne de télévision d'information en continu qui appartient au groupe Canal+. Le groupe est une filiale du groupe Vivendi, dirigé par le milliardaire Vincent Bolloré.",
+      "iTélé",
+      "itele"
+    ],
+    "1000": [
+      4,
+      "Un quotidien et site Internet régional qui appartient au groupe BFCM.",
+      "L'Alsace-Le Pays",
+      "l-alsace-le-pays"
+    ],
+    "1001": [
+      4,
+      "Un quotidien et site Internet régional français.",
+      "L'Echo",
+      "l-echo"
+    ],
+    "1002": [
+      4,
+      "Un quotidien et site Internet régional qui appartient au groupe Centre-France.",
+      "L'Echo républicain",
+      "l-echo-republicain"
+    ],
+    "1003": [
+      4,
+      "Un quotidien et site Internet, principal titre de la presse sportive française, qui appartient aux éditions Amaury.",
+      "L'Equipe",
+      "l-equipe"
+    ],
+    "1004": [
+      4,
+      "Un quotidien et site Internet régional qui appartient au groupe EBRA.",
+      "L'Est républicain",
+      "l-est-republicain"
+    ],
+    "1005": [
+      4,
+      "Un quotidien et site Internet régional qui appartient au groupe belge Rossel.",
+      "L'Est-Eclair",
+      "l-est-eclair"
+    ],
+    "1006": [
+      4,
+      "Un quotidien et site Internet régional qui appartient au groupe Centre-France.",
+      "L'Éveil de la Haute-Loire",
+      "l-eveil-de-la-haute-loire"
+    ],
+    "1007": [
+      4,
+      "Un hebdomadaire français d'actualité généraliste, propriété du milliardaire Patrick Drahi depuis 2015, via le groupe SFR Médias.",
+      "L'Express",
+      "l-express"
+    ],
+    "1008": [
+      4,
+      "Un quotidien d'information généraliste, ancien organe central du Parti communiste français, classé politiquement à la gauche de la gauche.",
+      "L'Humanité",
+      "l-humanite"
+    ],
+    "1009": [
+      4,
+      "Un quotidien et site Internet régional qui appartient au groupe Sud Ouest.",
+      "L'Indépendant",
+      "l-independant"
+    ],
+    "1010": [
+      4,
+      "Un site Web généraliste édité par CCM Benchamark Group (groupe Le Figaro), qui mélange information (principalement à travers des dépêches de l'AFP) et services pratiques (météo, dictionnaire...).",
+      "L'Internaute",
+      "l-internaute"
+    ],
+    "1011": [
+      4,
+      "Un hebdomadaire et site Internet d'actualité généraliste, positionné à gauche. Le journal a été racheté en 2014 par les hommes d'affaires Pierre Bergé, Xavier Niel et Mathieu Pigasse.",
+      "L'Obs",
+      "l-obs"
+    ],
+    "1012": [
+      4,
+      "Un quotidien et site Internet d'information généraliste qui se présente comme libéral et européen.",
+      "L'Opinion",
+      "l-opinion"
+    ],
+    "1013": [
+      4,
+      "Un quotidien et site Internet régional qui appartiennent au groupe belge Rossel.",
+      "L'Union",
+      "l-union"
+    ],
+    "1014": [
+      4,
+      "Un quotidien et site Internet régional sis à Auxerre et qui appartiennent au groupe Centre-France.",
+      "L'Yonne républicaine",
+      "l-yonne-republicaine"
+    ],
+    "1015": [
+      4,
+      "Un quotidien et site Internet catholique d'information généraliste qui appartient à Bayard Presse.",
+      "La Croix",
+      "la-croix"
+    ],
+    "1016": [
+      4,
+      "Un quotidien et site Internet régional qui appartient au groupe La Dépêche.",
+      "La Dépêche du Midi",
+      "la-depeche-du-midi"
+    ],
+    "1017": [
+      4,
+      "Un quotidien et site Internet marseillais, historiquement marqué à gauche.",
+      "La Marseillaise",
+      "la-marseillaise"
+    ],
+    "1018": [
+      4,
+      "Un quotidien et site Internet régional installé à Clermont-Ferrand et qui appartient au groupe Centre-France.",
+      "La Montagne",
+      "la-montagne"
+    ],
+    "1019": [
+      4,
+      "Un quotidien et site Internet régional qui appartiennent au groupe La Dépêche.",
+      "La Nouvelle République des Pyrénées",
+      "la-nouvelle-republique-des-pyrenees"
+    ],
+    "1020": [
+      4,
+      "Un quotidien et site Internet régional qui appartiennent au Groupe NRCO.",
+      "La Nouvelle République du Centre-Ouest",
+      "la-nouvelle-republique-du-centre-ouest"
+    ],
+    "1021": [
+      4,
+      "Un quotidien et site Internet régional qui appartiennent au groupe SIPA - Ouest-France.",
+      "La Presse de la Manche",
+      "la-presse-de-la-manche"
+    ],
+    "1022": [
+      4,
+      "Un quotidien et site Internet régional qui appartiennent à Bernard Tapie.",
+      "La Provence",
+      "la-provence"
+    ],
+    "1023": [
+      4,
+      "Un journal italien orienté à gauche, parmi les titres les plus vendus du pays, qui appartient en majorité au groupe L'Espresso.",
+      "La Repubblica",
+      "la-repubblica"
+    ],
+    "1024": [
+      4,
+      "Un quotidien et site Internet régional.",
+      "La République des Pyrénées",
+      "la-republique-des-pyrenees"
+    ],
+    "1025": [
+      4,
+      "Un quotidien et site Internet régional du Loiret, qui appartient au groupe Centre-France.",
+      "La République du Centre",
+      "la-republique-du-centre"
+    ],
+    "1026": [
+      4,
+      "Un journal économique qui appartient majoritairement au groupe Hima.",
+      "La Tribune",
+      "la-tribune"
+    ],
+    "1027": [
+      4,
+      "Un hebdomadaire catholique français qui fait partie du groupe Le Monde.",
+      "La Vie",
+      "la-vie"
+    ],
+    "1028": [
+      4,
+      "Un quotidien et site Internet régional qui appartient au groupe La Voix, filiale du groupe belge Rossel.",
+      "La Voix du Nord",
+      "la-voix-du-nord"
+    ],
+    "1029": [
+      4,
+      "Chaîne de télévision d'information en continu, propriété du groupe TF1.",
+      "LCI",
+      "lci"
+    ],
+    "1030": [
+      4,
+      "La chaîne de télévision de l'Assemblée nationale française.",
+      "LCP",
+      "lcp"
+    ],
+    "1031": [
+      4,
+      "Un quotidien et site Internet régional qui appartient au groupe Centre-France.",
+      "Le Berry républicain",
+      "le-berry-republicain"
+    ],
+    "1032": [
+      4,
+      "Un quotidien et site Internet régional qui appartient au groupe EBRA.",
+      "Le Bien public",
+      "le-bien-public"
+    ],
+    "1033": [
+      4,
+      "Un site créé après les émeutes de 2005 en France. Le site publie des reportages, interviews, portraits et affirme son objectif de « raconter les quartiers populaires et de faire entendre leur voix dans le grand débat national », dans une optique de journalisme citoyen.",
+      "Le Bondy Blog",
+      "le-bondy-blog"
+    ],
+    "1034": [
+      4,
+      "Hebdomadaire satirique français.",
+      "Le Canard enchaîné",
+      "le-canard-enchaine"
+    ],
+    "1035": [
+      4,
+      "Un quotidien et site Internet régional qui appartient au groupe SIPA - Ouest-France.",
+      "Le Courrier de l'Ouest",
+      "le-courrier-de-l-ouest"
+    ],
+    "1036": [
+      4,
+      "Un quotidien et site Internet régional qui appartient au groupe La Voix, filiale du groupe belge Rossel.",
+      "Le Courrier picard",
+      "le-courrier-picard"
+    ],
+    "1037": [
+      4,
+      "Un quotidien et site Internet régional qui appartient au groupe EBRA.",
+      "Le Dauphiné libéré",
+      "le-dauphine-libere"
+    ],
+    "1038": [
+      4,
+      "Un quotidien et site Internet d'information généraliste qui appartient à l'industriel Serge Dassault, classé politiquement à droite.",
+      "Le Figaro",
+      "le-figaro"
+    ],
+    "1039": [
+      4,
+      "Un quotidien et site Internet régional.",
+      "Le Journal de la Haute-Marne",
+      "le-journal-de-la-haute-marne"
+    ],
+    "1040": [
+      4,
+      "Un quotidien et site Internet régional qui appartient au groupe EBRA.",
+      "Le Journal de Saône-et-Loire",
+      "le-journal-de-saone-et-loire"
+    ],
+    "1041": [
+      4,
+      "Un quotidien et site Internet régional qui appartient au groupe Centre-France.",
+      "Le Journal du Centre",
+      "le-journal-du-centre"
+    ],
+    "1042": [
+      4,
+      "Un journal d'information généraliste publié le dimanche, propriété du groupe Lagardère.",
+      "Le Journal du dimanche",
+      "le-journal-du-dimanche"
+    ],
+    "1043": [
+      4,
+      "Un quotidien et site Internet régional qui appartient au groupe SIPA - Ouest-France.",
+      "Le Maine Libre",
+      "le-maine-libre"
+    ],
+    "1044": [
+      4,
+      "Un quotidien et site Internet d'information généraliste. Le groupe est détenu depuis 2010 par les hommes d'affaires Xavier Niel, Pierre Bergé et Matthieu Pigasse.",
+      "Le Monde",
+      "le-monde"
+    ],
+    "1045": [
+      4,
+      "Un journal mensuel français d'information et d'opinion, marqué à gauche.",
+      "Le Monde diplomatique",
+      "le-monde-diplomatique"
+    ],
+    "1046": [
+      4,
+      "Un journal hebdomadaire économique.",
+      "Le Nouvel Economiste",
+      "le-nouvel-economiste"
+    ],
+    "1047": [
+      4,
+      "Un quotidien et site Internet d'information généraliste détenu par le groupe de luxe LVMH, dirigé par le milliardaire Bernard Arnault.",
+      "Le Parisien-Aujourd’hui en France",
+      "le-parisien-aujourd-hui-en-france"
+    ],
+    "1048": [
+      4,
+      "Un hebdomadaire d'actualité généraliste classé à droite. Le titre appartient au milliardaire François Pinault via la holding Artémis.",
+      "Le Point",
+      "le-point"
+    ],
+    "1049": [
+      4,
+      "Un quotidien et site Internet régional qui appartient au groupe Centre-France.",
+      "Le Populaire du Centre",
+      "le-populaire-du-centre"
+    ],
+    "1050": [
+      4,
+      "Un quotidien et site Internet régional qui appartient au groupe EBRA.",
+      "Le Progrès",
+      "le-progres"
+    ],
+    "1051": [
+      4,
+      "Un quotidien et site Internet régional qui appartient au groupe BFCM (Banque fédérative du Crédit mutuel).",
+      "Le Républicain lorrain",
+      "le-republicain-lorrain"
+    ],
+    "1052": [
+      4,
+      "Un quotidien et site Internet régional qui appartient au groupe Télégramme.",
+      "Le Télégramme",
+      "le-telegramme"
+    ],
+    "1053": [
+      4,
+      "Un quotidien et site d'information suisse, plutôt classé au centre droit, et qui se présente comme le « quotidien de référence » de la Suisse romande et francophone.",
+      "Le Temps",
+      "le-temps"
+    ],
+    "1054": [
+      4,
+      "Un quotidien et un site d'informations économiques qui appartiennent à LVMH.",
+      "Les Echos",
+      "les-echos"
+    ],
+    "1055": [
+      4,
+      "« Les Inrockuptibles », ou « Les Inrocks », est un hebdomadaire culturel et généraliste politique français, propriété du milliardaire Matthieu Pigasse (également actionnaire à titre personnel du Monde).",
+      "Les Inrockuptibles",
+      "les-inrockuptibles"
+    ],
+    "1056": [
+      4,
+      "Un quotidien et site Internet d'information généraliste, classé politiquement à gauche. Il appartient au groupe SFR Médias du milliardaire Patrick Drahi depuis 2014.",
+      "Libération",
+      "liberation"
+    ],
+    "1057": [
+      4,
+      "Un quotidien et site Internet américain centrés sur l'actualité de Los Angeles et de la Californie.",
+      "Los Angeles Times",
+      "los-angeles-times"
+    ],
+    "1058": [
+      4,
+      "Chaîne de télévision généraliste française commerciale privée.",
+      "M6",
+      "m6"
+    ],
+    "1059": [
+      4,
+      "Le magazine féminin du « Figaro ».",
+      "Madame Figaro",
+      "madame-figaro"
+    ],
+    "1060": [
+      4,
+      "Le site du programme national nutrition santé du ministère de la santé.",
+      "Manger Bouger",
+      "manger-bouger"
+    ],
+    "1061": [
+      4,
+      "Un hebdomadaire d'actualité généraliste.",
+      "Marianne",
+      "marianne"
+    ],
+    "1062": [
+      4,
+      "Un magazine mensuel féminin.",
+      "Marie Claire",
+      "marie-claire"
+    ],
+    "1063": [
+      4,
+      "Un magazine mensuel féminin.",
+      "Marie France",
+      "marie-france"
+    ],
+    "1064": [
+      4,
+      "Un site d'actualité américain.",
+      "Mashable",
+      "mashable"
+    ],
+    "1065": [
+      4,
+      "La version française du site Internet américain « Mashable » avec la chaîne de télévision France 24.",
+      "Mashable avec France 24",
+      "mashable-avec-france-24"
+    ],
+    "1066": [
+      4,
+      "Un site Internet d'information et d'opinion indépendant créé en 2008.",
+      "Mediapart",
+      "mediapart"
+    ],
+    "1067": [
+      4,
+      "Un quotidien et site Internet régional qui appartient au groupe La Dépêche.",
+      "Midi Libre",
+      "midi-libre"
+    ],
+    "1068": [
+      4,
+      "Un magazine mensuel qui traite des questions économiques.",
+      "Mieux vivre votre argent",
+      "mieux-vivre-votre-argent"
+    ],
+    "1069": [
+      4,
+      "Radio publique à destination des jeunes.",
+      "Mouv'",
+      "mouv"
+    ],
+    "1070": [
+      4,
+      "Un des principaux quotidiens d'information américains.",
+      "New York Daily News",
+      "new-york-daily-news"
+    ],
+    "1071": [
+      4,
+      "Un quotidien et un site Internet régional qui appartient au groupe Nice-Matin.",
+      "Nice-Matin",
+      "nice-matin"
+    ],
+    "1072": [
+      3,
+      "Un site d'actualité politique en vidéo, avec un ton parfois racoleur, principalement dans les titres des articles.",
+      "Non-stop-politique",
+      "non-stop-politique"
+    ],
+    "1073": [
+      4,
+      "Un quotidien et un site Internet régional qui appartient au groupe La Voix, filiale du groupe belge Rossel.",
+      "Nord éclair",
+      "nord-eclair"
+    ],
+    "1074": [
+      4,
+      "Un site de l'association Regards Citoyens spécialisé dans la publication de données publique sur le Sénat et l'activité des députés.",
+      "Nos Députés",
+      "nos-deputes"
+    ],
+    "1075": [
+      4,
+      "Un site de l'association Regards Citoyens spécialisé dans la publication de données publique sur le Sénat et l'activité des sénateurs.",
+      "Nos Sénateurs",
+      "nos-senateurs"
+    ],
+    "1076": [
+      4,
+      "Un mensuel français qui s'adresse aux seniors et parle de retraite, de santé ou encore de voyages.",
+      "Notre temps",
+      "notre-temps"
+    ],
+    "1077": [
+      4,
+      "Un site Web d'actualité sur l'informatique et les questions liées au numérique.",
+      "Numerama",
+      "numerama"
+    ],
+    "1078": [
+      4,
+      "Un magazine mensuel consacré au football.",
+      "Onze mondial",
+      "onze-mondial"
+    ],
+    "1079": [
+      4,
+      "Un quotidien régional et son site Internet qui appartiennent au groupe SIPA - Ouest-France.",
+      "Ouest-France",
+      "ouest-france"
+    ],
+    "1080": [
+      4,
+      "Un hebdomadaire d'actualité et d'images, propriété du groupe Lagardère.",
+      "Paris Match",
+      "paris-match"
+    ],
+    "1081": [
+      4,
+      "Un quotidien régional et site Internet qui appartient à Xavier Ellie.",
+      "Paris-Normandie",
+      "paris-normandie"
+    ],
+    "1082": [
+      4,
+      "Un hebdomadaire catholique français.",
+      "Pèlerin",
+      "pelerin"
+    ],
+    "1083": [
+      4,
+      "Un hebdomadaire spécialisé dans la vie des familles royales.",
+      "Point de Vue",
+      "point-de-vue"
+    ],
+    "1084": [
+      4,
+      "Un site d'information américain consacré à l'actualité politique.",
+      "Politico",
+      "politico"
+    ],
+    "1085": [
+      4,
+      "La version européenne du site d'information américain du même nom, consacré à l'actualité politique européenne vue de Bruxelles.",
+      "Politico Europe",
+      "politico-europe"
+    ],
+    "1086": [
+      4,
+      "Hebdomadaire d'information généraliste proche de la gauche antilibérale et écologiste.",
+      "Politis",
+      "politis"
+    ],
+    "1087": [
+      4,
+      "Un magazine mensuel consacré au cinéma.",
+      "Première",
+      "premiere"
+    ],
+    "1088": [
+      4,
+      "Un quotidien régional et site Internet qui appartiennent au groupe SIPA - Ouest-France.",
+      "Presse-Océan",
+      "presse-ocean"
+    ],
+    "1089": [
+      4,
+      "Un magazine mensuel français.",
+      "Psychologies magazine",
+      "psychologies-magazine"
+    ],
+    "1090": [
+      4,
+      "Un site Internet d'information créé par l'ancien journaliste du « Monde » Hervé Kempf consacré à l'environnement et proche du mouvement écologiste.",
+      "Reporterre",
+      "reporterre"
+    ],
+    "1091": [
+      4,
+      "L'une des principales agences de presse généralistes mondiales.",
+      "Reuters",
+      "reuters"
+    ],
+    "1092": [
+      4,
+      "La station de radio publique française diffusée à l'international, en 14 langues.",
+      "RFI",
+      "rfi"
+    ],
+    "1093": [
+      4,
+      "Radio publique généraliste privée.",
+      "RTL",
+      "rtl"
+    ],
+    "1094": [
+      4,
+      "Un site Internet d'information et de débat sur l'actualité numérique rattaché à « L'Obs ».",
+      "Rue89",
+      "rue89"
+    ],
+    "1095": [
+      4,
+      "Un magazine mensuel de vulgarisation scientifique.",
+      "Science et Vie",
+      "science-et-vie"
+    ],
+    "1096": [
+      4,
+      "Un magazine mensuel de vulgarisation scientifique.",
+      "Sciences et Avenir",
+      "sciences-et-avenir"
+    ],
+    "1097": [
+      4,
+      "La version française du magazine généraliste américain en ligne.",
+      "Slate",
+      "slate"
+    ],
+    "1098": [
+      4,
+      "Un site américain spécialisé dans la vérification de rumeurs sur Internet.",
+      "Snopes",
+      "snopes"
+    ],
+    "1099": [
+      4,
+      "Un site d'information généraliste qui se présente comme un magazine urbain consacré aux jeunes vivant en Ile-de-France.",
+      "Streetpress",
+      "streetpress"
+    ],
+    "1100": [
+      4,
+      "Un quotidien régional et son site Internet qui appartiennent au groupe Sud Ouest.",
+      "Sud Ouest",
+      "sud-ouest"
+    ],
+    "1101": [
+      4,
+      "Un site d'information belge consacré à l'actualité généraliste, qui appartient au groupe Sudpresse, filiale du groupe Rossel.",
+      "Sudinfo.be",
+      "sudinfo-be"
+    ],
+    "1102": [
+      4,
+      "Un hebdomadaire télévision du groupe Lagardère Active.",
+      "Télé 7 jours",
+      "tele-7-jours"
+    ],
+    "1103": [
+      4,
+      "Un hebdomadaire télévision du groupe Prisma.",
+      "Télé Loisirs",
+      "tele-loisirs"
+    ],
+    "1104": [
+      4,
+      "Un hebdomadaire télévision du groupe Mondadori.",
+      "Télé Star",
+      "tele-star"
+    ],
+    "1105": [
+      4,
+      "Un hebdomadaire télévision des Editions Presse Magazine 2000.",
+      "Télé Z",
+      "tele-z"
+    ],
+    "1106": [
+      4,
+      "Un hebdomadaire télévision créé en 1990. On y trouve principalement des informations sur les émissions de télévision.",
+      "Télécâble Sat Hebdo",
+      "telecable-sat-hebdo"
+    ],
+    "1107": [
+      4,
+      "Un hebdomadaire culturel qui appartient au groupe Le Monde.",
+      "Télérama",
+      "telerama"
+    ],
+    "1108": [
+      4,
+      "Le site Internet de l'ancien magazine gay  « Têtu », disparu en 2015.",
+      "Têtu",
+      "tetu"
+    ],
+    "1109": [
+      4,
+      "Chaîne de télévision généraliste, propriété du groupe TF1, dont l'actionnaire principal est le groupe Bouygues.",
+      "TF1",
+      "tf1"
+    ],
+    "1110": [
+      4,
+      "Un des principaux quotidiens d'information britanniques.",
+      "The Daily Telegraph",
+      "the-daily-telegraph"
+    ],
+    "1111": [
+      4,
+      "Un hebdomadaire et un site Internet britanniques. D'orientation libérale, le site défend le libre échange, la mondialisation, l'immigration et le libéralisme culturel. La majorité de ses ventes est réalisée à l'extérieur du Royaume-Uni.",
+      "The Economist",
+      "the-economist"
+    ],
+    "1112": [
+      4,
+      "Un des principaux quotidiens d'information britanniques, orienté au centre gauche.",
+      "The Guardian",
+      "the-guardian"
+    ],
+    "1113": [
+      4,
+      "Un des principaux quotidiens écossais.",
+      "The Herald",
+      "the-herald"
+    ],
+    "1114": [
+      4,
+      "Un des principaux quotidiens britanniques, transformé en journal 100 % en ligne début 2016. Il a été racheté en mars 2010 par Alexander Lebedev, un homme d'affaires russe.",
+      "The Independent",
+      "the-independent"
+    ],
+    "1115": [
+      4,
+      "Un site Internet d'investigation, lancé dans la foulée des révélations d'Edward Snowden sur la NSA, l'agence nationale de sécurité américaine.",
+      "The Intercept",
+      "the-intercept"
+    ],
+    "1116": [
+      4,
+      "Un quotidien et site d'information américain, considéré comme un journal de référence.",
+      "The New York Times",
+      "the-new-york-times"
+    ],
+    "1117": [
+      4,
+      "Un journal du dimanche britannique, qui appartient au même groupe que « The Guardian ».",
+      "The Observer",
+      "the-observer"
+    ],
+    "1118": [
+      4,
+      "Un des principaux quotidiens britanniques, propriété du groupe News Corporation de Rupert Murdoch.",
+      "The Times",
+      "the-times"
+    ],
+    "1119": [
+      4,
+      "Quotidien économique américain, propriété du groupe News Corporation de Rupert Murdoch.",
+      "The Wall Street Journal",
+      "the-wall-street-journal"
+    ],
+    "1120": [
+      4,
+      "Journal américain basé à Washington, connu pour sa couverture politique et ses révélations. Il a été racheté en 2013 par le milliardaire Jeff Bezos, fondateur et PDG d'Amazon.",
+      "The Washington Post",
+      "the-washington-post"
+    ],
+    "1121": [
+      4,
+      "Le magazine télévision du « Figaro ».",
+      "TV Magazine",
+      "tv-magazine"
+    ],
+    "1122": [
+      4,
+      "Un des principaux quotidiens d'information américains.",
+      "USA Today",
+      "usa-today"
+    ],
+    "1123": [
+      4,
+      "Un quotidien régional et son site Internet qui appartiennent au groupe Nice-Matin.",
+      "Var-Matin",
+      "var-matin"
+    ],
+    "1124": [
+      4,
+      "Un magazine hebdomadaire féminin du groupe Lagardère Active.",
+      "Version Femina",
+      "version-femina"
+    ],
+    "1125": [
+      4,
+      "Un magazine et un site Internet consacrés à l'actualité et à la culture.",
+      "Vice",
+      "vice"
+    ],
+    "1126": [
+      4,
+      "La version française du magazine « Vice » et un site Internet consacré à l'actualité et à la culture.",
+      "Vice France",
+      "vice-france"
+    ],
+    "1127": [
+      4,
+      "Un quotidien régional et son site Internet qui appartiennent au groupe EBRA.",
+      "Vosges Matin",
+      "vosges-matin"
+    ],
+    "1128": [
+      4,
+      "Un site Web d'actualité sur les questions liés aux genres et aux communautés LGBT.",
+      "Yagg",
+      "yagg"
+    ],
+    "1129": [
+      4,
+      "Un blog juridique alimenté par un avocat au barreau de Paris sous le pseudonyme Maître Eolas. Il y publie ses analyses sur l'actualité du monde juridique, y commentant notamment de nombreuses décisions d'affaires ou y publiant son avis sur des projets de loi.",
+      "Maître Eolas",
+      "maitre-eolas"
+    ],
+    "1131": [
+      0,
+      "Le portail d'Orange consacré à l'actualité. Il agrège des contenus de différents sites. Il vaut donc mieux s'informer au cas par cas sur ces derniers pour en savoir plus.",
+      "Orange actu",
+      "orange-actu"
+    ],
+    "1133": [
+      1,
+      "Une page Facebook au ton humoristique qui se moque régulièrement de la droite et de l'extrême droite, notamment via de nombreux détournements sur les réseaux sociaux.",
+      "L'humour de droite",
+      "l-humour-de-droite"
+    ],
+    "1134": [
+      2,
+      "Jean-Paul Ney est un journaliste controversé, connu pour publier des informations sans forcément les vérifier. Il a notamment été condamné par le tribunal correctionnel de Paris pour « recel de violation du secret de l'enquête » après avoir diffusé le 7 janvier 2015 l'identité des frères Kouachi après l'attentat contre « Charlie Hebdo ». Le procureur de la République de Paris, François Molins, avait entre autres estimé que cette publication avait ruiné « tout espoir de surprise » dans la traque des deux terroristes. Jean-Paul Ney a également diffusé en mars 2016 sur les réseaux sociaux les coordonnées d'un homme, le présentant à tort comme auteur des attentats de Bruxelles.",
+      "Jean-Paul Ney",
+      "jean-paul-ney"
+    ],
+    "1135": [
+      2,
+      "Un site qui publie régulièrement des informations déformées, voire complètement trompeuses sur la santé, souvent sous des titres racoleurs. On y trouve par exemple de prétendues informations sur une boisson miracle pour « maigrir en 15 jours ! » ou sur un prétendu fruit caché au grand public « car il combat le cancer ». Autant d'informations qui sont pourtant, dans beaucoup de cas, démenties de longue date.",
+      "Santé + magazine",
+      "sante-magazine"
+    ],
+    "1136": [
+      2,
+      "Un site qui veut partager des « astuces naturelles » et des « recettes de grands-mères », mais relaie souvent des informations trompeuses ou déformées sur la santé, sous des titres souvent racoleurs, par exemple sur des « régimes incroyables » ou des remèdes miracles.",
+      "Astuces naturelles",
+      "astuces-naturelles"
+    ],
+    "1137": [
+      2,
+      "Un site de divertissement qui relaie des informations de sources variées, sans forcément les vérifier et sous des titres racoleurs.",
+      "Topibuzz",
+      "topibuzz"
+    ],
+    "1138": [
+      2,
+      "Une page Facebook qui relaie des informations de sites peu fiables, souvent sous des titres racoleurs.",
+      "Je t'aime Maman",
+      "je-t-aime-maman"
+    ],
+    "1139": [
+      2,
+      "Un site Internet et une page Facebook affirmant décrypter l'actualité, mais qui diffusent régulièrement des informations déformées, voire erronées. Une de ses vidéos de décembre 2016 présentait ainsi de manière trompeuse un avis consultatif remis au ministère de la santé français sur les vaccins.",
+      "Pas l'Info",
+      "pas-l-info"
+    ],
+    "1140": [
+      4,
+      "Un site consacré à l'actualité du monde du jeu vidéo, qui publie principalement des actualités sur les jeux qui vont sortir et des tests. Il appartient actuellement au groupe Webedia. A ne pas confondre avec les forums qu'il héberge, alimentés eux par les utilisateurs.",
+      "Jeuxvideo.com",
+      "jeuxvideo-com"
+    ],
+    "1141": [
+      3,
+      "Une page Facebook qui relaie des informations de sites peu fiables, moyennant compensation financière.",
+      "Sais-tu que ?",
+      "sais-tu-que"
+    ],
+    "1142": [
+      3,
+      "Un site de divertissement qui relaie des informations de sources variées, sans forcément les vérifier et sous des titres racoleurs.",
+      "Le Petit Buzz",
+      "le-petit-buzz"
+    ],
+    "1143": [
+      3,
+      "Un site de divertissement qui relaie des informations de sources variées, sans forcément les vérifier et sous des titres racoleurs.",
+      "Quivo France",
+      "quivo-france"
+    ],
+    "1144": [
+      3,
+      "Une page Facebook de divertissement du site « Ohmymag », qui se présente comme un « média social féminin » édité par le groupe Cerise, racheté par le groupe Prisma Media en 2016. « Ohmymag » revendique faire de l’« infotainement », forme de traitement de l'information par le divertissement, et pas de l'actualité à proprement parler. Il diffuse des informations sous un angle parfois racoleur, avec des titres sensationnalistes, voire trompeurs.",
+      "OMG by Ohmymag",
+      "omg-by-ohmymag"
+    ],
+    "1145": [
+      3,
+      "Une page Facebook qui relaie des informations de sites peu fiables, souvent sous des titres racoleurs.",
+      "Sais-tu aimer ?",
+      "sais-tu-aimer"
+    ],
+    "1146": [
+      3,
+      "Un site féminin qui relaie des informations souvent peu fiables, sous des titres racoleurs.",
+      "Fimina",
+      "fimina"
+    ],
+    "1147": [
+      3,
+      "Un site de divertissement qui relaie des informations de sources variées, sans forcément les vérifier et sous des titres racoleurs.",
+      "Moment buzz",
+      "moment-buzz"
+    ],
+    "1148": [
+      3,
+      "Une page Facebook qui relaie des informations de sites peu fiables, souvent sous des titres racoleurs.",
+      "La Base d'un couple",
+      "la-base-d-un-couple"
+    ],
+    "1149": [
+      3,
+      "Un site de divertissement qui relaie des informations de sources variées, sans forcément les vérifier et sous des titres racoleurs.",
+      "Buzz sur Net",
+      "buzz-sur-net"
+    ],
+    "1150": [
+      3,
+      "Une page Facebook qui relaie des informations de sites peu fiables, souvent sous des titres racoleurs.",
+      "Seum couples",
+      "seum-couples"
+    ],
+    "1151": [
+      3,
+      "Une page Facebook qui relaie des informations de sites peu fiables, souvent sous des titres racoleurs.",
+      "Pensées de filles",
+      "pensees-de-filles"
+    ],
+    "1152": [
+      3,
+      "Un site Internet qui relaie régulièrement des informations déformées ou exagérées sur la santé.",
+      "Santé et sport",
+      "sante-et-sport"
+    ],
+    "1153": [
+      3,
+      "Un site de divertissement qui relaie des informations de sources variées, sans forcément les vérifier et sous des titres racoleurs.",
+      "Ayoye France",
+      "ayoye-france"
+    ],
+    "1154": [
+      4,
+      "Un site Internet au départ concentré sur l'information sur les nouvelles technologies, mais qui écrit désormais sur des sujets variés (high-tech, droit, finances, etc.). Il est édité par le groupe CCM Benchmark, racheté par « Le Figaro » en 2015.",
+      "Comment ça marche",
+      "comment-ca-marche"
+    ],
+    "1155": [
+      4,
+      "Un site féminin français, qui parle de mode, beauté, cuisine, etc. Il est édité par CCM Benchmark Group, racheté par « Le Figaro » en 2015.",
+      "Le journal des femmes",
+      "le-journal-des-femmes"
+    ],
+    "1156": [
+      4,
+      "Un site d'actualité consacré à l'univers des nouvvelles technologies. On y trouve notamment des tests de produits et des guides pratiques. Il appartient au groupe M6.",
+      "Clubic",
+      "clubic"
+    ],
+    "1157": [
+      4,
+      "Une chaîne YouTube consacrée à la vulgarisation scientifique créée par un ingénieur logiciel, Bruce Benamran, en 2013. Ses vidéos ont depuis trouvé un public et Bruce Benamran a publié plusieurs livres tirés de son travail sur sa chaîne YouTube. Il a également fait la première partie de l'Exoconférrence, un spectacle de l'humoriste Alexandre Astier.",
+      "e-penser (Bruce Benamran)",
+      "e-penser-bruce-benamran"
+    ],
+    "1158": [
+      4,
+      "Une chaîne YouTube de vulgarisation scientifique créée par Léo Grasset, titulaire d'un master en biologie.",
+      "Dirty Biology",
+      "dirty-biology"
+    ],
+    "1159": [
+      4,
+      "Une émission de télévision et websérie sur France 4 et sur YouTube. Elle explore des sujets d'actualité et de société à partir de données.",
+      "Data Gueule",
+      "data-gueule"
+    ],
+    "1160": [
+      4,
+      "Un magazine féminin en ligne qui relaie principalement des informations sur la beauté.",
+      "Confidentielles",
+      "confidentielles"
+    ],
+    "1161": [
+      4,
+      "Un magazine et un site Internet français indépendant édités par Presse non-stop, publié les 1er et 15 de chaque mois consacrés à l'actualité du jeu vidéo. Ils se distinguent de la presse traditionnelle par une volonté de proposer des formats plus journalistiques au-delà des tests de jeux.",
+      "Canard PC",
+      "canard-pc"
+    ],
+    "1163": [
+      4,
+      "La version abonnés du quotidien et site Internet d'information généraliste qui appartient à l'industriel Serge Dassault, classé politiquement à droite.",
+      "Le Figaro (version abonnés)",
+      "le-figaro-version-abonnes"
+    ],
+    "1164": [
+      4,
+      "Un quotidien et site Internet d'information généraliste. Le groupe est détenu depuis 2010 par les hommes d'affaires Xavier Niel, Pierre Bergé et Matthieu Pigasse.",
+      "Le Monde (édition abonnés)",
+      "le-monde-edition-abonnes"
+    ],
+    "1165": [
+      3,
+      "Un site de divertissement francophone, spécialisé dans les contenus « insolites » et « buzz ».",
+      "Buzzly",
+      "buzzly"
+    ],
+    "1166": [
+      3,
+      "Une page Facebook qui relaie des informations de sites peu fiables, souvent sous des titres racoleurs.",
+      "Vive l'été",
+      "vive-l-ete"
+    ],
+    "1167": [
+      3,
+      "Une page Facebook qui relaie des informations de sites peu fiables, souvent sous des titres racoleurs.",
+      "Mode Fashion Swag",
+      "mode-fashion-swag"
+    ],
+    "1168": [
+      3,
+      "Un site de divertissement qui relaie des informations de sources variées, sans forcément les vérifier et sous des titres racoleurs.",
+      "Happy Buzzday",
+      "happy-buzzday"
+    ],
+    "1170": [
+      0,
+      "Change.org n'est pas une source d'information. Il s'agit d'une plateforme de pétitions sur laquelle n'importe quel internaute peut lancer un appel.",
+      "Change.org",
+      "change-org"
+    ],
+    "1171": [
+      0,
+      "Mes Opinions n'est pas une source d'information. Il s'agit d'une plateforme de pétitions sur laquelle n'importe quel internaute peut lancer un appel.",
+      "Mes Opinions",
+      "mes-opinions"
+    ],
+    "1172": [
+      4,
+      "Un quotidien et site Internet d'information généraliste. Le groupe est détenu depuis 2010 par les hommes d'affaires Xavier Niel, Pierre Bergé et Matthieu Pigasse.",
+      "Le Monde (édition mobile)",
+      "le-monde-edition-mobile"
+    ],
+    "1173": [
+      4,
+      "Un quotidien et site Internet d'information généraliste. Le groupe est détenu depuis 2010 par les hommes d'affaires Xavier Niel, Pierre Bergé et Matthieu Pigasse.",
+      "Le Monde (édition abonnés mobile)",
+      "le-monde-edition-abonnes-mobile"
+    ]
+  },
+  "urls": {
+    "abonnes.mobile.lemonde.fr": 1173,
+    "facebook.com/lemonde.fr": 1044,
+    "twitter.com/lemondefr": 1044,
+    "youtube.com/channel/UCYpRDnhk5H8h16jpS84uqsA": 1044,
+    "mobile.lemonde.fr": 1172,
+    "mesopinions.com": 1171,
+    "facebook.com/mesopinions": 1171,
+    "twitter.com/mesopinions_com": 1171,
+    "change.org": 1170,
+    "facebook.com/Change.orgFrance": 1170,
+    "twitter.com/Change": 1170,
+    "happybuzzday.net": 1168,
+    "facebook.com/ModeFashionSwag": 1167,
+    "facebook.com/vivelete": 1166,
+    "buzzly.fr": 1165,
+    "facebook.com/Buzzly.fr": 1165,
+    "twitter.com/buzzlyweb": 1165,
+    "abonnes.lemonde.fr": 1164,
+    "premium.lefigaro.fr": 1163,
+    "canardpc.com": 1161,
+    "facebook.com/CanardPCmagazine": 1161,
+    "twitter.com/Canardpcredac": 1161,
+    "confidentielles.com": 1160,
+    "facebook.com/confidentielles": 1160,
+    "twitter.com/Confidentielles": 1160,
+    "youtube.com/channel/UCYvAMGlnC8zE3j8Cjgf8bUw": 1160,
+    "youtube.com/channel/UCm5wThREh298TkK8hCT9HuA": 1159,
+    "facebook.com/DataGueuleOfficiel": 1159,
+    "dirtybiology.com": 1158,
+    "facebook.com/Dirtybiology": 1158,
+    "twitter.com/dirtybiology": 1158,
+    "youtube.com/channel/UCtqICqGbPSbTN09K1_7VZ3Q": 1158,
+    "e-penser.com": 1157,
+    "facebook.com/epenser": 1157,
+    "twitter.com/epenser": 1157,
+    "youtube.com/channel/UCcziTK2NKeWtWQ6kB5tmQ8Q": 1157,
+    "clubic.com": 1156,
+    "facebook.com/Clubic": 1156,
+    "twitter.com/Clubic": 1156,
+    "journaldesfemmes.com": 1155,
+    "facebook.com/Journal-des-Femmes-162484097109285": 1155,
+    "twitter.com/journalDfemmes": 1155,
+    "commentcamarche.net": 1154,
+    "facebook.com/commentcamarche": 1154,
+    "twitter.com/commentcamarche": 1154,
+    "ayoye.com": 1153,
+    "facebook.com/AyoyeFrance": 1153,
+    "sante-et-sport.com/2016/08/attention-le-wifi-nous-tue.html": 1152,
+    "facebook.com/sportssante": 1152,
+    "facebook.com/PenseDeFilles": 1151,
+    "facebook.com/Seum.couples": 1150,
+    "buzzsurnet.com": 1149,
+    "facebook.com/Buzzsurnet": 1149,
+    "facebook.com/Labaseduncouple": 1148,
+    "momentbuzz.com": 1147,
+    "fimina.com": 1146,
+    "facebook.com/Fiminamag": 1146,
+    "facebook.com/SaisTuaimerr": 1145,
+    "facebook.com/OMMbyOMM": 1144,
+    "quivo.co": 1143,
+    "facebook.com/frenchmamia": 1143,
+    "lepetitbuzz.fr": 1142,
+    "facebook.com/LePetitBuzz.fr": 1142,
+    "facebook.com/SaisTuQuee": 1141,
+    "jeuxvideo.com": 1140,
+    "facebook.com/jvcom": 1140,
+    "twitter.com/JVCom": 1140,
+    "paslinfo.blogspot.fr": 1139,
+    "facebook.com/paslinfo": 1139,
+    "facebook.com/jetaimemamann": 1138,
+    "topibuzz.com": 1137,
+    "facebook.com/topibuzz": 1137,
+    "astucesnaturelles.net": 1136,
+    "facebook.com/astucesnaturellesmag": 1136,
+    "santeplusmag.com": 1135,
+    "facebook.com/santeplusmag": 1135,
+    "twitter.com/Santeplusmag": 1135,
+    "youtube.com/channel/UCDJDq8bHKrDC5grgAOgTgiA": 1135,
+    "jeanpaulney.com": 1134,
+    "facebook.com/jpneyFR": 1134,
+    "twitter.com/jpney": 1134,
+    "humourdedroite.tumblr.com": 1133,
+    "facebook.com/humourdedroite": 1133,
+    "twitter.com/humourdedroite": 1133,
+    "actu.orange.fr": 1131,
+    "maitre-eolas.fr": 1129,
+    "twitter.com/maitre_eolas": 1129,
+    "yagg.com": 1128,
+    "facebook.com/YaggOfficiel": 1128,
+    "twitter.com/Yagg": 1128,
+    "vosgesmatin.fr": 1127,
+    "facebook.com/vosgesmatin": 1127,
+    "twitter.com/VosgesMatin": 1127,
+    "vice.com/fr": 1126,
+    "facebook.com/VICEFrance": 1126,
+    "twitter.com/VICEfr": 1126,
+    "vice.com": 1125,
+    "facebook.com/VICE": 1125,
+    "twitter.com/VICE": 1125,
+    "femina.fr": 1124,
+    "facebook.com/VersionFemina": 1124,
+    "varmatin.com": 1123,
+    "facebook.com/Page.VarMatin": 1123,
+    "usatoday.com": 1122,
+    "facebook.com/usatoday": 1122,
+    "twitter.com/USATODAY": 1122,
+    "tvmag.lefigaro.fr": 1121,
+    "facebook.com/TVMagazine": 1121,
+    "twitter.com/TVMAG": 1121,
+    "washingtonpost.com": 1120,
+    "facebook.com/washingtonpost": 1120,
+    "twitter.com/washingtonpost": 1120,
+    "wsj.com": 1119,
+    "facebook.com/wsj": 1119,
+    "twitter.com/wsj": 1119,
+    "thetimes.co.uk": 1118,
+    "theguardian.com/observer": 1117,
+    "nytimes.com": 1116,
+    "facebook.com/nytimes": 1116,
+    "twitter.com/nytimes": 1116,
+    "theintercept.com": 1115,
+    "facebook.com/theinterceptflm": 1115,
+    "twitter.com/theintercept": 1115,
+    "independent.co.uk": 1114,
+    "facebook.com/TheIndependentOnline": 1114,
+    "twitter.com/Independent": 1114,
+    "heraldscotland.com": 1113,
+    "facebook.com/heraldscotland": 1113,
+    "twitter.com/heraldscotland": 1113,
+    "theguardian.com": 1112,
+    "facebook.com/theguardian": 1112,
+    "twitter.com/guardian": 1112,
+    "economist.com": 1111,
+    "facebook.com/TheEconomist": 1111,
+    "twitter.com/TheEconomist": 1111,
+    "telegraph.co.uk": 1110,
+    "facebook.com/dailytelegraph": 1110,
+    "twitter.com/dailytelegraph": 1110,
+    "tf1.fr": 1109,
+    "facebook.com/TF1": 1109,
+    "twitter.com/TF1": 1109,
+    "tetu.com": 1108,
+    "facebook.com/tetumag": 1108,
+    "twitter.com/TETUmag": 1108,
+    "telerama.fr": 1107,
+    "facebook.com/Telerama": 1107,
+    "twitter.com/Telerama": 1107,
+    "telecablesat.fr": 1106,
+    "telez.fr": 1105,
+    "telestar.fr": 1104,
+    "programme-tv.net": 1103,
+    "facebook.com/teleloisirsfr": 1103,
+    "twitter.com/TeleLoisirs": 1103,
+    "programme-television.org": 1102,
+    "facebook.com/Tele7Jours": 1102,
+    "twitter.com/Tele7": 1102,
+    "sudinfo.be": 1101,
+    "sudouest.fr": 1100,
+    "facebook.com/journalsudouest": 1100,
+    "twitter.com/sudouest": 1100,
+    "streetpress.com": 1099,
+    "facebook.com/StreetPress": 1099,
+    "twitter.com/streetpress": 1099,
+    "snopes.com": 1098,
+    "facebook.com/snopes": 1098,
+    "twitter.com/snopes": 1098,
+    "slate.fr": 1097,
+    "facebook.com/SlateFrance": 1097,
+    "twitter.com/Slatefr": 1097,
+    "sciencesetavenir.fr": 1096,
+    "facebook.com/sciencesetavenir": 1096,
+    "twitter.com/Sciences_Avenir": 1096,
+    "science-et-vie.com": 1095,
+    "twitter.com/science_et_vie": 1095,
+    "tempsreel.nouvelobs.com/rue89": 1094,
+    "facebook.com/Rue89": 1094,
+    "twitter.com/Rue89": 1094,
+    "rtl.fr": 1093,
+    "facebook.com/RTL": 1093,
+    "twitter.com/RTLFrance": 1093,
+    "rfi.fr": 1092,
+    "facebook.com/RadioFranceInternationale": 1092,
+    "twitter.com/RFI": 1092,
+    "reuters.com": 1091,
+    "facebook.com/Reuters": 1091,
+    "twitter.com/Reuters": 1091,
+    "reporterre.net": 1090,
+    "facebook.com/ReporterreQuotidienDeLecologie": 1090,
+    "twitter.com/Reporterre": 1090,
+    "psychologies.com": 1089,
+    "facebook.com/Psychologiesmagazine": 1089,
+    "twitter.com/Psychologies_": 1089,
+    "presseocean.fr": 1088,
+    "facebook.com/PresseOcean": 1088,
+    "twitter.com/presseocean": 1088,
+    "premiere.fr": 1087,
+    "facebook.com/premierefr": 1087,
+    "twitter.com/PremiereFR": 1087,
+    "politis.fr": 1086,
+    "facebook.com/Politisfr-217973083988": 1086,
+    "twitter.com/Politis_fr": 1086,
+    "politico.eu": 1085,
+    "facebook.com/POLITICOeu": 1085,
+    "twitter.com/POLITICOEurope": 1085,
+    "politico.com": 1084,
+    "facebook.com/politico": 1084,
+    "twitter.com/politico": 1084,
+    "pointdevue.fr": 1083,
+    "pelerin.com": 1082,
+    "facebook.com/pelerincom": 1082,
+    "twitter.com/pelerincom": 1082,
+    "paris-normandie.fr": 1081,
+    "facebook.com/parisnormandie": 1081,
+    "twitter.com/paris_normandie": 1081,
+    "parismatch.com": 1080,
+    "facebook.com/parismatch.fr": 1080,
+    "twitter.com/ParisMatch": 1080,
+    "ouest-france.fr": 1079,
+    "facebook.com/ouestfrance": 1079,
+    "twitter.com/OuestFrance": 1079,
+    "onzemondial.com": 1078,
+    "facebook.com/onzemondial": 1078,
+    "twitter.com/OnzeMondial": 1078,
+    "numerama.com": 1077,
+    "facebook.com/Numerama": 1077,
+    "twitter.com/Numerama": 1077,
+    "notretemps.com": 1076,
+    "facebook.com/Notretemps": 1076,
+    "twitter.com/NotreTemps": 1076,
+    "nossenateurs.fr": 1075,
+    "nosdeputes.fr": 1074,
+    "facebook.com/NosD%C3%A9put%C3%A9sfr-133384158493": 1074,
+    "nordeclair.fr": 1073,
+    "facebook.com/nordeclair.info": 1073,
+    "twitter.com/NordEclairWeb": 1073,
+    "non-stop-politique.fr": 1072,
+    "facebook.com/NonStopPolitique": 1072,
+    "twitter.com/nonspolitique": 1072,
+    "nicematin.com": 1071,
+    "facebook.com/Page.NiceMatin": 1071,
+    "twitter.com/Nice_Matin": 1071,
+    "nydailynews.com": 1070,
+    "facebook.com/NYDailyNews": 1070,
+    "twitter.com/NYDailyNews": 1070,
+    "mouv.fr": 1069,
+    "twitter.com/mouv": 1069,
+    "votreargent.lexpress.fr": 1068,
+    "twitter.com/VotreArgent": 1068,
+    "midilibre.fr": 1067,
+    "facebook.com/midilibre": 1067,
+    "twitter.com/Midilibre": 1067,
+    "mediapart.fr": 1066,
+    "facebook.com/Mediapart.fr": 1066,
+    "twitter.com/mediapart": 1066,
+    "mashable.france24.com": 1065,
+    "facebook.com/mashablefr": 1065,
+    "twitter.com/MashableFR": 1065,
+    "mashable.com": 1064,
+    "facebook.com/mashable": 1064,
+    "twitter.com/mashable": 1064,
+    "mariefrance.fr": 1063,
+    "twitter.com/mariefrancemag": 1063,
+    "marieclaire.fr": 1062,
+    "facebook.com/marieclairefrance": 1062,
+    "twitter.com/marieclaire": 1062,
+    "marianne.net": 1061,
+    "facebook.com/Marianne.magazine": 1061,
+    "twitter.com/MarianneleMag": 1061,
+    "mangerbouger.fr": 1060,
+    "madame.lefigaro.fr": 1059,
+    "facebook.com/MadameFigaro": 1059,
+    "twitter.com/Madamefigaro": 1059,
+    "6play.fr/m6": 1058,
+    "facebook.com/M6": 1058,
+    "twitter.com/M6": 1058,
+    "latimes.com": 1057,
+    "facebook.com/latimes": 1057,
+    "twitter.com/latimes": 1057,
+    "liberation.fr": 1056,
+    "facebook.com/Liberation": 1056,
+    "twitter.com/libe": 1056,
+    "lesinrocks.com": 1055,
+    "facebook.com/lesinrocks": 1055,
+    "twitter.com/lesinrocks": 1055,
+    "lesechos.fr": 1054,
+    "facebook.com/lesechos": 1054,
+    "twitter.com/LesEchos": 1054,
+    "letemps.ch": 1053,
+    "facebook.com/letemps.ch": 1053,
+    "twitter.com/letemps": 1053,
+    "letelegramme.fr": 1052,
+    "facebook.com/letelegramme": 1052,
+    "twitter.com/LeTelegramme": 1052,
+    "republicain-lorrain.fr": 1051,
+    "facebook.com/republicainlorrain": 1051,
+    "leprogres.fr": 1050,
+    "facebook.com/leprogres": 1050,
+    "twitter.com/Le_Progres": 1050,
+    "lepopulaire.fr": 1049,
+    "facebook.com/populaireducentre": 1049,
+    "twitter.com/lepopulaire_fr": 1049,
+    "lepoint.fr": 1048,
+    "facebook.com/lepoint.fr": 1048,
+    "twitter.com/LePoint": 1048,
+    "leparisien.fr": 1047,
+    "facebook.com/leparisien": 1047,
+    "twitter.com/le_Parisien": 1047,
+    "lenouveleconomiste.fr": 1046,
+    "facebook.com/Le.nouvel.Economiste": 1046,
+    "twitter.com/LeNouvelEco": 1046,
+    "monde-diplomatique.fr": 1045,
+    "facebook.com/lemondediplo": 1045,
+    "twitter.com/mdiplo": 1045,
+    "lemonde.fr": 1044,
+    "lemainelibre.fr": 1043,
+    "facebook.com/lemainelibre": 1043,
+    "twitter.com/lemainelibre": 1043,
+    "lejdd.fr": 1042,
+    "facebook.com/leJDD": 1042,
+    "twitter.com/leJDD": 1042,
+    "lejdc.fr": 1041,
+    "facebook.com/journalducentre": 1041,
+    "twitter.com/lejdc_fr": 1041,
+    "lejsl.com": 1040,
+    "facebook.com/LeJSL71": 1040,
+    "twitter.com/lejsl": 1040,
+    "jhm.fr": 1039,
+    "lefigaro.fr": 1038,
+    "facebook.com/lefigaro": 1038,
+    "twitter.com/Le_Figaro": 1038,
+    "ledauphine.com": 1037,
+    "facebook.com/ledauphinelibere": 1037,
+    "twitter.com/ledauphine": 1037,
+    "courrier-picard.fr": 1036,
+    "facebook.com/lecourrierpicard": 1036,
+    "twitter.com/CourrierPicard": 1036,
+    "courrierdelouest.fr": 1035,
+    "facebook.com/courrierdelouest": 1035,
+    "lecanardenchaine.fr": 1034,
+    "bondyblog.fr": 1033,
+    "facebook.com/bondyblog.fr": 1033,
+    "twitter.com/LeBondyBlog": 1033,
+    "bienpublic.com": 1032,
+    "facebook.com/BienPublic21": 1032,
+    "twitter.com/Lebienpublic": 1032,
+    "leberry.fr": 1031,
+    "facebook.com/BerryRepublicain": 1031,
+    "twitter.com/leberry_fr": 1031,
+    "lcp.fr": 1030,
+    "facebook.com/LCP": 1030,
+    "twitter.com/LCP": 1030,
+    "lci.fr": 1029,
+    "facebook.com/LCI": 1029,
+    "twitter.com/LCI": 1029,
+    "lavoixdunord.fr": 1028,
+    "facebook.com/lavoixdunord": 1028,
+    "twitter.com/lavoixdunord": 1028,
+    "lavie.fr": 1027,
+    "facebook.com/La-Vie-358017849078": 1027,
+    "latribune.fr": 1026,
+    "facebook.com/latribune": 1026,
+    "twitter.com/LT_LaTribune": 1026,
+    "larep.fr": 1025,
+    "facebook.com/republiqueducentre": 1025,
+    "twitter.com/larep_fr": 1025,
+    "larepubliquedespyrenees.fr": 1024,
+    "facebook.com/La-R%C3%A9publique-des-Pyr%C3%A9n%C3%A9es-148446219817": 1024,
+    "repubblica.it": 1023,
+    "facebook.com/Repubblica": 1023,
+    "twitter.com/repubblicait": 1023,
+    "laprovence.com": 1022,
+    "facebook.com/laprovence": 1022,
+    "twitter.com/laprovence": 1022,
+    "lapressedelamanche.fr": 1021,
+    "lanouvellerepublique.fr": 1020,
+    "nrpyrenees.fr": 1019,
+    "facebook.com/La-Nouvelle-R%C3%A9publique-des-Pyr%C3%A9n%C3%A9es-167841043244955": 1019,
+    "lamontagne.fr": 1018,
+    "facebook.com/journal.LaMontagne": 1018,
+    "twitter.com/lamontagne_fr": 1018,
+    "lamarseillaise.fr": 1017,
+    "facebook.com/lamarseillaise.fr": 1017,
+    "twitter.com/lamarsweb": 1017,
+    "ladepeche.fr": 1016,
+    "facebook.com/ladepechedumidi": 1016,
+    "twitter.com/ladepechedumidi": 1016,
+    "la-croix.com": 1015,
+    "facebook.com/lacroix.journal": 1015,
+    "twitter.com/LaCroix": 1015,
+    "lyonne.fr": 1014,
+    "facebook.com/LYonneRepublicaine": 1014,
+    "lunion.fr": 1013,
+    "facebook.com/journal.lunionlardennais": 1013,
+    "twitter.com/UnionArdennais": 1013,
+    "lopinion.fr": 1012,
+    "facebook.com/lopinionfr": 1012,
+    "twitter.com/Lopinion_fr": 1012,
+    "tempsreel.nouvelobs.com": 1011,
+    "facebook.com/lenouvelobservateur": 1011,
+    "twitter.com/lobs": 1011,
+    "linternaute.com": 1010,
+    "facebook.com/linternaute": 1010,
+    "twitter.com/linternautemag": 1010,
+    "lindependant.fr": 1009,
+    "facebook.com/lindependant.fr": 1009,
+    "twitter.com/lindependant": 1009,
+    "humanite.fr": 1008,
+    "facebook.com/humanite.fr": 1008,
+    "twitter.com/humanite_fr": 1008,
+    "lexpress.fr": 1007,
+    "facebook.com/LExpress": 1007,
+    "twitter.com/LEXPRESS": 1007,
+    "leveil.fr": 1006,
+    "facebook.com/leveil.fr": 1006,
+    "lest-eclair.fr": 1005,
+    "facebook.com/lesteclair": 1005,
+    "twitter.com/lesteclair": 1005,
+    "estrepublicain.fr": 1004,
+    "facebook.com/estrepublicain": 1004,
+    "twitter.com/lestrepublicain": 1004,
+    "lequipe.fr": 1003,
+    "facebook.com/lequipe.fr": 1003,
+    "twitter.com/lequipe": 1003,
+    "lechorepublicain.fr": 1002,
+    "twitter.com/lecho_fr": 1002,
+    "l-echo.info": 1001,
+    "facebook.com/lechobe": 1001,
+    "twitter.com/lecho": 1001,
+    "lalsace.fr": 1000,
+    "twitter.com/lalsace": 1000,
+    "itele.fr": 999,
+    "facebook.com/itele": 999,
+    "twitter.com/itele": 999,
+    "thestar.ie": 998,
+    "facebook.com/IrishDailyStar": 998,
+    "twitter.com/IsFearrAnStar": 998,
+    "ibtimes.com": 997,
+    "facebook.com/IBTimes": 997,
+    "huffingtonpost.fr": 996,
+    "facebook.com/LeHuffingtonPost": 996,
+    "twitter.com/LeHuffPost": 996,
+    "chron.com": 995,
+    "facebook.com/houstonchronicle": 995,
+    "twitter.com/HoustonChron": 995,
+    "hoaxbuster.com": 994,
+    "facebook.com/hoaxbuster": 994,
+    "twitter.com/hoaxbuster": 994,
+    "hoax-slayer.com": 993,
+    "facebook.com/Hoax-Slayer-69502133435": 993,
+    "twitter.com/hoaxslayer": 993,
+    "historia.fr": 992,
+    "facebook.com/HistoriaRomania": 992,
+    "twitter.com/historiamag": 992,
+    "grazia.fr": 991,
+    "facebook.com/graziafrance": 991,
+    "twitter.com/Grazia": 991,
+    "glamourparis.com": 990,
+    "facebook.com/glamourparis": 990,
+    "twitter.com/glamourmag": 990,
+    "fr-online.de": 988,
+    "facebook.com/FrankfurterRundschau": 988,
+    "francetvinfo.fr": 987,
+    "facebook.com/franceinfovideo": 987,
+    "twitter.com/franceinfo": 987,
+    "franceinter.fr": 986,
+    "facebook.com/franceinter": 986,
+    "twitter.com/franceinter": 986,
+    "franceculture.fr": 983,
+    "facebook.com/franceculture": 983,
+    "twitter.com/franceculture": 983,
+    "francebleu.fr": 982,
+    "facebook.com/reseau.francebleu": 982,
+    "twitter.com/francebleu": 982,
+    "france5.fr": 981,
+    "facebook.com/france5": 981,
+    "twitter.com/France5tv": 981,
+    "france3.fr": 980,
+    "facebook.com/france3": 980,
+    "twitter.com/France3tv": 980,
+    "france24.com/fr": 979,
+    "facebook.com/pages/France24/859770514134562": 979,
+    "twitter.com/FRANCE24": 979,
+    "france2.fr": 978,
+    "facebook.com/france2": 978,
+    "twitter.com/France2tv": 978,
+    "ft.com": 977,
+    "facebook.com/financialtimes": 977,
+    "twitter.com/FinancialTimes": 977,
+    "femmeactuelle.fr": 976,
+    "facebook.com/femmeactuellefr": 976,
+    "twitter.com/femmeactuelle": 976,
+    "europe1.fr": 975,
+    "facebook.com/Europe1": 975,
+    "twitter.com/Europe1": 975,
+    "fr.euronews.com": 974,
+    "facebook.com/fr.euronews": 974,
+    "twitter.com/euronews": 974,
+    "elle.fr": 973,
+    "facebook.com/elle": 973,
+    "twitter.com/ELLEfrance": 973,
+    "directmatin.fr": 972,
+    "facebook.com/directmatin": 972,
+    "twitter.com/DirectMatin": 972,
+    "taz.de": 971,
+    "facebook.com/taz.kommune": 971,
+    "dna.fr": 970,
+    "facebook.com/Derni%C3%A8res-Nouvelles-d-Alsace-DNA-19004867327": 970,
+    "derstandard.at": 969,
+    "facebook.com/derStandardat": 969,
+    "twitter.com/derStandardat": 969,
+    "spiegel.de": 968,
+    "facebook.com/DerSpiegel": 968,
+    "twitter.com/DerSPIEGEL": 968,
+    "denverpost.com": 967,
+    "facebook.com/denverpost": 967,
+    "twitter.com/denverpost": 967,
+    "debunkersdehoax.org": 966,
+    "twitter.com/DebunkerHED": 966,
+    "courrierinternational.com": 965,
+    "facebook.com/courrierinternational.com": 965,
+    "twitter.com/courrierinter": 965,
+    "cosmopolitan.fr": 964,
+    "facebook.com/Cosmopolitan": 964,
+    "twitter.com/Cosmopolitan": 964,
+    "corsematin.com": 963,
+    "facebook.com/Page.CorseMatin": 963,
+    "twitter.com/Corse_Matin": 963,
+    "corriere.it": 962,
+    "facebook.com/corrieredellasera": 962,
+    "twitter.com/Corriere": 962,
+    "contexte.com": 961,
+    "edition.cnn.com": 960,
+    "facebook.com/cnn": 960,
+    "twitter.com/CNN": 960,
+    "chicagotribune.com": 959,
+    "facebook.com/chicagotribune": 959,
+    "twitter.com/chicagotribune": 959,
+    "charentelibre.fr": 958,
+    "facebook.com/Charentelibre16": 958,
+    "twitter.com/charentelibre": 958,
+    "challenges.fr": 957,
+    "facebook.com/challenges": 957,
+    "twitter.com/Challenges": 957,
+    "centrepresseaveyron.fr": 956,
+    "facebook.com/CentrePresseAveyron": 956,
+    "capital.fr": 955,
+    "facebook.com/Capital.fr": 955,
+    "twitter.com/MagazineCapital": 955,
+    "canalplus.fr": 954,
+    "facebook.com/canalplus": 954,
+    "twitter.com/canalplus": 954,
+    "buzzfeed.com": 953,
+    "facebook.com/BuzzFeed": 953,
+    "twitter.com/BuzzFeed": 953,
+    "businessinsider.fr": 951,
+    "facebook.com/BusinessInsiderFrance": 952,
+    "facebook.com/businessinsider": 951,
+    "twitter.com/businessinsider": 951,
+    "boursorama.com": 950,
+    "facebook.com/Boursorama-132746953466063": 950,
+    "twitter.com/Boursorama": 950,
+    "bloomberg.com": 949,
+    "facebook.com/bloombergbusiness": 949,
+    "twitter.com/Bloomberg": 949,
+    "bibamagazine.fr": 948,
+    "facebook.com/bibamagazine": 948,
+    "twitter.com/bibamagazine": 948,
+    "bfmtv.com": 947,
+    "facebook.com/BFMTV": 947,
+    "twitter.com/BFMTV": 947,
+    "be.com": 946,
+    "bbc.com": 945,
+    "facebook.com/bbcnews": 945,
+    "twitter.com/BBC": 945,
+    "atlantico.fr": 944,
+    "facebook.com/atlantico.france": 944,
+    "twitter.com/atlantico_fr": 944,
+    "ap.org": 943,
+    "facebook.com/APNews&rf=109042952456316": 943,
+    "twitter.com/AP": 943,
+    "asahi.com": 942,
+    "facebook.com/asahicom": 942,
+    "arte.tv/fr": 941,
+    "facebook.com/artetv": 941,
+    "twitter.com/ARTEfr": 941,
+    "arretsurimages.net": 940,
+    "facebook.com/arretsurimages.net": 940,
+    "twitter.com/arretsurimages": 940,
+    "ameli-sante.fr": 939,
+    "alternet.org": 938,
+    "facebook.com/AlterNetNews": 938,
+    "twitter.com/AlterNet": 938,
+    "ajplus.net": 937,
+    "facebook.com/ajplusenglish": 937,
+    "twitter.com/ajplus": 937,
+    "youtube.com/channel/UCV3Nm3T-XAgVhKH9jT0ViRg": 937,
+    "aljazeera.com": 936,
+    "facebook.com/aljazeera": 936,
+    "twitter.com/AJENews": 936,
+    "afp.com": 935,
+    "facebook.com/AFPnewsenglish": 935,
+    "twitter.com/afpfr": 935,
+    "abcnews.go.com": 934,
+    "facebook.com/ABCNews": 934,
+    "twitter.com/ABC": 934,
+    "20minutes.fr": 933,
+    "facebook.com/20minutes": 933,
+    "twitter.com/20Minutes": 933,
+    "youtube.com/user/20MinutesFR": 933,
+    "valeursactuelles.com": 932,
+    "facebook.com/valeursactuelles.page": 932,
+    "twitter.com/Valeurs": 932,
+    "youtube.com/user/valeursactuelles": 932,
+    "reponseatout.com": 931,
+    "thedailybeast.com": 930,
+    "facebook.com/thedailybeast": 930,
+    "twitter.com/thedailybeast": 930,
+    "youtube.com/channel/UC7qZ_e097NBkgOljy1joVRA": 930,
+    "morandinisante.com": 929,
+    "facebook.com/profile.php?id=100009275015452": 929,
+    "jeanmarcmorandini.com": 928,
+    "facebook.com/jmmorandini": 928,
+    "twitter.com/morandiniblog": 928,
+    "gentside.com": 926,
+    "facebook.com/Gentside": 926,
+    "twitter.com/Gentside": 926,
+    "ohmymag.com": 925,
+    "facebook.com/OhmymagFR": 925,
+    "twitter.com/ohmymagfr": 925,
+    "infoetsecret.com": 923,
+    "leseconoclastes.fr": 922,
+    "facebook.com/leseconoclastes": 922,
+    "twitter.com/leseconoclastes": 922,
+    "youtube.com/channel/UCDfdKpahmdb1WlSsEsl-ZPw": 922,
+    "nationspresse.info": 921,
+    "wikiberal.org": 920,
+    "addictinginfo.org": 919,
+    "facebook.com/AddictingInfoOrg": 919,
+    "zejournal.mobi": 918,
+    "tvlibertes.com": 916,
+    "facebook.com/tvlibertes": 916,
+    "twitter.com/tvlofficiel": 916,
+    "youtube.com/channel/UCSVf6BL58EcNjwUlBgUKoog": 916,
+    "topito.com": 915,
+    "facebook.com/Topito-136164895246": 915,
+    "twitter.com/topito_com": 915,
+    "youtube.com/channel/UCQs8MrktndWkXdqOj08ogrQ": 915,
+    "theoriedugenre.fr": 914,
+    "other98.com": 913,
+    "facebook.com/TheOther98": 913,
+    "twitter.com/other98": 913,
+    "themindunleashed.com": 912,
+    "facebook.com/TheMindUnleashed": 912,
+    "twitter.com/UnleashMind": 912,
+    "thedisruptive.info": 911,
+    "tariqramadan.com": 910,
+    "facebook.com/official.tariqramadan": 910,
+    "twitter.com/TariqRamadan": 910,
+    "youtube.com/user/tariqramadanvideo": 910,
+    "fr.sputniknews.com": 909,
+    "facebook.com/sputnik.france": 908,
+    "twitter.com/sputnik_fr": 908,
+    "youtube.com/channel/UCqwac9xog45LRWMvufXs3hA": 908,
+    "sputniknews.com": 908,
+    "spi0n.com": 907,
+    "facebook.com/Spi0n": 907,
+    "twitter.com/spi0n": 907,
+    "youtube.com/channel/UC5fxtOYF2fukJrBa5O5WA5w": 907,
+    "facebook.com/Soutien-National-En-Bleu-Marine-439281732799406": 798,
+    "santeici.com": 905,
+    "facebook.com/LaVieEstBelle.Citations": 905,
+    "francais.rt.com": 904,
+    "rt.com": 903,
+    "facebook.com/RussiaTodayRT": 903,
+    "twitter.com/RT_com": 903,
+    "youtube.com/user/RussiaToday": 903,
+    "russeurope.hypotheses.org": 902,
+    "ruptly.tv/home": 901,
+    "facebook.com/Ruptly": 901,
+    "twitter.com/ruptly": 901,
+    "youtube.com/user/RuptlyTV": 901,
+    "rivarol.com": 900,
+    "rebellyon.info": 899,
+    "radiocourtoisie.fr": 898,
+    "quenelplus.com": 897,
+    "facebook.com/quenelplusmagazine": 897,
+    "youtube.com/channel/UCLKWkGCEpv6ERKisCgNjE8Q": 897,
+    "public.fr": 896,
+    "facebook.com/publicfr": 896,
+    "twitter.com/PublicFR": 896,
+    "youtube.com/channel/UC6SVo5JmZvxL484Ix3VfT5Q": 896,
+    "positivr.fr": 895,
+    "facebook.com/positivr.fr": 895,
+    "twitter.com/ThePOSITIVR": 895,
+    "youtube.com/user/thepositivr": 895,
+    "pausecafein.fr": 894,
+    "facebook.com/PauseCafein": 894,
+    "twitter.com/PauseCafein": 894,
+    "youtube.com/channel/UC_AWBLXyzNtmS4ixEcAvmuQ": 894,
+    "paris-luttes.info": 893,
+    "facebook.com/Paris-Luttes-Info-369286609874176": 893,
+    "oumma.com": 892,
+    "facebook.com/oummacom": 892,
+    "twitter.com/oumma": 892,
+    "youtube.com/user/oumma": 892,
+    "twitter.com/OnlineMagazin": 891,
+    "ojim.fr": 890,
+    "twitter.com/ojim_france": 890,
+    "occupydemocrats.com": 889,
+    "facebook.com/OccupyDemocrats": 889,
+    "twitter.com/occupydemocrats": 889,
+    "youtube.com/channel/UCn_uMY15GlwaPpx80-WjR6g": 889,
+    "occitanie-tribune.com": 888,
+    "facebook.com/Occitanie.Tribune": 888,
+    "fr.novopress.info": 887,
+    "facebook.com/novopress.info": 887,
+    "twitter.com/novopress": 887,
+    "youtube.com/user/novopress": 887,
+    "ndf.fr": 886,
+    "facebook.com/nouvellesdefrance": 886,
+    "twitter.com/ndffr": 886,
+    "nypost.com": 885,
+    "facebook.com/NYPost": 885,
+    "twitter.com/nypost": 885,
+    "youtube.com/user/NYPost": 885,
+    "myfunbuzz.ca": 884,
+    "mrmondialisation.org": 883,
+    "facebook.com/M.Mondialisation": 883,
+    "twitter.com/Mondi_Alisation": 883,
+    "youtube.com/user/MrMondialisation": 883,
+    "minutebuzz.com": 882,
+    "facebook.com/minutebuzz": 882,
+    "twitter.com/minutebuzz": 882,
+    "youtube.com/user/MinuteBuzz": 882,
+    "minute-hebdo.fr": 881,
+    "meilleur.millennium-buzz.com": 880,
+    "meta.tv": 879,
+    "facebook.com/MetatvFrance": 879,
+    "twitter.com/MetaTVFrance": 879,
+    "youtube.com/user/MetaTVofficiel": 879,
+    "melty.fr": 878,
+    "facebook.com/melty.fr": 878,
+    "twitter.com/melty_fr": 878,
+    "youtube.com/user/meltyGroup": 878,
+    "twitter.com/LesNews": 877,
+    "les-identitaires.com": 876,
+    "letribunaldunet.fr": 875,
+    "facebook.com/letribunaldunet": 875,
+    "twitter.com/Letribunaldunet": 875,
+    "youtube.com/user/anasslaa": 875,
+    "lelibrepenseur.org": 874,
+    "youtube.com/channel/UCPUSmrZA43seY9Pfw8jrdFw": 874,
+    "lejournaldusiecle.com": 873,
+    "facebook.com/LeJournalduSiecle": 873,
+    "twitter.com/JournalduSiecle": 873,
+    "youtube.com/user/LeJournalduSiecleTV": 873,
+    "lebreviairedespatriotes.fr": 872,
+    "facebook.com/Lebreviairedespatriotes": 872,
+    "youtube.com/user/lebreviaireTV": 872,
+    "lazappeuzefolle.over-blog.com": 871,
+    "twitter.com/zapeuzefolle": 871,
+    "lanutrition.fr": 870,
+    "facebook.com/lanutrition": 870,
+    "lahorde.samizdat.net": 869,
+    "konbini.com": 868,
+    "facebook.com/konbinifr": 868,
+    "twitter.com/KonbiniFr": 868,
+    "jssnews.com": 867,
+    "facebook.com/JSSNews": 867,
+    "twitter.com/JSSNews": 867,
+    "youtube.com/user/teilativi": 867,
+    "twitter.com/infos140": 866,
+    "infochretienne.com": 865,
+    "humourdemecs.com": 864,
+    "facebook.com/HumourMecs": 864,
+    "twitter.com/HumourDeMec": 864,
+    "hitek.fr": 863,
+    "facebook.com/hitekfr": 863,
+    "twitter.com/Hitekfr": 863,
+    "herault-tribune.com": 862,
+    "facebook.com/AGDE.CAP.D.AGDE": 862,
+    "twitter.com/HeraultTribune": 862,
+    "fdesouche.com": 861,
+    "facebook.com/fdesouche": 861,
+    "twitter.com/F_Desouche": 861,
+    "fakirpresse.info": 860,
+    "facebook.com/JournalFakir": 860,
+    "twitter.com/Fakir_": 860,
+    "youtube.com/user/Fakirpresse": 860,
+    "eurocalifat.wordpress.com": 859,
+    "etienne.chouard.free.fr": 858,
+    "facebook.com/etienne.chouard": 858,
+    "twitter.com/Etienne_Chouard": 858,
+    "chouard.org/blog": 857,
+    "enquete-debat.fr": 856,
+    "facebook.com/Enqu%C3%AAte-et-d%C3%A9bat-141562605864294": 856,
+    "twitter.com/Enquete_etDebat": 856,
+    "youtube.com/channel/UCgf11z-pUhoVoNfeIeGyH4Q": 856,
+    "drudgereport.com": 855,
+    "facebook.com/mattdrudge": 855,
+    "twitter.com/DRUDGE_REPORT": 855,
+    "doctissimo.fr": 854,
+    "facebook.com/doctissimo": 854,
+    "twitter.com/doctissimo": 854,
+    "youtube.com/user/Doctissimo": 854,
+    "demotivateur.fr": 853,
+    "facebook.com/demotivateur": 853,
+    "twitter.com/Demotivateur": 853,
+    "dailymail.co.uk": 852,
+    "facebook.com/DailyMail": 852,
+    "twitter.com/MailOnline": 852,
+    "youtube.com/channel/UCR2VgcovcTAvQrDW9ZAlUxQ": 852,
+    "counterpunch.org": 851,
+    "facebook.com/CounterPunchOrg": 851,
+    "twitter.com/NatCounterPunch": 851,
+    "contribuables.org": 850,
+    "facebook.com/contribuables.associes": 850,
+    "twitter.com/contribuables": 850,
+    "youtube.com/user/contribuables": 850,
+    "contrepoints.org": 849,
+    "facebook.com/Contrepoints": 849,
+    "twitter.com/Contrepoints": 849,
+    "youtube.com/channel/UCp6W9gfT281VmbMPH4q6F9w": 849,
+    "contre-info.com": 848,
+    "christianophobie.fr": 846,
+    "buzzfil.net": 845,
+    "facebook.com/BuzzFilCom": 845,
+    "twitter.com/BuzzFilcom": 845,
+    "breitbart.com": 844,
+    "facebook.com/Breitbart": 844,
+    "twitter.com/BreitbartNews": 844,
+    "youtube.com/channel/UCmgnsaQIK1IR808Ebde-ssA": 844,
+    "brandonturbeville.com": 843,
+    "bvoltaire.fr": 842,
+    "facebook.com/bvoltaire.fr": 842,
+    "twitter.com/BVoltaire": 842,
+    "youtube.com/channel/UCx9ygIxPfYR05kY92KzvbvA": 842,
+    "bipartisanreport.com": 841,
+    "facebook.com/Bipartisanism": 841,
+    "twitter.com/bipartisanism": 841,
+    "beingliberal.tumblr.com": 840,
+    "facebook.com/beingliberal.org": 840,
+    "beforeitsnews.com": 839,
+    "arretsurinfo.ch": 838,
+    "facebook.com/arretsurinfo": 838,
+    "americannewsx.com": 837,
+    "facebook.com/anxfreedom": 837,
+    "twitter.com/americannewsx": 837,
+    "al-kanz.org": 836,
+    "facebook.com/Al-Kanz-159659722813": 836,
+    "twitter.com/Alkanz": 836,
+    "agenceinfolibre.fr": 835,
+    "facebook.com/agenceinfolibre": 835,
+    "twitter.com/AgenceInfoLibre": 835,
+    "youtube.com/user/infosdontonparlepeu": 835,
+    "facebook.com/Actu17": 834,
+    "20min.ch/ro": 833,
+    "generation-identitaire.com": 832,
+    "facebook.com/GenerationIdentitaire": 832,
+    "youtube.com/user/GenerationID": 832,
+    "4emesinge.com": 831,
+    "24heuresactu.com": 830,
+    "facebook.com/24heuresactu": 830,
+    "medias-presse.info": 829,
+    "facebook.com/MediasPresseInfo": 829,
+    "twitter.com/InfoMdia": 829,
+    "youtube.com/channel/UCzkvdLzgFecbUBRdgPX3RLg": 829,
+    "activistpost.com": 828,
+    "facebook.com/activistpost": 828,
+    "lesmoutonsenrages.fr": 827,
+    "facebook.com/LesMoutonsEnrages": 827,
+    "dreuz.info": 826,
+    "facebook.com/Dreuz.info": 826,
+    "twitter.com/Dreuz_1fo": 826,
+    "cercledesvolontaires.fr": 825,
+    "facebook.com/Cercle-des-Volontaires-302002546528363": 825,
+    "youtube.com/user/CercleDesVolontaires": 825,
+    "lesbrindherbes.org": 824,
+    "facebook.com/2017Anonymous": 823,
+    "illuminati-news.com": 822,
+    "informationliberation.com": 821,
+    "facebook.com/informationliberation": 821,
+    "twitter.com/infolibnews": 821,
+    "avortement.net": 820,
+    "facebook.com/ivgoupas": 820,
+    "yournewswire.com": 819,
+    "twitter.com/YannMerkado": 818,
+    "wikistrike.com": 817,
+    "facebook.com/WikiStrikeOfficiel": 817,
+    "twitter.com/WikistrikeW": 817,
+    "whatreallyhappened.com": 816,
+    "whatdoesitmean.com": 815,
+    "wanted-pedo.com": 814,
+    "facebook.com/wantedpedo1": 814,
+    "twitter.com/WantedPedo": 814,
+    "voltairenet.org/fr": 813,
+    "facebook.com/GlobalPublicPolicyAnalysis": 812,
+    "vigilantcitizen.com": 811,
+    "usatodaycom.com": 810,
+    "usanewsflash.com": 809,
+    "truepundit.com": 808,
+    "twitter.com/tprincedelamour": 807,
+    "infos-toulouse.fr": 806,
+    "thepoliticalinsider.com": 805,
+    "facebook.com/ThePoliticalInsider": 805,
+    "tapnewswire.com": 804,
+    "swagactu.com": 803,
+    "twitter.com/SwagActu": 803,
+    "subjectpolitics.com": 802,
+    "stopmensonges.com": 801,
+    "facebook.com/Stop-mensonges-1425042384450827": 801,
+    "youtube.com/channel/UCHy8kwF57Kh-YflbJ0WsMoA": 801,
+    "facebook.com/STOP.Immigration.France": 800,
+    "stevequayle.com": 799,
+    "facebook.com/Sos-racisme-anti-blanc-957221704360838": 797,
+    "fr.sott.net": 796,
+    "sante-nutrition.org": 795,
+    "facebook.com/Sant%C3%A9-Nutrition-598338556946671": 795,
+    "santenatureinnovation.com": 794,
+    "rustyjames.canalblog.com": 793,
+    "russia-insider.com": 792,
+    "facebook.com/RussiaInsider": 792,
+    "twitter.com/RussiaInsider": 792,
+    "youtube.com/user/RussiaInsiderTV": 792,
+    "ripostelaique.com": 791,
+    "facebook.com/Riposte-La%C3%AFque-France-504523149704794": 791,
+    "twitter.com/1RiposteLaique": 791,
+    "youtube.com/user/ciceropicas": 791,
+    "rhonealpesinfo.fr": 790,
+    "revolutionvibratoire.fr": 789,
+    "resistancerepublicaine.eu": 788,
+    "facebook.com/SYNERGIEFRANCAISE": 787,
+    "reseauinternational.net": 786,
+    "facebook.com/reseauinternational": 786,
+    "twitter.com/reseau_internat": 786,
+    "reptiliens.blogspot.fr": 785,
+    "reopen911.info": 784,
+    "reinformation.tv": 783,
+    "twitter.com/ReinformationRC": 782,
+    "redstatewatcher.com": 781,
+    "facebook.com/RedStateBlog": 781,
+    "twitter.com/RedState": 781,
+    "purfi.com": 780,
+    "projectpurge.com": 779,
+    "presstv.ir": 778,
+    "presidentielle-2017.info": 777,
+    "polemia.com": 776,
+    "pluxactu.com": 775,
+    "pilulerouge.over-blog.com": 774,
+    "peupledefrance.com": 773,
+    "penserlibrement.fr": 772,
+    "parstoday.com/fr": 771,
+    "parisvox.info": 770,
+    "facebook.com/parisvox": 770,
+    "twitter.com/paris_vox": 770,
+    "panamza.com": 769,
+    "facebook.com/panhamza": 769,
+    "twitter.com/Panamza": 769,
+    "youtube.com/user/Panamza": 769,
+    "oulala.info": 768,
+    "facebook.com/LaFranceAvenir": 767,
+    "nouvelordremondial.cc": 766,
+    "facebook.com/Le-Nouvel-Ordre-Mondial-1617263745165483": 766,
+    "nordactu.fr": 765,
+    "facebook.com/niceprovenceinfo": 763,
+    "twitter.com/nord_actu": 765,
+    "nodisinfo.com": 764,
+    "nice-provence.info": 763,
+    "twitter.com/NiceProvenceInf": 763,
+    "newzsentinel.com": 762,
+    "mysondage.fr": 761,
+    "myjournal.fr": 760,
+    "mondialisation.ca": 759,
+    "facebook.com/Mondialisationca-148564318542045": 759,
+    "mk-polis2.eklablog.com": 758,
+    "michelcollon.info": 757,
+    "fr.metapedia.org": 756,
+    "messagesdelanature.ek.la": 755,
+    "mensonges.fr/index.html": 754,
+    "medialibre.eu": 753,
+    "lesobservateurs.ch": 752,
+    "facebook.com/LesObservateurs.ch": 752,
+    "twitter.com/ObservateursCH": 752,
+    "lesmoutonsrebelles.com": 751,
+    "les-crises.fr": 750,
+    "leschroniquesderorschach.blogspot.fr": 749,
+    "youtube.com/channel/UC3S4Fu3lFl_wUGMuxG7pKuw": 749,
+    "lengadoc-info.com": 748,
+    "le6emetiroir.blogspot.fr": 747,
+    "professeur-joyeux.com": 746,
+    "facebook.com/PrJoyeux": 746,
+    "twitter.com/PrJoyeux": 746,
+    "lesalonbeige.blogs.com": 745,
+    "legrandsoir.info": 744,
+    "leblogalupus.com": 743,
+    "facebook.com/Larevoltedesvachesalait": 742,
+    "lapressegalactique.com": 741,
+    "laminedinfos.fr": 740,
+    "lagauchematuer.fr": 739,
+    "facebook.com/La-gauche-ma-tuer-192672454095323": 739,
+    "twitter.com/lagauchematuer": 739,
+    "youtube.com/channel/UCBtGQBWsIUtOz1Yh6oBSUMA": 739,
+    "la-chronique-agora.com": 738,
+    "facebook.com/Loeil-De-La-HONTE-431870643589953": 737,
+    "linsoumis.com": 736,
+    "facebook.com/linsoumisjournal": 736,
+    "twitter.com/linsoumis_fr": 736,
+    "twitter.com/linformatrice": 735,
+    "kontrekulture.com": 734,
+    "jp-petit.org": 733,
+    "jovanovic.com": 732,
+    "facebook.com/la.revue.de.presse.jovanovic": 732,
+    "twitter.com/pierrejovanovic": 732,
+    "youtube.com/channel/UCG6Zpr_CnDxASjeHyBHtQMw": 732,
+    "jeune-nation.com": 731,
+    "facebook.com/infoJeuneNation": 731,
+    "twitter.com/JeuneNation": 731,
+    "je-suis-stupide-j-ai-vote-hollande.fr": 730,
+    "facebook.com/JeSuisStupideJaiVoteHollande": 730,
+    "facebook.com/Je-soutiens-Vladimir-Poutine-677127992409179": 729,
+    "facebook.com/JMDPEJT": 728,
+    "ivg.net": 727,
+    "islamisme.fr": 726,
+    "infos-bordeaux.fr": 725,
+    "facebook.com/InfosBordeaux": 725,
+    "twitter.com/infosbordeaux": 725,
+    "informations-en-direct-france.com": 724,
+    "youtube.com/channel/UCqtsUZaYQ2bQiRrUmEEzoww": 724,
+    "informaction.info": 723,
+    "infowars.com": 722,
+    "info-contre-info.fr": 721,
+    "facebook.com/INFO-contre-INFO-535117736621933": 721,
+    "twitter.com/infovsinfo": 721,
+    "illuminatiwatcher.com": 720,
+    "ilfattoquotidiano.fr": 719,
+    "horsdevospenses12333.blogspot.fr": 718,
+    "hollande-demission.fr": 717,
+    "facebook.com/Mouvement.HollandeDemission": 717,
+    "twitter.com/David_vanH": 717,
+    "youtube.com/user/dvh2012": 717,
+    "hollande-degage.fr": 716,
+    "facebook.com/CollectifHollandeDegage": 716,
+    "twitter.com/degage_hollande": 716,
+    "histoires-paranormales.fr": 715,
+    "twitter.com/Herissident": 714,
+    "henrymakow.wordpress.com": 713,
+    "twitter.com/HenryMakow": 713,
+    "freewiseman.com": 712,
+    "facebook.com/Free-Wise-Man-734072019992447": 712,
+    "facebook.com/France-ma-patrie-ma-nation-798326480197566": 711,
+    "lespatriotesencolere.com": 710,
+    "facebook.com/patriotesencolere": 710,
+    "fawkes-news.com": 709,
+    "facebook.com/AnonFawkesNews": 709,
+    "twitter.com/guy_fawkes_news": 709,
+    "endingthefed.com": 708,
+    "facebook.com/endfederalreserve": 708,
+    "espritsciencemetaphysiques.com": 707,
+    "egaliteetreconciliation.fr": 706,
+    "facebook.com/Egalité-et-Réconciliation-147792445266231": 706,
+    "twitter.com/EetR_National": 706,
+    "dondevamos.canalblog.com": 705,
+    "disinfo.com": 704,
+    "disclose.tv": 703,
+    "diktacratie.com": 702,
+    "facebook.com/diktacratie": 702,
+    "twitter.com/diktacratie": 702,
+    "dieudosphere.com": 701,
+    "facebook.com/dieudonneofficiel": 701,
+    "twitter.com/MbalaDieudo": 701,
+    "youtube.com/user/iamdieudo4": 701,
+    "diatala.org": 700,
+    "dernieresnouvellesdudragon.blogspot.fr": 699,
+    "departedmedia.info": 698,
+    "denverguardian.com": 697,
+    "demicmedia.com": 696,
+    "dcposts.com": 695,
+    "davidicke.com": 694,
+    "facebook.com/davidicke": 694,
+    "twitter.com/davidicke": 694,
+    "youtube.com/user/davidicke": 694,
+    "dailynewsbin.com": 693,
+    "facebook.com/dailynewsbin": 693,
+    "twitter.com/DailyNewsBin": 693,
+    "cuisine-et-sante.net": 692,
+    "croa.fr": 691,
+    "facebook.com/croaplus": 691,
+    "corbettreport.com": 690,
+    "facebook.com/TheCorbettReport": 690,
+    "twitter.com/corbettreport": 690,
+    "youtube.com/channel/UC7TvL4GlQyMBLlUsTrN_C4Q": 690,
+    "consensus911.org/fr": 689,
+    "conscience-du-peuple.blogspot.fr": 688,
+    "commentaires.ch": 687,
+    "chaoscontrole.canalblog.com": 686,
+    "breizh-info.com": 685,
+    "facebook.com/breizhinformation": 685,
+    "twitter.com/breizh_info": 685,
+    "breizatao.com": 684,
+    "facebook.com/breizhouratav": 684,
+    "borislelay.com": 683,
+    "facebook.com/Boris-Le-Lay-403505586497759": 683,
+    "twitter.com/boris_lay": 683,
+    "youtube.com/channel/UC36mSY_4inu-Rx5TAIfKXfA": 683,
+    "bataii.com": 682,
+    "barenakedislam.com": 681,
+    "twitter.com/@barenakedislam": 681,
+    "fr.awdnews.com": 680,
+    "arcturius.org": 679,
+    "log.antipresse.net": 678,
+    "facebook.com/antipresse": 678,
+    "twitter.com/antipresse_net": 678,
+    "anonews.co": 677,
+    "americannews.com": 676,
+    "facebook.com/ThePatriotReview": 676,
+    "alterinfo.net": 675,
+    "alalumieredunouveaumonde.blogspot.fr": 674,
+    "ae911truth.org": 673,
+    "facebook.com/ae911truth": 673,
+    "twitter.com/AE911Truth": 673,
+    "abcnews.com.co": 672,
+    "70news.wordpress.com": 671,
+    "21stcenturywire.com": 670,
+    "facebook.com/21WIRE.TV": 670,
+    "twitter.com/21WIRE": 670,
+    "youtube.com/user/21stCenturyWireTV": 670,
+    "2012nouvelmorguemondial.over-blog.com": 669,
+    "2012un-nouveau-paradigme.com": 668,
+    "facebook.com/NouvelleTerre": 668,
+    "twitter.com/LNParadigme": 668,
+    "100percentfedup.com": 667,
+    "mespropresrecherches.com": 666,
+    "witscience.org": 665,
+    "worldnewsdailyreport.com": 664,
+    "weeklyworldnews.com": 663,
+    "thestatelyharold.com": 662,
+    "thespoof.com": 661,
+    "thereporterz.com": 660,
+    "theonion.com": 659,
+    "facebook.com/TheOnion": 659,
+    "twitter.com/theonion": 659,
+    "themideastbeast.com": 658,
+    "thelapine.ca": 657,
+    "thebostontribune.com": 656,
+    "sud-ou-est.fr": 655,
+    "stuppid.com": 654,
+    "scienceinfo.fr": 653,
+    "rockcitytimes.com": 652,
+    "politicops.com": 651,
+    "piremedias.com": 650,
+    "now8news.com": 649,
+    "nordpresse.be": 648,
+    "facebook.com/nordpressebelgique": 648,
+    "twitter.com/nordpresse": 648,
+    "newslo.com": 647,
+    "newswatch33.com": 646,
+    "newsthump.com": 645,
+    "facebook.com/NewsThump": 645,
+    "twitter.com/newsthump": 645,
+    "newsexaminer.com": 644,
+    "newsbiscuit.com": 643,
+    "ncscooper.com": 642,
+    "nationalreport.net": 641,
+    "mediamass.net": 640,
+    "facebook.com/Mediamass": 640,
+    "linkbeef.com": 639,
+    "lerryberitfr.over-blog.com": 638,
+    "lenavet.ca": 637,
+    "facebook.com/lenavetmag": 637,
+    "twitter.com/Le_Navet": 637,
+    "lejurafi.fr": 636,
+    "twitter.com/LeJurafi": 636,
+    "legorafi.fr": 635,
+    "facebook.com/legorafi": 635,
+    "twitter.com/le_gorafi": 635,
+    "ledailyberet.fr": 634,
+    "facebook.com/lecourrierdesechos": 634,
+    "lasardineduport.fr": 633,
+    "facebook.com/lasardineduport": 633,
+    "twitter.com/sardinedp": 633,
+    "ladechedumidi.com": 632,
+    "facebook.com/La-D%C3%A8che-du-Midi-393616387445504": 632,
+    "lepique.com": 631,
+    "facebook.com/lepique.fr": 631,
+    "twitter.com/iepique": 631,
+    "lechodelaboucle.fr": 630,
+    "facebook.com/L%C3%89cho-de-la-Boucle-1438751383069032": 630,
+    "twitter.com/echodelaboucle": 630,
+    "itaglive.com": 629,
+    "huzlers.com": 628,
+    "facebook.com/huzlersmedia": 628,
+    "twitter.com/thehuzlers": 628,
+    "youtube.com/channel/UCBFffDKlDElR-kLDPoRdhrQ": 628,
+    "gomerblog.com": 627,
+    "freddymag.com": 626,
+    "francefoire.fr": 625,
+    "footballfrance.fr": 624,
+    "facebook.com/footballfrance.fr": 624,
+    "twitter.com/FootballFrance_": 624,
+    "flashinfo.org": 623,
+    "en-bref.fr": 622,
+    "empiresports.co": 621,
+    "empirenews.net": 620,
+    "facebook.com/EmpireNewsNet": 620,
+    "empireherald.com": 619,
+    "el-manchar.com": 618,
+    "facebook.com/dz.manchar": 618,
+    "twitter.com/el_manchar": 618,
+    "edukactus.wordpress.com": 617,
+    "facebook.com/EdukActus": 617,
+    "twitter.com/edukactus": 617,
+    "desencyclopedie.wikia.com": 616,
+    "darons.net": 615,
+    "crash-aerien.aero": 614,
+    "clonezone.link": 613,
+    "clickhole.com": 612,
+    "facebook.com/clickhole": 612,
+    "twitter.com/clickhole": 612,
+    "civictribune.com": 611,
+    "cityworldnews.com": 610,
+    "breakingnews247.net": 609,
+    "bravepatrie.com": 608,
+    "twitter.com/bravepatrie": 608,
+    "branched.fr": 607,
+    "facebook.com/Branched-663320333727813": 607,
+    "twitter.com/Branchednews": 607,
+    "boulevard69.com": 606,
+    "facebook.com/boulevard69": 606,
+    "twitter.com/Boulevard69": 606,
+    "boucherie-ovalie.org": 605,
+    "facebook.com/BoucherieOvalie": 605,
+    "twitter.com/boucherieovalie": 605,
+    "bilboquet-magazine.fr": 604,
+    "facebook.com/BilboquetMagazine": 604,
+    "twitter.com/BilboquetMag": 604,
+    "amplifyingglass.com": 603,
+    "facebook.com/AmplifyingGlass": 603,
+    "twitter.com/amplifyingG": 603,
+    "actualites.co": 602,
+    "abcnewsgo.co": 601,
+    "24matin.ch": 600,
+    "facebook.com/24matin": 600,
+    "twitter.com/24matin": 600,
+    "jeuxvideo.com/forums.htm": 599,
+    "youtube.com": 598,
+    "fr.yahoo.com": 597,
+    "facebook.com/yahooactualites": 597,
+    "twitter.com/Yahoo": 597,
+    "twitter.com": 596,
+    "tumblr.com": 595,
+    "snapchat.com": 594,
+    "reddit.com": 593,
+    "linkedin.com": 592,
+    "lepoint.fr/chroniques": 591,
+    "liberation.fr/debats": 590,
+    "lemonde.fr/idees": 589,
+    "forum.doctissimo.fr": 588,
+    "blog.mondediplo.net": 587,
+    "blog.lemonde.fr": 586,
+    "blogs.mediapart.fr": 585,
+    "leplus.nouvelobs.com": 584,
+    "facebook.com/leplus.nouvelobs": 584,
+    "twitter.com/LePlus": 584,
+    "lefigaro.fr/vox": 583,
+    "facebook.com/lefigarovox": 583,
+    "twitter.com/FigaroVox": 583,
+    "lesechos.fr/idees-debats/cercle": 582,
+    "marianne.net/agora-": 581,
+    "instagram.com": 580,
+    "plus.google.com": 579,
+    "facebook.com": 578,
+    "dailymotion.com": 577,
+    "agoravox.fr": 576,
+    "facebook.com/agoravox": 576,
+    "twitter.com/agoravox": 576,
+    "9gag.com": 575,
+    "facebook.com/9gag": 575,
+    "twitter.com/9GAG": 575,
+    "fr.wikipedia.org": 574,
+    "facebook.com/wikipedia": 574,
+    "twitter.com/Wikipedia": 574,
+    "wikihow.com": 573,
+    "facebook.com/wikiHow": 573,
+    "twitter.com/wikiHow": 573,
+    "youtube.com/user/WikiHow": 573
+  }
+}
