@@ -1063,7 +1063,7 @@
       "les-chroniques-de-rorschach"
     ],
     "750": [
-      2,
+      3,
       "Un blog d'analyses économiques et géopolitiques qui héberge parfois des théories conspirationnistes, notamment sur la crise ukrainienne.",
       "Les Crises",
       "les-crises"
@@ -1715,12 +1715,6 @@
       "Un site d'opinion, hostile à l'islam, qui publie parfois de fausses informations.",
       "Eurocalifat",
       "eurocalifat"
-    ],
-    "860": [
-      3,
-      "Un journal indépendant de gauche, situé à Amiens, dirigé par François Ruffin, réalisateur du film « Merci patron », avec une ligne éditoriale militante et un parti pris clairement revendiqué.",
-      "Fakir",
-      "fakir"
     ],
     "861": [
       3,
@@ -2375,12 +2369,6 @@
       "Un quotidien gratuit et site Internet d'information généraliste qui appartient au groupe de médias de Vincent Bolloré, également propriétaire de Canal +.",
       "Direct matin",
       "direct-matin"
-    ],
-    "973": [
-      4,
-      "Un hebdomadaire féminin.",
-      "Elle",
-      "elle"
     ],
     "974": [
       4,
@@ -4039,9 +4027,6 @@
     "fr.euronews.com": 974,
     "facebook.com/fr.euronews": 974,
     "twitter.com/euronews": 974,
-    "elle.fr": 973,
-    "facebook.com/elle": 973,
-    "twitter.com/ELLEfrance": 973,
     "directmatin.fr": 972,
     "facebook.com/directmatin": 972,
     "twitter.com/DirectMatin": 972,
@@ -4327,10 +4312,6 @@
     "fdesouche.com": 861,
     "facebook.com/fdesouche": 861,
     "twitter.com/F_Desouche": 861,
-    "fakirpresse.info": 860,
-    "facebook.com/JournalFakir": 860,
-    "twitter.com/Fakir_": 860,
-    "youtube.com/user/Fakirpresse": 860,
     "eurocalifat.wordpress.com": 859,
     "etienne.chouard.free.fr": 858,
     "facebook.com/etienne.chouard": 858,
