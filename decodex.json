@@ -3527,9 +3527,26 @@
       "Un quotidien et site Internet d'information généraliste. Le groupe est détenu depuis 2010 par les hommes d'affaires Xavier Niel, Pierre Bergé et Matthieu Pigasse.",
       "Le Monde (édition abonnés mobile)",
       "le-monde-edition-abonnes-mobile"
+    ],
+    "1174": [
+      2,
+      "Un site qui agrège des articles issus d'autres sites, dont certains de type conspirationniste",
+      "Le Monde des informations alternatives",
+      "le-monde-des-informations-alternatives"
+    ],
+    "1175": [
+      4,
+      "Un site et un magazine consacrés à l'économie et au social, qui se place dans une tradition économique héritée de Keynes et du régulationnisme. Le site, fondé par l'économiste Denis Clerc, est détenu par ses salariés.",
+      "Alternatives Economiques",
+      "alternatives-economiques"
     ]
   },
   "urls": {
+    "alternatives-economiques.fr": 1175,
+    "facebook.com/AlternativesEconomiques": 1175,
+    "twitter.com/AlterEco_": 1175,
+    "youtube.com/user/LJALTERECO": 1175,
+    "monde.taibaweb.com": 1174,
     "abonnes.mobile.lemonde.fr": 1173,
     "facebook.com/lemonde.fr": 1044,
     "twitter.com/lemondefr": 1044,
