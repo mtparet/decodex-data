@@ -3545,9 +3545,51 @@
       "Une page Facebook d'extrême droite qui relaie régulièrement de fausses informations. Elle a par exemple diffusé une lettre à la ministre de l'éducation Najat Vallaud-Belkacem attribué à tort à l'écrivain Jean d'Ormesson (elle était en fait écrite par un internaute).",
       "Je suis Fier D'etre Francais",
       "je-suis-fier-d-etre-francais"
+    ],
+    "1177": [
+      4,
+      "Le site de l'émission de la chaîne audiovisuelle publique France 5. Il est alimenté par des médecins et des journalistes. Leur rubrique « le faux de l'info » vérifie les rumeurs ou les informations virales.",
+      "Allo Docteurs",
+      "allo-docteurs"
+    ],
+    "1178": [
+      3,
+      "Un site Internet, hébergé en Algérie, qui relaie régulièrement des informations déformées ou exagérées sur la santé. Il propose par exemple un article vantant les vertus du corossol, ce fruit prétendument miraculeux, contre le cancer, ou une analyse sur les problèmes thyroïdiens qui seraient liés au plastique, sans citer de source. Aucune information n'est disponible sur l'auteur (ou les auteurs) du site.",
+      "Santé et sport",
+      "sante-et-sport-1"
+    ],
+    "1179": [
+      3,
+      "Un site internet réalisé par un militant dénonçant l'influence négative des ondes et un complot supposé des lobbys et des médias contre les électrosensibles. Il relaie des informations généralement sourcées, en les présentant avec un parti pris assumé.",
+      "Electrosensible.info",
+      "electrosensible-info"
+    ],
+    "1180": [
+      3,
+      "Le site de l'Institut pour la protection de la santé naturelle, qui milite pour la « médecine naturelle », c'est-à-dire l'utilisation des plantes médicinales plutôt que des médicaments et des vaccins. L’IPSN est financé par des dons, des conférences et des partenariats (avec une société d’édition, l’Ecole lyonnaise des plantes médicinales, et des PME d’herboristes). Il compte dans son comité scientifique le professeur Henri Joyeux, radié de l'ordre des médecins en 2016, notamment pour « des manquements d’une extrême gravité au code de déontologie », et qui met notamment en avant des théories conspirationnistes anti-vaccins.",
+      "Institut pour la protection de la santé naturelle",
+      "institut-pour-la-protection-de-la-sante-naturelle"
+    ],
+    "1181": [
+      3,
+      "Comme indiqué dans les mentions légales, il s'agit du site du Centre d’études et de documentation du sucre (CEDUS), qui rassemble les industriels du secteur betterave-canne-sucre en France. Il ne diffuse pas d'informations volontairement erronées, mais il tend à minimiser les risques du sucre pour en vanter plutôt les mérites.",
+      "Centre d’études et de documentation du sucre (CEDUS)",
+      "centre-d-etudes-et-de-documentation-du-sucre-cedus"
     ]
   },
   "urls": {
+    "lesucre.com": 1181,
+    "facebook.com/lesucrepage": 1181,
+    "twitter.com/lesucretvous": 1181,
+    "youtube.com/user/LeSucreEnVideo/videos": 1181,
+    "ipsn.eu": 1180,
+    "electrosensible.info": 1179,
+    "twitter.com/electroallergik": 1179,
+    "sante-et-sport.com": 1178,
+    "facebook.com/sportssante": 1152,
+    "allodocteurs.fr": 1177,
+    "facebook.com/allodoc": 1177,
+    "twitter.com/allodocteurs": 1177,
     "facebook.com/tricolorpatriote": 1176,
     "alternatives-economiques.fr": 1175,
     "facebook.com/AlternativesEconomiques": 1175,
@@ -3602,7 +3644,6 @@
     "ayoye.com": 1153,
     "facebook.com/AyoyeFrance": 1153,
     "sante-et-sport.com/2016/08/attention-le-wifi-nous-tue.html": 1152,
-    "facebook.com/sportssante": 1152,
     "facebook.com/PenseDeFilles": 1151,
     "facebook.com/Seum.couples": 1150,
     "buzzsurnet.com": 1149,
