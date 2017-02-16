@@ -91,8 +91,8 @@
       "les-blogs-du-monde-diplomatique"
     ],
     "588": [
-      0,
-      "L'espace de discussion du site Internet Doctissimo, consacré à la santé et au bien-être. Attention : les avis ou conseils partagés dans ces discussions n'émanent pas forcément de personnes compétentes sur le sujet.",
+      2,
+      "L'espace de discussion du site Internet Doctissimo, consacré à la santé et au bien-être. Attention : les avis ou conseils partagés dans ces discussions n'émanent pas forcément de personnes compétentes en matière médicale, ce qui pose problème étant donné la nature du sujet. Si certains conseils peuvent être tout à fait pertinents, de fausses informations circulent régulièrement sur ces forums, qui ne peuvent remplacer un avis professionnel.",
       "Les forums de Doctissimo",
       "les-forums-de-doctissimo"
     ],
@@ -716,7 +716,7 @@
     ],
     "692": [
       2,
-      "Un site dédié en grande partie à l'alimentation, qui diffuse régulièrement des conseils exagérés sur de soi-disant aliments miracles. La plus grande prudence est recommandée.",
+      "Un site dédié en grande partie à l'alimentation et à la sexualité, qui diffuse régulièrement des conseils exagérés sur de prétendus aliments « miracles », reprend des études sans précaution et propage des thèses complotistes, comme celle des bananes potentiellement porteuses du virus du sida, le tout sous des titres racoleurs. Aucune information n'est disponible sur les auteurs du site ni sur ses propriétaires.",
       "Cuisine et Santé",
       "cuisine-et-sante"
     ],
@@ -926,7 +926,7 @@
     ],
     "727": [
       2,
-      "Un site anti-avortement qui se présente comme un centre d'écoute et d'information sur l'intervention volontaire de grossesse (IVG), sans que son parti pris n'apparaisse clairement",
+      "Un site anti-avortement qui est présenté comme un centre d'écoute et d'information sur l'interruption volontaire de grossesse (IVG), sans que son parti pris n'apparaisse clairement. Supposé assurer un service d’écoute et d’aide pour les femmes s’interrogeant sur une interruption de grossesse, ce numéro est en réalité celui d’une association dirigée par un couple de catholiques militant contre l'avortement.",
       "IVG.net",
       "ivg-net"
     ],
@@ -1327,14 +1327,14 @@
       "rusty-james"
     ],
     "794": [
-      2,
-      "Un site qui défend l'alimentation naturelle mais répand régulièrement de fausses informations.",
+      3,
+      "Un site tenu par deux journalistes s'appuyant sur un réseau de médecins. Il défend l'alimentation et les remèdes naturels, mais répand parfois des informations exagérées ou dépourvues de sources.Il appartient à la société SNI Editions SA, située en Suisse.",
       "Sante Nature Innovation",
       "sante-nature-innovation"
     ],
     "795": [
       2,
-      "Un site qui défend l'alimentation naturelle mais répand régulièrement de fausses informations.",
+      "Un site qui défend l'alimentation naturelle, mais qui répand régulièrement de fausses informations (par exemple sur un homme qui aurait vécu deux cent cinquante-six ans) ou des informations exagérées et dépourvues de sources (les femmes dorment plus que les hommes parce que leur cerveau travaille plus). Aucune information n'est disponible sur les auteurs et les propriétaires du site, qui prévient toutefois : « Nous ne sommes pas médecins et nous ne prétendons pas l'être. »",
       "Santé Nutrition",
       "sante-nutrition"
     ],
@@ -1682,7 +1682,7 @@
     ],
     "854": [
       3,
-      "Un site Internet consacré à la santé et au bien-être. Attention : certains articles sont signés par des médecins, d'autres non. A distinguer des forums du site, qui eux sont alimentés par des internautes.",
+      "Un site Internet consacré au bien-être et à la santé. Attention : certains articles sont signés par des médecins, d'autres non. Créé par deux médecins en 2000, il a été racheté par le groupe Lagardère en 2008. Le site précise : « Nos rédacteurs se sont spécialisés dans un domaine de santé mais ne sont pas tous des professionnels de la santé. Tout le contenu santé - bien-être est revu et validé par notre rédacteur en chef et notre directeur médical avant publication. »",
       "Doctissimo",
       "doctissimo"
     ],
@@ -1981,8 +1981,8 @@
       "russia-today-version-francaise"
     ],
     "905": [
-      3,
-      "Un site dédié à la santé qui reprend des informations sans forcément les vérifier. Prudence, il ne s'agit pas d'avis médicaux.",
+      2,
+      "Un site dédié à la santé, qui se fait l'écho de remèdes alternatifs sans toujours s'appuyer sur des sources sérieuses attestant leur efficacité. Par exemple un remède pour soigner des hémorroïdes avec une infusion de fanes de carotte ou un traitement de la pneumonie avec de l'ail et du lait. La page « Qui sommes-nous », censée identifier les auteurs et les propriétaires du site, renvoie en réalité aux différentes rubriques.",
       "Sante Ici",
       "sante-ici"
     ],
@@ -2106,12 +2106,6 @@
       "Jean-Marc Morandini",
       "jean-marc-morandini"
     ],
-    "929": [
-      3,
-      "Le site santé qui porte le nom du journaliste médias controversé Jean-Marc Morandini. Comme le site médias de ce dernier, condamné pour plagiat en 2012, le site est alimenté par des copies d'articles d'autres sites, comme le montre une enquête du site BuzzFeed. Il diffuse également des informations peu fiables. A prendre avec des pincettes.",
-      "Morandini Santé",
-      "morandini-sante"
-    ],
     "930": [
       4,
       "Un site américain en ligne, d'orientation plutôt libérale (sur le plan sociétal), appartenant au groupe IAC.",
@@ -2168,7 +2162,7 @@
     ],
     "939": [
       4,
-      "Le site officiel de l'assurance-maladie.",
+      "Il s'agit du site officiel de l'Assurance-maladie française. Les informations disponibles ont été rédigées et validées par des professionnels de santé.",
       "Ameli",
       "ameli"
     ],
@@ -2870,7 +2864,7 @@
     ],
     "1060": [
       4,
-      "Le site du programme national nutrition santé du ministère de la santé.",
+      "Le site du programme national nutrition santé du ministère de la santé, lancé en 2011. Les informations disponibles ont été rédigées et validées par des professionnels de santé.",
       "Manger Bouger",
       "manger-bouger"
     ],
@@ -3308,13 +3302,13 @@
     ],
     "1135": [
       2,
-      "Un site qui publie régulièrement des informations déformées, voire complètement trompeuses sur la santé, souvent sous des titres racoleurs. On y trouve par exemple de prétendues informations sur une boisson miracle pour « maigrir en 15 jours ! » ou sur un prétendu fruit caché au grand public « car il combat le cancer ». Autant d'informations qui sont pourtant, dans beaucoup de cas, démenties de longue date.",
+      "Un site qui publie régulièrement des informations déformées, voire complètement trompeuses, sur la santé, souvent sous des titres racoleurs. On y trouve, par exemple, de prétendues informations sur des plis dans le creux de la main associés à des retards de développement ou sur un fruit qui serait caché du public, « car il combat le cancer ». Il revendique « une équipe de journalistes indépendants épaulés par des scientifiques, médecins, thérapeutes et chercheurs qui partagent une vision holistique de la santé ». Santé+ Magazine est publié par la société Gaia Médias, qui édite « des magazines consacrés aux méthodes alternatives de traitement des maladies ».",
       "Santé + magazine",
       "sante-magazine"
     ],
     "1136": [
       2,
-      "Un site qui veut partager des « astuces naturelles » et des « recettes de grands-mères », mais relaie souvent des informations trompeuses ou déformées sur la santé, sous des titres souvent racoleurs, par exemple sur des « régimes incroyables » ou des remèdes miracles.",
+      "Ce site se présente comme « à but informatif uniquement » et qui « ne prétend aucunement à une expertise médicale avisée ». Pourtant, outre des remèdes fantaisistes contre le cancer (manger plus de légumes serait plus efficace qu'une chimiothérapie, selon ses auteurs), il propose des thèses conspirationnistes, par exemple sur les vaccins. Aucune information n'est disponible sur les auteurs et le financement de ce site.",
       "Astuces naturelles",
       "astuces-naturelles"
     ],
@@ -3407,12 +3401,6 @@
       "Une page Facebook qui relaie des informations de sites peu fiables, souvent sous des titres racoleurs.",
       "Pensées de filles",
       "pensees-de-filles"
-    ],
-    "1152": [
-      3,
-      "Un site Internet qui relaie régulièrement des informations déformées ou exagérées sur la santé.",
-      "Santé et sport",
-      "sante-et-sport"
     ],
     "1153": [
       3,
@@ -3575,9 +3563,32 @@
       "Comme indiqué dans les mentions légales, il s'agit du site du Centre d’études et de documentation du sucre (CEDUS), qui rassemble les industriels du secteur betterave-canne-sucre en France. Il ne diffuse pas d'informations volontairement erronées, mais il tend à minimiser les risques du sucre pour en vanter plutôt les mérites.",
       "Centre d’études et de documentation du sucre (CEDUS)",
       "centre-d-etudes-et-de-documentation-du-sucre-cedus"
+    ],
+    "1182": [
+      2,
+      "Site édité par la Fondation pour le libre choix, société située au Luxembourg, il propose du contenu prétendument scientifique, régulièrement sans préciser ses sources, et vend les médicaments mentionnés dans ses « articles » en bas de page. Il dépend du groupe SuperSmart, qui se définit comme « pionnier du marché européen de la supplémentation nutritionnelle ».",
+      "NutraNews",
+      "nutranews"
+    ],
+    "1183": [
+      3,
+      "Un site internet du groupe Fine Media, acquis par le groupe Pages Jaunes en 2011, qui relaie régulièrement des informations déformées sur la santé, sans forcément mentionner ses sources et en s'appuyant sur des \"experts\" auto-désignés : l'inscription en tant qu'expert est gratuite et le site dit explicitement qu'il entend améliorer le référencement et la visibilité de ces intervenants.",
+      "Ooreka",
+      "ooreka"
+    ],
+    "1184": [
+      3,
+      "Le volet santé du blog de Jean-Marc Morandini, journaliste controversé, qui reprend des contenus sur Internet, sans forcément mentionner la source ni les vérifier. Les titres sont régulièrement très accrocheurs, mais prudence sur les informations contenues dans les articles.",
+      "Blog Morandini Santé",
+      "blog-morandini-sante"
     ]
   },
   "urls": {
+    "morandinisante.com": 1184,
+    "facebook.com/jmmorandinisante": 1184,
+    "twitter.com/morandinisante": 1184,
+    "ooreka.fr/univers/sante": 1183,
+    "nutranews.org": 1182,
     "lesucre.com": 1181,
     "facebook.com/lesucrepage": 1181,
     "twitter.com/lesucretvous": 1181,
@@ -3586,7 +3597,7 @@
     "electrosensible.info": 1179,
     "twitter.com/electroallergik": 1179,
     "sante-et-sport.com": 1178,
-    "facebook.com/sportssante": 1152,
+    "facebook.com/sportssante": 1178,
     "allodocteurs.fr": 1177,
     "facebook.com/allodoc": 1177,
     "twitter.com/allodocteurs": 1177,
@@ -3643,7 +3654,6 @@
     "twitter.com/commentcamarche": 1154,
     "ayoye.com": 1153,
     "facebook.com/AyoyeFrance": 1153,
-    "sante-et-sport.com/2016/08/attention-le-wifi-nous-tue.html": 1152,
     "facebook.com/PenseDeFilles": 1151,
     "facebook.com/Seum.couples": 1150,
     "buzzsurnet.com": 1149,
@@ -3669,6 +3679,7 @@
     "facebook.com/topibuzz": 1137,
     "astucesnaturelles.net": 1136,
     "facebook.com/astucesnaturellesmag": 1136,
+    "twitter.com/astucenaturelle": 1136,
     "santeplusmag.com": 1135,
     "facebook.com/santeplusmag": 1135,
     "twitter.com/Santeplusmag": 1135,
@@ -3864,6 +3875,7 @@
     "facebook.com/Marianne.magazine": 1061,
     "twitter.com/MarianneleMag": 1061,
     "mangerbouger.fr": 1060,
+    "facebook.com/mangerbouger": 1060,
     "madame.lefigaro.fr": 1059,
     "facebook.com/MadameFigaro": 1059,
     "twitter.com/Madamefigaro": 1059,
@@ -4181,6 +4193,7 @@
     "facebook.com/arretsurimages.net": 940,
     "twitter.com/arretsurimages": 940,
     "ameli-sante.fr": 939,
+    "twitter.com/ameli_actu": 939,
     "alternet.org": 938,
     "facebook.com/AlterNetNews": 938,
     "twitter.com/AlterNet": 938,
@@ -4210,8 +4223,6 @@
     "facebook.com/thedailybeast": 930,
     "twitter.com/thedailybeast": 930,
     "youtube.com/channel/UC7qZ_e097NBkgOljy1joVRA": 930,
-    "morandinisante.com": 929,
-    "facebook.com/profile.php?id=100009275015452": 929,
     "jeanmarcmorandini.com": 928,
     "facebook.com/jmmorandini": 928,
     "twitter.com/morandiniblog": 928,
@@ -4263,6 +4274,7 @@
     "facebook.com/Soutien-National-En-Bleu-Marine-439281732799406": 798,
     "santeici.com": 905,
     "facebook.com/LaVieEstBelle.Citations": 905,
+    "twitter.com/santeici": 905,
     "francais.rt.com": 904,
     "rt.com": 903,
     "facebook.com/RussiaTodayRT": 903,
