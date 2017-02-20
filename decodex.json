@@ -3581,9 +3581,35 @@
       "Le volet santé du blog de Jean-Marc Morandini, journaliste controversé, qui reprend des contenus sur Internet, sans forcément mentionner la source ni les vérifier. Les titres sont régulièrement très accrocheurs, mais prudence sur les informations contenues dans les articles.",
       "Blog Morandini Santé",
       "blog-morandini-sante"
+    ],
+    "1185": [
+      4,
+      "Le site, québecois d'origine (la fondation de prévention santé Lucie et André Chagnon a eu la responsabilité de ses contenus pendant dix ans), est alimenté par des médecins et des journalistes. Son responsable éditorial depuis 2011, le français Oxygem Media, éditeur de sites Internet spécialisé dans le bien-être et la consommation, a lui-même été racheté au début de 2015 par le groupe M6. Il détaille son équipe, sa méthodologie dans la rédaction des fiches et sa charte, qui encadre notamment la modération des blogs. Mais les contenus ont été conçus pour un public canadien et n'ont pas forcément été adaptés pour les Français, comme dans le cas de la mélatonine, dont l'usage n'est pas régulé de la même façon dans les deux pays.",
+      "Passeport Santé",
+      "passeport-sante"
+    ],
+    "1186": [
+      4,
+      "Le site E-santé, propriété du groupe éponyme établi à Paris, revendique « une information scientifiquement exacte au moment de sa parution, fiable, pertinente et intelligible ». Les dossiers sont sourcés et signés. Attention, plusieurs publications d'actualité correspondent à des reprises d'« études » sans mise en perspective, et certains « articles » sont en réalité des tribunes de professionnels de santé, juges et parties dans les questions traitées, comme par exemple une étude de la National Sleep Foundation conseillant d'investir dans une bonne literie...",
+      "E-sante",
+      "e-sante"
+    ],
+    "1187": [
+      4,
+      "Le site propose des articles sourcés et signés. Il prévient dans ses conditions d'utilisation que « les informations diffusées sur le site Santé-Médecine.net proviennent de sources réputées fiables. Toutefois, Santé-Médecine.net ne peut garantir l'exactitude ou la pertinence de ces données ». L'équipe telle qu'elle est présentée ne comprend pas de journalistes scientifiques ou de médecins, en dehors de son fondateur, Pierrick Horde. Le site a été racheté par CCM Benchmark Group, lui-même racheté par « Le Figaro » en 2015.",
+      "Santé-médecine",
+      "sante-medecine"
     ]
   },
   "urls": {
+    "sante.journaldesfemmes.com": 1187,
+    "e-sante.fr": 1186,
+    "facebook.com/Esantefr": 1186,
+    "twitter.com/esantefr": 1186,
+    "passeportsante.net": 1185,
+    "facebook.com/PasseportSante.net": 1185,
+    "twitter.com/PasseportSante": 1185,
+    "youtube.com/user/PasseportSante": 1185,
     "morandinisante.com": 1184,
     "facebook.com/jmmorandinisante": 1184,
     "twitter.com/morandinisante": 1184,
