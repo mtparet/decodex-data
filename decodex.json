@@ -3599,9 +3599,16 @@
       "Le site propose des articles sourcés et signés. Il prévient dans ses conditions d'utilisation que « les informations diffusées sur le site Santé-Médecine.net proviennent de sources réputées fiables. Toutefois, Santé-Médecine.net ne peut garantir l'exactitude ou la pertinence de ces données ». L'équipe telle qu'elle est présentée ne comprend pas de journalistes scientifiques ou de médecins, en dehors de son fondateur, Pierrick Horde. Le site a été racheté par CCM Benchmark Group, lui-même racheté par « Le Figaro » en 2015.",
       "Santé-médecine",
       "sante-medecine"
+    ],
+    "1188": [
+      0,
+      "Une plateforme de blogs dans tous les domaines des sciences humaines et sociale destinée aux spécialistes et au grand public.",
+      "Hypotheses",
+      "hypotheses"
     ]
   },
   "urls": {
+    "hypotheses.org": 1188,
     "sante.journaldesfemmes.com": 1187,
     "e-sante.fr": 1186,
     "facebook.com/Esantefr": 1186,
