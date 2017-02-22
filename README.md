@@ -9,3 +9,7 @@ I take no responsibility for stored data that may be inaccurate, false, misleadi
 Decodex.json est un miroir automatique, sans modification, avec l'historique des données publiques disponibles sur http://www.lemonde.fr/webservice/decodex/updates.
 
 Je ne suis pas responsable des données stockées qui peuvent être inexactes, fausses, trompeuses ou diffamatoires. Celles-ci viennent de http://www.lemonde.fr et je n'ai aucun contrôle sur celui-ci. Contactez-moi si nécessaire.
+
+### Twitter update ###
+
+I created the account https://twitter.com/decodexobserv to advertise the update. For now update on twitter are done manually, perhaps I will to automate things one day but it takes times.
