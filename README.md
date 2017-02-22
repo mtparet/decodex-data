@@ -13,3 +13,7 @@ Je ne suis pas responsable des données stockées qui peuvent être inexactes, f
 ### Twitter update ###
 
 I created the account https://twitter.com/decodexobserv to advertise the update. For now update on twitter are done manually, perhaps I will to automate things one day but it takes times.
+
+### Decodex Data Updater ###
+
+The function to update these data is available here https://github.com/mtparet/decodex-data-updater
