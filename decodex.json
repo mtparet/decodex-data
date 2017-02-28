@@ -1980,12 +1980,6 @@
       "Sante Ici",
       "sante-ici"
     ],
-    "906": [
-      3,
-      "Une page Facebook d'extrême droite, qui affiche son soutien à Marine Le Pen, et relaie des informations orientées.",
-      "Soutien National En Bleu Marine",
-      "soutien-national-en-bleu-marine"
-    ],
     "907": [
       3,
       "Un média qui reprend l'actualité « insolite » et « buzz » ainsi que des vidéos en tous genres, parfois de manière racoleuse.",
@@ -4298,7 +4292,6 @@
     "facebook.com/Spi0n": 907,
     "twitter.com/spi0n": 907,
     "youtube.com/channel/UC5fxtOYF2fukJrBa5O5WA5w": 907,
-    "facebook.com/Soutien-National-En-Bleu-Marine-439281732799406": 798,
     "santeici.com": 905,
     "facebook.com/LaVieEstBelle.Citations": 905,
     "twitter.com/santeici": 905,
@@ -4541,6 +4534,7 @@
     "youtube.com/channel/UCHy8kwF57Kh-YflbJ0WsMoA": 801,
     "facebook.com/STOP.Immigration.France": 800,
     "stevequayle.com": 799,
+    "facebook.com/Soutien-National-En-Bleu-Marine-439281732799406": 798,
     "facebook.com/Sos-racisme-anti-blanc-957221704360838": 797,
     "fr.sott.net": 796,
     "sante-nutrition.org": 795,
