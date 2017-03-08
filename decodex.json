@@ -3593,9 +3593,16 @@
       "Une plateforme de blogs dans tous les domaines des sciences humaines et sociale destinée aux spécialistes et au grand public.",
       "Hypotheses",
       "hypotheses"
+    ],
+    "1189": [
+      2,
+      "Un site proche de La Manif pour tous, qui a déjà diffusé de fausses informations. Son responsable a notamment été condamné en justice pour avoir comparé le traitement des militants de La Manif pour tous au sort des enfants juifs pendant l'occupation.",
+      "Le Salon beige",
+      "le-salon-beige-1"
     ]
   },
   "urls": {
+    "lesalonbeige.fr": 1189,
     "hypotheses.org": 1188,
     "sante.journaldesfemmes.com": 1187,
     "e-sante.fr": 1186,
