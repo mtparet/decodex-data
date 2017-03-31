@@ -3803,9 +3803,17 @@
       "Un site qui reprend des informations diverses et variées, certaines s'avérant fausses, comme une rumeur imputant à tort à Emmanuel Macron un projet de taxe sur les propriétaires ou une fausse information sur la disparition du liquide dans l'Union européenne en 2018.",
       "Brujitafr",
       "brujitafr"
+    ],
+    "1228": [
+      1,
+      "Un site parodique dédié au Nord-Pas-de-Calais.",
+      "L'envoi du nord",
+      "l-envoi-du-nord"
     ]
   },
   "urls": {
+    "lenvoidunord.fr": 1228,
+    "facebook.com/lenvoidunord": 1228,
     "brujitafr.fr": 1226,
     "europe-israel.org": 1220,
     "facebook.com/Europe-Israël-page-officielle-243656822344092": 1225,
