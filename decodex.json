@@ -3809,9 +3809,25 @@
       "Un site parodique dédié au Nord-Pas-de-Calais.",
       "L'envoi du nord",
       "l-envoi-du-nord"
+    ],
+    "1229": [
+      3,
+      "Filteris propose sur le site Buzzpol des études de la présence en ligne des personnalités politiques, parfois considérées à tort comme des prédictions fiables des résultats d'une élection.",
+      "Buzzpol",
+      "buzzpol"
+    ],
+    "1230": [
+      3,
+      "Filteris propose des études de la présence en ligne des personnalités politiques, parfois considérées à tort comme des prédictions fiables des résultats d'une élection.",
+      "Filteris",
+      "filteris"
     ]
   },
   "urls": {
+    "filteris.com": 1230,
+    "facebook.com/FILTERIS": 1230,
+    "twitter.com/Filteris": 1230,
+    "buzzpol.com": 1229,
     "lenvoidunord.fr": 1228,
     "facebook.com/lenvoidunord": 1228,
     "brujitafr.fr": 1226,
