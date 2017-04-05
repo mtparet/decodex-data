@@ -3762,12 +3762,6 @@
       "La presse galactique",
       "la-presse-galactique-1"
     ],
-    "1220": [
-      2,
-      "Un site Internet peu fiable alimenté par des reprises, sans vérification, de nombreux autres sites. Il relaie régulièrement des informations trompeuses ou erronées.",
-      "Europe Israël",
-      "europe-israel"
-    ],
     "1221": [
       2,
       "Un blog d'extrême droite alimenté majoritairement par des reprises d'autres sources. Il a publié à plusieurs reprises des informations fausses ou trompeuses. Par exemple, des informations fausses sur Emmanuel Macron et l'Arabie Saoudite, diffusée par un site (lesoir.info) qui usurpait l'identité du journal belge lesoir.be.",
@@ -3831,16 +3825,15 @@
     "lenvoidunord.fr": 1228,
     "facebook.com/lenvoidunord": 1228,
     "brujitafr.fr": 1226,
-    "europe-israel.org": 1220,
+    "europe-israel.org": 1225,
     "facebook.com/Europe-Israël-page-officielle-243656822344092": 1225,
-    "twitter.com/Europe_Israel": 1220,
-    "youtube.com/channel/UC6ku132GuBAwleuJj5npo-g": 1220,
+    "twitter.com/Europe_Israel": 1225,
+    "youtube.com/channel/UC6ku132GuBAwleuJj5npo-g": 1225,
     "facebook.com/mlrevuedepresse": 1224,
     "facebook.com/PeupleDeFranceReveilleToiLOL": 1223,
     "lesoir.info": 1222,
     "civilwarineurope.com": 1221,
     "twitter.com/Civilwarineurop": 1221,
-    "facebook.com/pages/Europe-Isral-page-officielle/243656822344092": 1220,
     "lapressegalactique.com": 741,
     "facebook.com/lapressegalactique": 1219,
     "thespiritscience.net": 1218,
