@@ -3815,9 +3815,16 @@
       "Filteris propose des études de la présence en ligne des personnalités politiques, parfois considérées à tort comme des prédictions fiables des résultats d'une élection.",
       "Filteris",
       "filteris"
+    ],
+    "1231": [
+      2,
+      "Une page Facebook d'extrême droite qui diffuse de nombreuses fausses informations, ouverte sous une nouvelle adresse après avoir été suspendue par Facebook.",
+      "Sos racisme anti blanc",
+      "sos-racisme-anti-blanc-1"
     ]
   },
   "urls": {
+    "facebook.com/Sos-racisme-anti-blanc-732819210217541": 1231,
     "filteris.com": 1230,
     "facebook.com/FILTERIS": 1230,
     "twitter.com/Filteris": 1230,
