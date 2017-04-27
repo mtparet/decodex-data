@@ -3821,9 +3821,17 @@
       "Une page Facebook d'extrême droite qui diffuse de nombreuses fausses informations, ouverte sous une nouvelle adresse après avoir été suspendue par Facebook.",
       "Sos racisme anti blanc",
       "sos-racisme-anti-blanc-1"
+    ],
+    "1232": [
+      2,
+      "Un compte Twitter et une page Facebook qui ont soutenu François Fillon pendant la campagne présidentielle de 2017 et relaient régulièrement de fausses informations.",
+      "Ridicule TV",
+      "ridicule-tv"
     ]
   },
   "urls": {
+    "twitter.com/RidiculeTV": 1232,
+    "facebook.com/ridiculeTV": 1232,
     "facebook.com/Sos-racisme-anti-blanc-732819210217541": 1231,
     "filteris.com": 1230,
     "facebook.com/FILTERIS": 1230,
