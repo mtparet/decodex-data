@@ -3827,9 +3827,17 @@
       "Un compte Twitter et une page Facebook qui ont soutenu François Fillon pendant la campagne présidentielle de 2017 et relaient régulièrement de fausses informations.",
       "Ridicule TV",
       "ridicule-tv"
+    ],
+    "1233": [
+      2,
+      "Un site peu fiable qui reprend régulièrement de fausses informations, comme une intox sur Emmanuel Macron qui refuserait de serrer les mains des « pauvres » ou un canular qui voulait faire croire qu'Emmanuel Macron voudrait supprimer les allocations familiales.",
+      "Hors de vos pensés",
+      "hors-de-vos-penses"
     ]
   },
   "urls": {
+    "horsdevospenses0833.blogspot.fr": 1233,
+    "twitter.com/envie_devivre": 1233,
     "twitter.com/RidiculeTV": 1232,
     "facebook.com/ridiculeTV": 1232,
     "facebook.com/Sos-racisme-anti-blanc-732819210217541": 1231,
