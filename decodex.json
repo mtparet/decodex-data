@@ -3833,9 +3833,18 @@
       "Un site peu fiable qui reprend régulièrement de fausses informations, comme une intox sur Emmanuel Macron qui refuserait de serrer les mains des « pauvres » ou un canular qui voulait faire croire qu'Emmanuel Macron voudrait supprimer les allocations familiales.",
       "Hors de vos pensés",
       "hors-de-vos-penses"
+    ],
+    "1234": [
+      1,
+      "Un site parodique qui diffuse de nombreux canulars, comme le précise sa page de présentation : « Toutes les informations présentes sur ce site sont satiriques et/ou parodiques. L’utilisation de noms de personnalités ou d’entreprises est ici à but purement satirique. »",
+      "Secret News",
+      "secret-news"
     ]
   },
   "urls": {
+    "secretnews.fr": 1234,
+    "facebook.com/secretnews2": 1234,
+    "twitter.com/SecretNewsInfo": 1234,
     "horsdevospenses0833.blogspot.fr": 1233,
     "twitter.com/envie_devivre": 1233,
     "twitter.com/RidiculeTV": 1232,
