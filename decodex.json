@@ -3839,9 +3839,24 @@
       "Un site parodique qui diffuse de nombreux canulars, comme le précise sa page de présentation : « Toutes les informations présentes sur ce site sont satiriques et/ou parodiques. L’utilisation de noms de personnalités ou d’entreprises est ici à but purement satirique. »",
       "Secret News",
       "secret-news"
+    ],
+    "1235": [
+      2,
+      "Le site d'un mouvement d'extrême droite anti-Macron, anciennement anti-Hollande, impliqué notamment dans les manifestations Jour de colère en 2014. Il publie régulièrement des informations déformées ou erronées.",
+      "Macron Dégage",
+      "macron-degage"
+    ],
+    "1236": [
+      2,
+      "Un mouvement anti-Macron, anciennement anti-Hollande, qui a diffusé de nombreuses fausses informations.",
+      "Dégageons Macron",
+      "degageons-macron"
     ]
   },
   "urls": {
+    "facebook.com/StopMacron": 1236,
+    "macrondegage.com": 1235,
+    "facebook.com/DegageMacron": 1235,
     "secretnews.fr": 1234,
     "facebook.com/secretnews2": 1234,
     "twitter.com/SecretNewsInfo": 1234,
