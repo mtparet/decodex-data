@@ -3851,9 +3851,168 @@
       "Un mouvement anti-Macron, anciennement anti-Hollande, qui a diffusé de nombreuses fausses informations.",
       "Dégageons Macron",
       "degageons-macron"
+    ],
+    "1237": [
+      4,
+      "Un site d'opinion dirigé par la journaliste Elisabeth Lévy. Le site, qui se veut pluraliste et polémique, publie principalement des tribunes très tranchées.",
+      "Causeur",
+      "causeur"
+    ],
+    "1238": [
+      4,
+      "Un site dédié à l'actualité du monde du jeu vidéo, qui appartient à CUP Interactive.",
+      "Gamekult",
+      "gamekult"
+    ],
+    "1239": [
+      3,
+      "Une page Facebook qui relaie parfois de fausses informations, par exemple un message affirmant à tort que François Hollande aurait été sifflé au Salon de l'agriculture 2017 (en reprenant, sans le préciser, une vidéo de l'année précédente).",
+      "OUF, j'ai pas voté Hollande",
+      "ouf-j-ai-pas-vote-hollande"
+    ],
+    "1240": [
+      3,
+      "Un site américain traitant surtout de marchés financiers et de bourse, mais relayant parfois de fausses informations, comme sur la santé de Hillary Clinton pendant la campagne présidentielle américaine de 2016 ou une fausse citation du président du Parlement européen pendant la campagne du « Brexit ».",
+      "ZeroHedge",
+      "zerohedge"
+    ],
+    "1241": [
+      3,
+      "Un site qui se présente comme spécialisé dans l'information à l'attention des décideurs économiques et politiques, mais qui publie parfois de fausses informations sans les corriger, comme lorsqu'il a largement diffusé une rumeur attribuant à tort à Emmanuel Macron le projet de taxer les loyers fictifs des propriétaires.",
+      "Cyceon",
+      "cyceon"
+    ],
+    "1242": [
+      3,
+      "Un site qui relaie des informations de manière sensationnaliste, sans toujours les vérifier. Il lui arrive de relayer de fausses informations, comme lorsqu'il a a repris au premier degré un article parodique affirmant que Philippe Poutou aurait été aperçu dans une vidéo à caractère pornographique ou un autre accusant également M. Poutou de fabriquer de la drogue, là aussi issu d'un site parodique. Le site ouvre également des fenêtres promotionnelles intempestives.",
+      "Cool Buzz",
+      "cool-buzz"
+    ],
+    "1243": [
+      3,
+      "Un site qui relaie des informations de manière sensationnaliste, sans toujours les vérifier. Il lui arrive de relayer de fausses informations, comme lorsqu'il a a repris au premier degré un article parodique affirmant que Philippe Poutou aurait été aperçu dans une vidéo à caractère pornographique ou un autre affirmant à tort que la religion des citoyens serait mentionnée à l'avenir sur leur carte d'identité.",
+      "Top du net",
+      "top-du-net"
+    ],
+    "1244": [
+      3,
+      "Un site qui relaie des informations de manière sensationnaliste, sans toujours les vérifier. Il lui arrive de relayer de fausses informations, comme lorsqu'il a a repris au premier degré un article parodique affirmant que Philippe Poutou aurait été aperçu dans une vidéo à caractère pornographique. Le site donne également des conseils en matière de santé qui ne semblent pas appuyés par des spécialistes.",
+      "Top-buzz.net",
+      "top-buzz-net"
+    ],
+    "1245": [
+      3,
+      "Un site qui reprend des informations de sources diverses et reprend régulièrement des rumeurs sans les vérifier. Il relaie parfois de fausses informations, comme lorsqu'il accuse Emmanuel Macron d'être allié avec un islamiste radical sur la base de propos manipulés.",
+      "Info 24",
+      "info-24"
+    ],
+    "1246": [
+      3,
+      "Un fil d'actualité sur Twitter  qui relaie de nombreuses informations de sources diverses, mais ne vérifie pas toujours et commet parfois des erreurs dans la précipitation.",
+      "Alertes News",
+      "alertes-news"
+    ],
+    "1247": [
+      3,
+      "Un blog qui nous apparaît peu fiable et qui relaie des informations sans vérifications journalistiques, parfois erronées, comme une fausse affirmation selon laquelle François Fillon aurait été blanchi.",
+      "Le Scrutateur",
+      "le-scrutateur"
+    ],
+    "1248": [
+      3,
+      "Un blog qui nous apparaît peu fiable et qui relaie des informations sans vérifications journalistiques, parfois erronées, comme une fausse affirmation selon laquelle François Fillon aurait été blanchi.",
+      "Mon opinion libre",
+      "mon-opinion-libre"
+    ],
+    "1249": [
+      3,
+      "Un site de divertissement qui relaie des informations sous des titres sensationnalistes. Il lui arrive également de relayer de fausses informations, comme une rumeur erronée selon laquelle l'Etat français voudrait remplacer deux jours fériés par des jours fériés musulmans et juifs.",
+      "Culture-people.fr",
+      "culture-people-fr"
+    ],
+    "1250": [
+      1,
+      "Un site qui permet à n'importe quel internaute de créer un article fictif et de le partager sur les réseaux sociaux.",
+      "Net-infosnews.com",
+      "net-infosnews-com"
+    ],
+    "1251": [
+      2,
+      "Un site et une page Facebook qui soutenait au départ la candidature de Nicolas Sarkozy pour l'élection présidentielle 2017 et relaie régulièrement de fausses informations. Par exemple, un article erroné affirmant qu'Emmanuel Macron serait financé par l'Arabie Saoudite, un message affirmant à tort que François Hollande aurait été sifflé au Salon de l'agriculture en 2017 (en reprenant, sans le préciser, une vidéo de l'année précédente) ou encore une rumeur affirmant à tort qu'Emmanuel Macron voudrait instaurer une taxe sur les propriétaires.",
+      "NS2017",
+      "ns2017"
+    ],
+    "1252": [
+      2,
+      "Un site canadien qui a notamment relayé de fausses informations sur la santé de Hillary Clinton pendant la campagne présidentielle américaine de 2016 et des thèses conspirationnistes, par exemple sur l'attaque chimique en Syrie du 4 avril 2017, en  dont il a mis l'existence même en doute.",
+      "globalresearch.ca",
+      "globalresearch-ca"
+    ],
+    "1253": [
+      2,
+      "Une page Facebook d'extrême droite qui relaie régulièrement de fausses informations, comme une vidéo qui affirmait montrer des violences dans un hôpital en France alors qu'elle avait été tournée en Russie.",
+      "La France entre en Résistance",
+      "la-france-entre-en-resistance"
+    ],
+    "1254": [
+      2,
+      "Un site internet créé par Michel Collon, militant anti-américain et antisioniste, proche de Thierry Meyssan, connu pour reprendre régulièrement des thèses conspirationnistes, sur le 11-Septembre ou la Syrie.",
+      "Investigaction",
+      "investigaction"
+    ],
+    "1255": [
+      2,
+      "Un blog qui nous apparaît peu fiable et qui relaie des informations sans vérifications journalistiques, parfois erronées, comme une fausse rumeur sur un projet de taxe immobilière imputé à tort à Emmanuel Macron.",
+      "L'échelle de Jacob",
+      "l-echelle-de-jacob"
+    ],
+    "1256": [
+      2,
+      "Un blog qui nous apparaît peu fiable et qui a relayé des fausses informations, comme une affirmation mensongère selon laquelle Emmanuel Macron se laverait les mains après avoir rencontré des ouvriers ou aurait fait un prétendu cadeau fiscal de 14 milliards d'euros à Patrick Drahi.",
+      "Citoyen Veilleur",
+      "citoyen-veilleur"
+    ],
+    "1257": [
+      2,
+      "Une page Facebook d'extrême droite qui relaie régulièrement de fausses informations, notamment sur un prétendu financement de l'islam via des conserves de cassoulet William Saurin.",
+      "Résistance et Unité PACA",
+      "resistance-et-unite-paca"
     ]
   },
   "urls": {
+    "facebook.com/Résistance-et-Unité-PACA-1688025814776501": 1257,
+    "citoyenveilleur.canalblog.com": 1256,
+    "echelledejacob.blogspot.fr": 1255,
+    "investigaction.net": 1254,
+    "facebook.com/InvestigAction": 1254,
+    "twitter.com/InvestigAction": 1254,
+    "facebook.com/LaFranceRentreEnResistance": 1253,
+    "globalresearch.ca": 1252,
+    "facebook.com/GlobalResearchCRG": 1252,
+    "ns2017.wordpress.com": 1251,
+    "facebook.com/Nellyc857": 1251,
+    "net-infosnews.com": 1250,
+    "culture-people.fr": 1249,
+    "monopinionlibre.blogspot.fr": 1248,
+    "lescrutateur.com": 1247,
+    "twitter.com/AlertesNews": 1246,
+    "info24.fr": 1245,
+    "facebook.com/info24fr": 1245,
+    "top-buzz.net": 1244,
+    "topdunet.org": 1243,
+    "cool-buzz.net": 1242,
+    "cyceon.com": 1241,
+    "facebook.com/cyceon.fr": 1241,
+    "twitter.com/cyceon_fr": 1241,
+    "zerohedge.com": 1240,
+    "facebook.com/ZeroHedge": 1240,
+    "facebook.com/laurencemw": 1239,
+    "gamekult.com": 1238,
+    "facebook.com/gamekult": 1238,
+    "twitter.com/gamekult": 1238,
+    "causeur.fr": 1237,
+    "facebook.com/causeur": 1237,
+    "twitter.com/causeur": 1237,
     "facebook.com/StopMacron": 1236,
     "macrondegage.com": 1235,
     "facebook.com/DegageMacron": 1235,
