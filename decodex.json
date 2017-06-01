@@ -3977,9 +3977,25 @@
       "Une page Facebook d'extrême droite qui relaie régulièrement de fausses informations, notamment sur un prétendu financement de l'islam via des conserves de cassoulet William Saurin.",
       "Résistance et Unité PACA",
       "resistance-et-unite-paca"
+    ],
+    "1258": [
+      1,
+      "Un site parodique autour de l'univers de la musique électronique et du clubbing. Les articles sont tous \"complètement faux et tout droit sortir de l'imagination de nos journalistes\", précise la rédaction dans sa page de présentation.",
+      "Ravelations",
+      "ravelations"
+    ],
+    "1259": [
+      3,
+      "Un site Un site de divertissement français, spécialisé dans les contenus « insolites » et décalés. Ce site agrège des informations de sources variables sous des titres souvent sensationnalistes, sans les vérifier systématiquement.",
+      "Quebuzz",
+      "quebuzz"
     ]
   },
   "urls": {
+    "quebuzz.com": 1259,
+    "ravelations.fr": 1258,
+    "facebook.com/ravelationsmag": 1258,
+    "twitter.com/ravelationsmag": 1258,
     "facebook.com/Résistance-et-Unité-PACA-1688025814776501": 1257,
     "citoyenveilleur.canalblog.com": 1256,
     "echelledejacob.blogspot.fr": 1255,
