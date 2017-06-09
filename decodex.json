@@ -3989,9 +3989,16 @@
       "Un site Un site de divertissement français, spécialisé dans les contenus « insolites » et décalés. Ce site agrège des informations de sources variables sous des titres souvent sensationnalistes, sans les vérifier systématiquement.",
       "Quebuzz",
       "quebuzz"
+    ],
+    "1260": [
+      1,
+      "Un site qui permet à n'importe quel internaute de créer un article fictif et de le partager sur les réseaux sociaux.",
+      "Actualite.co",
+      "actualite-co"
     ]
   },
   "urls": {
+    "actualite.co": 1260,
     "quebuzz.com": 1259,
     "ravelations.fr": 1258,
     "facebook.com/ravelationsmag": 1258,
@@ -5224,7 +5231,7 @@
     "espritsciencemetaphysiques.com": 707,
     "facebook.com/espritsciencemeta": 707,
     "egaliteetreconciliation.fr": 706,
-    "facebook.com/Egalité-et-Réconciliation-147792445266231": 706,
+    "facebook.com/Egalit%C3%A9-et-R%C3%A9conciliation-147792445266231": 706,
     "twitter.com/EetR_National": 706,
     "youtube.com/channel/UCuYN7dG7X7gD7pEKcRsBZEA": 706,
     "dondevamos.canalblog.com": 705,
