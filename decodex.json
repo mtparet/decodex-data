@@ -3995,9 +3995,17 @@
       "Un site qui permet à n'importe quel internaute de créer un article fictif et de le partager sur les réseaux sociaux.",
       "Actualite.co",
       "actualite-co"
+    ],
+    "1261": [
+      2,
+      "Alex Jones est le créateur du site américain Infowars, qui diffuse régulièrement des théories conspirationnistes qui remettent en cause, sans preuve réelle, la « version officielle » des attentats du 11-Septembre ou affirment que les Nations unies voudraient répandre une maladie qui tuerait 80 % de la population mondiale. Comme le montre une enquête du « Washington Post », ses affirmations sans preuves rencontrent un certain écho chez Donald Trump.",
+      "Alex Jones",
+      "alex-jones"
     ]
   },
   "urls": {
+    "facebook.com/AlexanderEmerickJones": 1261,
+    "twitter.com/realalexjones": 1261,
     "actualite.co": 1260,
     "quebuzz.com": 1259,
     "ravelations.fr": 1258,
@@ -5159,6 +5167,8 @@
     "lesmoutonsrebelles.com": 751,
     "facebook.com/lesmoutonsrebelles": 751,
     "les-crises.fr": 750,
+    "facebook.com/les.crises": 750,
+    "twitter.com/oberruyer": 750,
     "leschroniquesderorschach.blogspot.fr": 749,
     "youtube.com/channel/UC3S4Fu3lFl_wUGMuxG7pKuw": 749,
     "lengadoc-info.com": 748,
@@ -5201,6 +5211,9 @@
     "informations-en-direct-france.com": 724,
     "informaction.info": 723,
     "infowars.com": 722,
+    "facebook.com/InfoWars-80256732576": 722,
+    "twitter.com/infowars": 722,
+    "youtube.com/user/TheAlexJonesChannel": 722,
     "info-contre-info.fr": 721,
     "facebook.com/INFO-contre-INFO-535117736621933": 721,
     "twitter.com/infovsinfo": 721,
@@ -5445,6 +5458,7 @@
     "plus.google.com": 579,
     "facebook.com": 578,
     "dailymotion.com": 577,
+    "facebook.com/DailymotionFrance": 577,
     "agoravox.fr": 576,
     "facebook.com/agoravox": 576,
     "twitter.com/agoravox": 576,
