@@ -4061,9 +4061,78 @@
       "Un site satirique en espagnol dont les affirmations ne sont pas à prendre au sérieux.",
       "Actualidad panamericana",
       "actualidad-panamericana"
+    ],
+    "1272": [
+      2,
+      "Un site d'information sur l'actualité boursière qui reprend parfois des informations peu fiables, annonçant par exemple à tort que l'argent liquide allait disparaître en 2018. On y trouve également des analayses de personnalités défendant des théories conspirationnistes, comme Pierre Jovanovic et François Asselineau.",
+      "Business Bourse",
+      "business-bourse"
+    ],
+    "1273": [
+      2,
+      "Un site Français qui se présente comme un site de conseils pour se faciliter la vie, mais qui véhicule parfois de fausses informations. Par exemple, on a pu y lire qu'une loi allait forcer les célibataires de plus de 30 ans vivant seul à accueillir chez eux un migrant de moins de 21 ans (le site reprenait en réalité, visiblement sans s'en rendre compte, un canular du site belge NordPresse). On y trouve également des conseils santé qui peuvent être dangereux comme un régime à base de concombre pour \"perdre 7 kg en 7 jours seulement !\"",
+      "Astuce du jour",
+      "astuce-du-jour"
+    ],
+    "1274": [
+      2,
+      "Un site qui utilise le nom du groupe de médias américain USA Today, mais n'a aucun lien avec celui-ci. Sur le plan politique, le site défend farouchement Donald Trump, avec des titres partisans et sensationnalistes comme : \"TRUMP MONTRE A L'AMERIQUE QU'IL A DU COEUR EN FAISANT QUELQUE CHOSE D'INCROYABLE AU PREMIER JOUR DE SA PRESIDENCE\". A lire avec prudence.",
+      "USATodayNews.me",
+      "usatodaynews-me"
+    ],
+    "1275": [
+      2,
+      "Un site qui utilise le nom du groupe de médias américain NBC, mais n'a aucun lien avec celui-ci. A lire avec prudence.",
+      "NBC.com.co",
+      "nbc-com-co"
+    ],
+    "1276": [
+      2,
+      "Un site qui utilise le nom du groupe de médias américain Fox News, mais n'a aucun lien avec celui-ci. A lire avec prudence",
+      "Fox News 24",
+      "fox-news-24"
+    ],
+    "1277": [
+      3,
+      "Un blog en principe dédié à la santé qui publie principalement des articles sensationnalistes, mais reprend également parfois de fausses informations, affirmant par exemple à tort qu'Emmanuel Macron aurait annoncé vouloir supprimer les allocations familiales.",
+      "Bonnsante",
+      "bonnsante"
+    ],
+    "1278": [
+      3,
+      "Un site qui relaie des informations de manière sensationnaliste, sans toujours les vérifier. Il lui arrive de relayer de fausses informations, comme lorsqu'il a écrit qu'une infirmière aurait échangé 9 000 bébés dans à la naissance dans des maternités françaises, affirmation qui était en réalité un canular d'un site parodique.",
+      "Newvibe",
+      "newvibe"
+    ],
+    "1279": [
+      3,
+      "Un site qui relaie des informations de manière sensationnaliste, sans toujours les vérifier. Il lui arrive de relayer de fausses informations, comme lorsqu'il a écrit qu'une infirmière aurait échangé 9 000 bébés dans à la naissance dans des maternités françaises, affirmation qui était en réalité un canular d'un site parodique.",
+      "@Chieuseatemphed",
+      "chieuseatemphed"
+    ],
+    "1280": [
+      3,
+      "Un site qui relaie des informations de manière sensationnaliste, sans toujours les vérifier. Il lui arrive de relayer de fausses informations, comme lorsqu'il a écrit qu'une infirmière aurait échangé 9 000 bébés dans à la naissance dans des maternités françaises, affirmation qui était en réalité un canular d'un site parodique.",
+      "Chieuse à temps complet",
+      "chieuse-a-temps-complet"
     ]
   },
   "urls": {
+    "chieuseatempscomplet.com": 1280,
+    "facebook.com/Chieuseatemp.By.Fares": 1280,
+    "facebook.com/Chieuseatemphed": 1279,
+    "newvibe.ca": 1278,
+    "facebook.com/newvibe.ca": 1278,
+    "bonnsante.blogspot.fr": 1277,
+    "facebook.com/mapropresante": 1277,
+    "fox-news24.com": 1276,
+    "nbc.com.co": 1275,
+    "usatodaynews.me": 1274,
+    "astuce-du-jour.net": 1273,
+    "facebook.com/astucerie": 1273,
+    "twitter.com/AstuceDuJourMag": 1273,
+    "youtube.com/channel/UCO2XQ2yHtqu9W7WyyHfo8Gw": 1273,
+    "businessbourse.com": 1272,
     "actualidadpanamericana.com": 1271,
     "facebook.com/ActualidadPanamericana": 1271,
     "twitter.com/actualidadpanam": 1271,
