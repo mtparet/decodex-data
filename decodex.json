@@ -4001,9 +4001,95 @@
       "Alex Jones est le créateur du site américain Infowars, qui diffuse régulièrement des théories conspirationnistes qui remettent en cause, sans preuve réelle, la « version officielle » des attentats du 11-Septembre ou affirment que les Nations unies voudraient répandre une maladie qui tuerait 80 % de la population mondiale. Comme le montre une enquête du « Washington Post », ses affirmations sans preuves rencontrent un certain écho chez Donald Trump.",
       "Alex Jones",
       "alex-jones"
+    ],
+    "1262": [
+      1,
+      "Un site satirique français, qui précise que ses informations sont \"à prendre avec des baguettes\".",
+      "The Akami Shimbun",
+      "the-akami-shimbun"
+    ],
+    "1263": [
+      1,
+      "Un site satirique britannique dont les affirmations ne sont pas à prendre au sérieux.",
+      "The Daily Mash",
+      "the-daily-mash"
+    ],
+    "1264": [
+      1,
+      "Un site satirique américain, dont les affirmations ne sont pas à prendre au sérieux.",
+      "16 WMPO",
+      "16-wmpo"
+    ],
+    "1265": [
+      1,
+      "Un site satirique américain, dont les affirmations ne sont pas à prendre au sérieux.",
+      "The Rightists",
+      "the-rightists"
+    ],
+    "1266": [
+      1,
+      "Un site satirique américain, dont les affirmations ne sont pas à prendre au sérieux.",
+      "The Last Line Of Defense",
+      "the-last-line-of-defense"
+    ],
+    "1267": [
+      1,
+      "Un site satirique américain, dont les affirmations ne sont pas à prendre au sérieux.",
+      "The Postillon",
+      "the-postillon"
+    ],
+    "1268": [
+      1,
+      "Un site satirique américain, dont les affirmations ne sont pas à prendre au sérieux.",
+      "Real News Right Now",
+      "real-news-right-now"
+    ],
+    "1269": [
+      1,
+      "Un site satirique américain, dont les affirmations ne sont pas à prendre au sérieux.",
+      "Free Wood Post",
+      "free-wood-post"
+    ],
+    "1270": [
+      1,
+      "Un site satirique américain, qui publie principalement des articles liés à l'actualité sportive à ne pas prendre au sérieux.",
+      "Daily Snark",
+      "daily-snark"
+    ],
+    "1271": [
+      1,
+      "Un site satirique en espagnol dont les affirmations ne sont pas à prendre au sérieux.",
+      "Actualidad panamericana",
+      "actualidad-panamericana"
     ]
   },
   "urls": {
+    "actualidadpanamericana.com": 1271,
+    "facebook.com/ActualidadPanamericana": 1271,
+    "twitter.com/actualidadpanam": 1271,
+    "dailysnark.com": 1270,
+    "facebook.com/dailysnarksite": 1270,
+    "twitter.com/DailySnark": 1270,
+    "freewoodpost.com": 1269,
+    "facebook.com/FreeWoodPost": 1269,
+    "twitter.com/freewoodpost": 1269,
+    "realnewsrightnow.com": 1268,
+    "facebook.com/RHobbusJD": 1268,
+    "the-postillon.com": 1267,
+    "facebook.com/ThePostillon": 1267,
+    "twitter.com/The_Postillon": 1267,
+    "youtube.com/channel/UCIIVvAp6DP3a2MmoIuIjvQA": 1267,
+    "thelastlineofdefense.org": 1266,
+    "facebook.com/thelastlineofdefense": 1266,
+    "therightists.com": 1265,
+    "facebook.com/TheRightists": 1265,
+    "16wmpo.com": 1264,
+    "thedailymash.co.uk": 1263,
+    "facebook.com/thedailymash": 1263,
+    "twitter.com/thedailymash": 1263,
+    "akami-shimbun.com": 1262,
+    "facebook.com/akamishimbun/posts/499927763731547": 1262,
+    "twitter.com/akami_shimbun": 1262,
     "facebook.com/AlexanderEmerickJones": 1261,
     "twitter.com/realalexjones": 1261,
     "actualite.co": 1260,
