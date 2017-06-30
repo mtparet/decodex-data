@@ -4115,9 +4115,18 @@
       "Un site qui relaie des informations de manière sensationnaliste, sans toujours les vérifier. Il lui arrive de relayer de fausses informations, comme lorsqu'il a écrit qu'une infirmière aurait échangé 9 000 bébés dans à la naissance dans des maternités françaises, affirmation qui était en réalité un canular d'un site parodique.",
       "Chieuse à temps complet",
       "chieuse-a-temps-complet"
+    ],
+    "1281": [
+      1,
+      "Un site parodique français, qui imite le site de France Info.",
+      "francetvdesinfo.fr",
+      "francetvdesinfo-fr"
     ]
   },
   "urls": {
+    "francetvdesinfo.fr": 1281,
+    "facebook.com/francetvdesinfo": 1281,
+    "twitter.com/francetvdesinfo": 1281,
     "chieuseatempscomplet.com": 1280,
     "facebook.com/Chieuseatemp.By.Fares": 1280,
     "facebook.com/Chieuseatemphed": 1279,
