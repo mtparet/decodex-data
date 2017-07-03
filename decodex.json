@@ -348,6 +348,24 @@
       "L'Echo de la Boucle",
       "l-echo-de-la-boucle"
     ],
+    "631": [
+      1,
+      "Un site satirique sur le sport.",
+      "L'Epique",
+      "l-epique"
+    ],
+    "632": [
+      1,
+      "Un site satirique qui se moque de la presse locale.",
+      "La Deche du Midi",
+      "la-deche-du-midi"
+    ],
+    "633": [
+      1,
+      "Un site parodique à prendre au second degré.",
+      "La Sardine du Port",
+      "la-sardine-du-port"
+    ],
     "634": [
       1,
       "Un site satirique qui se moque de la presse locale.",
@@ -689,6 +707,24 @@
       "Le site d'un auteur américain qui se présente abusivement comme un média d'information. Il diffuse des théories conspirationnistes sur le 11 septembre 2001 notamment et donne de fausses informations climatosceptiques.",
       "Corbett Report",
       "corbett-report"
+    ],
+    "691": [
+      2,
+      "Un site qui se présente comme un site d'information indépendant mais qui publie en réalité des articles qui peuvent induire le lecteur en erreur et relaie des théories négationnistes, qui prétendent notamment que l'extermination des juifs pendant la Seconde guerre mondiale n'a pas eu lieu.",
+      "Croa",
+      "croa"
+    ],
+    "692": [
+      2,
+      "Un site dédié en grande partie à l'alimentation et à la sexualité, qui diffuse régulièrement des conseils exagérés sur de prétendus aliments « miracles », reprend des études sans précaution et propage des thèses complotistes, comme celle des bananes potentiellement porteuses du virus du sida, le tout sous des titres racoleurs. Aucune information n'est disponible sur les auteurs du site ni sur ses propriétaires.",
+      "Cuisine et Santé",
+      "cuisine-et-sante"
+    ],
+    "693": [
+      2,
+      "Un site politique américaine fortement orienté à l'extrême gauche et clairement anti-Trump qui publie régulièrement des informations trompeuses ou approximatives.",
+      "DailyNewsBin",
+      "dailynewsbin"
     ],
     "694": [
       2,
@@ -2112,6 +2148,24 @@
       "Ameli",
       "ameli"
     ],
+    "940": [
+      4,
+      "Un site Internet d'information et d'analyse des médias, né après la suppression de l'émission du même nom sur France 5.",
+      "Arrêt sur images",
+      "arret-sur-images"
+    ],
+    "941": [
+      4,
+      "Chaîne de télévision culturelle de service public franco-allemande.",
+      "Arte",
+      "arte"
+    ],
+    "942": [
+      4,
+      "Un quotidien et site Internet japonais, l'un des principaux titres du pays, classé politiquement au centre gauche, et clairement pacifiste.",
+      "Asahi Shinbun",
+      "asahi-shinbun"
+    ],
     "943": [
       4,
       "Associated Press (AP) est l'une des principales agences de presse généralistes mondiales, qui diffuse de manière générale des informations vérifiées en précisant systématiquement ses sources.",
@@ -2694,6 +2748,24 @@
       "Le Maine Libre",
       "le-maine-libre"
     ],
+    "1044": [
+      4,
+      "Un quotidien et site Internet d'information généraliste. Le groupe est détenu depuis 2010 par les hommes d'affaires Xavier Niel, Pierre Bergé et Matthieu Pigasse.",
+      "Le Monde",
+      "le-monde"
+    ],
+    "1045": [
+      4,
+      "Un journal mensuel français d'information et d'opinion, marqué à gauche.",
+      "Le Monde diplomatique",
+      "le-monde-diplomatique"
+    ],
+    "1046": [
+      4,
+      "Un journal hebdomadaire économique.",
+      "Le Nouvel Economiste",
+      "le-nouvel-economiste"
+    ],
     "1047": [
       4,
       "Un quotidien et site Internet d'information généraliste détenu par le groupe de luxe LVMH, dirigé par le milliardaire Bernard Arnault.",
@@ -2915,6 +2987,24 @@
       "Un hebdomadaire spécialisé dans la vie des familles royales.",
       "Point de Vue",
       "point-de-vue"
+    ],
+    "1084": [
+      4,
+      "Un site d'information américain consacré à l'actualité politique.",
+      "Politico",
+      "politico"
+    ],
+    "1085": [
+      4,
+      "La version européenne du site d'information américain du même nom, consacré à l'actualité politique européenne vue de Bruxelles.",
+      "Politico Europe",
+      "politico-europe"
+    ],
+    "1086": [
+      4,
+      "Hebdomadaire d'information généraliste proche de la gauche antilibérale et écologiste.",
+      "Politis",
+      "politis"
     ],
     "1087": [
       4,
@@ -3498,6 +3588,24 @@
       "Hypotheses",
       "hypotheses"
     ],
+    "1189": [
+      2,
+      "Un site proche de La Manif pour tous, qui a déjà diffusé de fausses informations. Son responsable a notamment été condamné en justice pour avoir comparé le traitement des militants de La Manif pour tous au sort des enfants juifs pendant l'occupation.",
+      "Le Salon beige",
+      "le-salon-beige-1"
+    ],
+    "1192": [
+      4,
+      "« Charlie Hebdo » est un hebdomadaire satirique français de tradition libertaire, qui a une ligne caustique et irrévérencieuse qui se traduit notamment par la publication de nombreuses caricatures. Le journal aborde principalement les sujets liés à la politique, aux religions, à l'économie ou encore aux médias. Le journal a été frappé par un incendie criminel en 2011. Il a ensuite été la cible de l'attentat perpétré par les frères Kouachi le 7 janvier 2015, qui a tué douze personnes dont huit collaborateurs de l'hebdomadaire. La publication de « Charlie Hebdo » a, malgré tout, repris à l'initiative des survivants, le journal adoptant à l'été 2015 le statut d'entreprise solidaire de presse.",
+      "Charlie Hebdo",
+      "charlie-hebdo"
+    ],
+    "1193": [
+      4,
+      "Acrimed (Action critique médias) est une association qui, comme son nom l'indique, se veut être un observatoire critique des médias. Plutôt classé comme marqué à gauche, Acrimed se donne pour objectif d'informer sur l'information et d'analyser les liens entre le journalisme et les pouvoirs économiques et politiques.",
+      "Acrimed",
+      "acrimed"
+    ],
     "1194": [
       4,
       "Site Web décalé et satirique dédié au football.",
@@ -4080,6 +4188,24 @@
       "Ayoye [Fan-O-web]",
       "ayoye-fan-o-web"
     ],
+    "1293": [
+      3,
+      "Une page Facebook qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Elle relaie parfois de fausses informations, par exemple une légende urbaine sur des vols de voitures organisés en laissant un billet de 50 euros sur le pare-brise d'un véhicule.",
+      "Bonne Humeur",
+      "bonne-humeur"
+    ],
+    "1294": [
+      3,
+      "Une page Facebook qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Elle relaie parfois de fausses informations, par exemple une légende urbaine sur des vols de voitures organisés en laissant un billet de 50 euros sur le pare-brise d'un véhicule.",
+      "C'est normal au Québec",
+      "c-est-normal-au-quebec"
+    ],
+    "1295": [
+      3,
+      "Une page Facebook qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Elle relaie parfois de fausses informations, par exemple une légende urbaine sur des vols de voitures organisés en laissant un billet de 50 euros sur le pare-brise d'un véhicule.",
+      "Ces différences entre les hommes et les femmes",
+      "ces-differences-entre-les-hommes-et-les-femmes"
+    ],
     "1296": [
       3,
       "Une page Facebook qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Elle relaie parfois de fausses informations, par exemple lorsqu'elle a repris au premier degré un canular d'un site parodique qui affirmait que de la viande humaine aurait été retrouvée chez McDonald's.",
@@ -4421,9 +4547,340 @@
       "Une page Facebook qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Elle relaie parfois de fausses informations, par exemple une légende urbaine sur des vols de voitures organisés en laissant un billet de 50 euros sur le pare-brise d'un véhicule.",
       "Quand un geek meurt, il va dans la corbeille?",
       "quand-un-geek-meurt-il-va-dans-la-corbeille"
+    ],
+    "1353": [
+      3,
+      "Une page Facebook qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Elle relaie parfois de fausses informations, par exemple lorsqu'elle a repris au premier degré un canular d'un site parodique qui affirmait que de la viande humaine aurait été retrouvée chez McDonald's.",
+      "Sais-tu aimer? Version Jeune",
+      "sais-tu-aimer-version-jeune"
+    ],
+    "1354": [
+      3,
+      "Une page Facebook qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Elle relaie également parfois de fausses informations comme un canular du Gorafi affirmant qu'un candidat de Fort Boyard aurait été retrouvé sept ans après avoir été oublié dans une cellule.",
+      "Sais-tu que? Version Citations",
+      "sais-tu-que-version-citations"
+    ],
+    "1355": [
+      3,
+      "Un site qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Il relaie parfois de fausses informations, par exemple sur la prétendue présence de sperme de taureau dans la composition du Red Bull.",
+      "SANS Limites",
+      "sans-limites"
+    ],
+    "1356": [
+      3,
+      "Une page Facebook qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement.",
+      "Santé et beauté pour tous!!",
+      "sante-et-beaute-pour-tous"
+    ],
+    "1357": [
+      3,
+      "Une page Facebook qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Elle relaie parfois de fausses informations comme une légende urbaine sur la circulation de drogue sous forme de bonbons dans les écoles.",
+      "Santé et Bien-Être",
+      "sante-et-bien-etre"
+    ],
+    "1358": [
+      3,
+      "Une page Facebook qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Elle relaie parfois de fausses informations, par exemple lorsqu'elle a repris au premier degré un canular d'un site parodique qui affirmait que de la viande humaine aurait été retrouvée chez McDonald's.",
+      "Santé+ Sports",
+      "sante-sports"
+    ],
+    "1359": [
+      3,
+      "Une page Facebook qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Elle relaie parfois de fausses informations, par exemple une légende urbaine sur des vols de voitures organisés en laissant un billet de 50 euros sur le pare-brise d'un véhicule.",
+      "Saviez-vous que ?",
+      "saviez-vous-que"
+    ],
+    "1360": [
+      3,
+      "Une page Facebook qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Elle relaie parfois de fausses informations, par exemple une légende urbaine sur des vols de voitures organisés en laissant un billet de 50 euros sur le pare-brise d'un véhicule.",
+      "Saviez-vous que ? \"LOL\"",
+      "saviez-vous-que-lol"
+    ],
+    "1361": [
+      3,
+      "Une page Facebook qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Elle relaie parfois de fausses informations, par exemple sur la prétendue présence de sperme de taureau dans la composition du Red Bull.",
+      "Secrets du poids : maigrir naturellement",
+      "secrets-du-poids-maigrir-naturellement"
+    ],
+    "1362": [
+      3,
+      "Une page Facebook qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Elle relaie parfois de fausses informations, par exemple une légende urbaine sur des vols de voitures organisés en laissant un billet de 50 euros sur le pare-brise d'un véhicule.",
+      "Si toi aussi ta mère raconte ta vie a tout le monde",
+      "si-toi-aussi-ta-mere-raconte-ta-vie-a-tout-le-monde"
+    ],
+    "1363": [
+      3,
+      "Une page Facebook qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Elle relaie parfois de fausses informations, par exemple une légende urbaine sur des vols de voitures organisés en laissant un billet de 50 euros sur le pare-brise d'un véhicule.",
+      "Si toi aussi tu n'a jamais lu le reglement du collége / lycée",
+      "si-toi-aussi-tu-n-a-jamais-lu-le-reglement-du-college-lycee"
+    ],
+    "1364": [
+      3,
+      "Une page Facebook qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Elle relaie également parfois de fausses informations comme un canular du Gorafi affirmant qu'un candidat de Fort Boyard aurait été retrouvé sept ans après avoir été oublié dans une cellule.",
+      "SMS Drôles",
+      "sms-droles"
+    ],
+    "1365": [
+      3,
+      "Une page Facebook qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Elle relaie parfois de fausses informations, par exemple lorsqu'elle a repris au premier degré un canular d'un site parodique qui affirmait que de la viande humaine aurait été retrouvée chez McDonald's.",
+      "Source du savoir",
+      "source-du-savoir"
+    ],
+    "1366": [
+      3,
+      "Un site qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Il relaie parfois de fausses informations, par exemple lorsqu'il a repris un canular du site belge Nordpresse selon lequel les célibataires de plus de 30 ans seraient contraints par la loi d'accueillir des migrants.",
+      "Super Astuces",
+      "super-astuces"
+    ],
+    "1367": [
+      3,
+      "Une page Facebook qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Elle relaie parfois de fausses informations, par exemple lorsqu'elle a repris au premier degré un canular d'un site parodique qui affirmait que de la viande humaine aurait été retrouvée chez McDonald's. Ou encore lorsqu'elle a repris une fausses affirmation selon laquelle la boisson Red Bull contiendrait du sperme de taureau.",
+      "Tag quelqu'un qui",
+      "tag-quelqu-un-qui"
+    ],
+    "1368": [
+      3,
+      "Une page Facebook qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Elle diffuse également parfois de fausses informations, par exemple lorsqu'elle a repris au premier degré un canular affirmant que Philippe Poutou jouait dans un film à caractère pornographique ou un autre affirmant qu'une maison close zoophile allait ouvrir au Danemark.",
+      "Techno News",
+      "techno-news"
+    ],
+    "1369": [
+      2,
+      "Un site qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Il a relayé plusieurs fausses informations, notamment lorsqu'il a repris au premier degré un canular affirmant que Philippe Poutou jouait dans un film X, un autre affirmant que le port du hijab allait être autorisé dans la police nationale, un troisième affirmant que les célibataires de plus de 30 ans seraient contraints par la loi d'accueillir des migrants, un quatrième affirmant que de la viande humaine aurait été retrouvée chez McDonalds ou encore un autre affirmant qu'une maison close zoophile allait ouvrir au Danemark. Il a également diffusé une fausse alerte enlèvement et un article affirmant à tort que la boisson Red Bull contiendrait du sperme de taureau.",
+      "Top Astuces",
+      "top-astuces"
+    ],
+    "1370": [
+      3,
+      "Une page Facebook qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Elle relaie parfois de fausses informations, par exemple une légende urbaine sur des vols de voitures organisés en laissant un billet de 50 euros sur le pare-brise d'un véhicule.",
+      "Top truc a essayer",
+      "top-truc-a-essayer"
+    ],
+    "1371": [
+      3,
+      "Une page Facebook qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Elle relaie parfois de fausses informations, par exemple une légende urbaine sur des vols de voitures organisés en laissant un billet de 50 euros sur le pare-brise d'un véhicule.",
+      "TROP CUTE [Fan-O-web]",
+      "trop-cute-fan-o-web"
+    ],
+    "1372": [
+      3,
+      "Une page Facebook qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Elle relaie parfois de fausses informations, par exemple une légende urbaine sur des vols de voitures organisés en laissant un billet de 50 euros sur le pare-brise d'un véhicule.",
+      "Trucs & Bricolages [Fan-O-web]",
+      "trucs-bricolages-fan-o-web"
+    ],
+    "1373": [
+      3,
+      "Une page Facebook qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Elle relaie parfois de fausses informations, par exemple une légende urbaine sur des vols de voitures organisés en laissant un billet de 50 euros sur le pare-brise d'un véhicule.",
+      "Trucs cool à essayer",
+      "trucs-cool-a-essayer"
+    ],
+    "1374": [
+      3,
+      "Une page Facebook qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Elle relaie parfois de fausses informations, par exemple une légende urbaine sur des vols de voitures organisés en laissant un billet de 50 euros sur le pare-brise d'un véhicule.",
+      "Trucs cool à faire à la maison.",
+      "trucs-cool-a-faire-a-la-maison"
+    ],
+    "1375": [
+      3,
+      "Une page Facebook qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Elle relaie parfois de fausses informations, par exemple une légende urbaine sur des vols de voitures organisés en laissant un billet de 50 euros sur le pare-brise d'un véhicule.",
+      "Trucs cool à faire avec les objets du quotidien",
+      "trucs-cool-a-faire-avec-les-objets-du-quotidien"
+    ],
+    "1376": [
+      3,
+      "Une page Facebook qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Elle relaie parfois de fausses informations, par exemple une légende urbaine sur des vols de voitures organisés en laissant un billet de 50 euros sur le pare-brise d'un véhicule.",
+      "Trucs de grands-mères",
+      "trucs-de-grands-meres"
+    ],
+    "1377": [
+      3,
+      "Une page Facebook qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Elle relaie parfois de fausses informations, par exemple lorsqu'elle a repris un canular du site belge Nordpresse selon lequel les célibataires de plus de 30 ans seraient contraints par la loi d'accueillir des migrants.",
+      "VDM d'amour",
+      "vdm-d-amour"
+    ],
+    "1378": [
+      3,
+      "Une page Facebook qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Elle relaie également parfois de fausses informations comme un canular du Gorafi affirmant qu'un candidat de Fort Boyard aurait été retrouvé sept ans après avoir été oublié dans une cellule.",
+      "Veux-Tu aimer?",
+      "veux-tu-aimer"
+    ],
+    "1379": [
+      3,
+      "Une page Facebook qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Elle relaie parfois de fausses informations, par exemple une légende urbaine sur des vols de voitures organisés en laissant un billet de 50 euros sur le pare-brise d'un véhicule.",
+      "Veux-Tu Rire? [Fan-O-Web]",
+      "veux-tu-rire-fan-o-web"
+    ],
+    "1380": [
+      3,
+      "Une page Facebook qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Elle relaie parfois de fausses informations, par exemple une légende urbaine sur des vols de voitures organisés en laissant un billet de 50 euros sur le pare-brise d'un véhicule.",
+      "VivreFemme",
+      "vivrefemme"
+    ],
+    "1381": [
+      3,
+      "Une page Facebook qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Elle relaie également parfois de fausses informations, par exemple un canular affirmant que de la viande humaine aurait retrouvée chez McDonald's ou une légende urbaine erronée selon laquelle il  aurait du sperme de taureau dans la boisson Red Bull.",
+      "ღ Le Monde des Femmes; Recettes et Astuces ღ",
+      "-le-monde-des-femmes-recettes-et-astuces-"
+    ],
+    "1382": [
+      3,
+      "Une page Facebook qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Elle relaie également parfois de fausses informations, par exemple un canular affirmant que de la viande humaine aurait retrouvée chez McDonald's ou une légende urbaine erronée selon laquelle il  aurait du sperme de taureau dans la boisson Red Bull.",
+      "ღϠ₡ღ L'astuce du mois ღϠ₡ღ",
+      "--l-astuce-du-mois--"
+    ],
+    "1383": [
+      2,
+      "Un site internet qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Il a par exemple repris au premier degré un canular affirmant qu'il y aurait prochainement une nouvelle taxe sur les jardins potagers. Par ailleurs, cette page relaie, sous couvert de défendre la cause palestinienne, des campagnes anti vaccinations et renvoie vers des sites négationnistes.",
+      "Infos tous sujets et pays",
+      "infos-tous-sujets-et-pays"
+    ],
+    "1384": [
+      3,
+      "Un site internet qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Il a par exemple repris au premier degré un canular affirmant qu'une infirmière aurait échangé plus de 9 000 bébés à la maternité.",
+      "Eh Tu Sais Quoi",
+      "eh-tu-sais-quoi"
+    ],
+    "1385": [
+      3,
+      "Un site internet qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Il a par exemple repris au premier degré un canular affirmant qu'une infirmière aurait échangé plus de 9 000 bébés à la maternité. Ce site diffuse également des conseils santé à prendre avec des pincettes, car ils ne sont pas validés par des spécialistes.",
+      "Entre-Mamans.fr",
+      "entre-mamans-fr"
+    ],
+    "1386": [
+      3,
+      "Un site internet qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Il a par exemple repris au premier degré un canular affirmant que de la viande humaine aurait été retrouvée chez McDonald's. Ce site diffuse également des conseils santé à prendre avec des pincettes, car ils ne sont pas validés par des spécialistes.",
+      "Santé Academy",
+      "sante-academy"
+    ],
+    "1387": [
+      3,
+      "Un site internet qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Il a par exemple repris une légende urbaine affirmant à tort que la boisson Red Bull contiendrait du sperme de taureau. Ce site diffuse également des conseils santé à prendre avec des pincettes, car ils ne sont pas validés par des spécialistes.",
+      "Santé SOS",
+      "sante-sos"
+    ],
+    "1388": [
+      3,
+      "Un site internet qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Il a par exemple repris une légende urbaine affirmant à tort que la boisson Red Bull contiendrait du sperme de taureau et a également pris pour argent comptant un canular d'un site américain selon lequel de la viande humaine aurait été retrouvée chez McDonald's. Ce site diffuse également des conseils santé à prendre avec des pincettes, car ils ne sont pas validés par des spécialistes.",
+      "Astuces des femmes",
+      "astuces-des-femmes"
+    ],
+    "1389": [
+      3,
+      "Un site internet qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Il a par exemple repris une légende urbaine affirmant à tort que la boisson Red Bull contiendrait du sperme de taureau. Ce site diffuse également des conseils santé à prendre avec des pincettes, car ils ne sont pas validés par des spécialistes.",
+      "Best Santé",
+      "best-sante"
+    ],
+    "1390": [
+      3,
+      "Un site internet qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Il a par exemple repris au premier degré un canular affirmant qu'une infirmière aurait échangé plus de 9 000 bébés à la maternité.",
+      "Je t'aime maman",
+      "je-t-aime-maman-1"
+    ],
+    "1391": [
+      3,
+      "Un site internet qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Il a par exemple repris au premier degré un canular affirmant qu'une infirmière aurait échangé plus de 9 000 bébés à la maternité.",
+      "Petit repos",
+      "petit-repos"
+    ],
+    "1392": [
+      3,
+      "Un site internet qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Il a par exemple repris au premier degré un canular affirmant qu'une infirmière aurait échangé plus de 9 000 bébés à la maternité.",
+      "Ojobuzz",
+      "ojobuzz"
+    ],
+    "1393": [
+      3,
+      "Un site qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Il relaie parfois de fausses informations, par exemple une légende urbaine sur des vols de voitures organisés en laissant un billet de 50 euros sur le pare-brise d'un véhicule.",
+      "Buzzarena",
+      "buzzarena"
+    ],
+    "1394": [
+      3,
+      "Un site qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Il relaie également parfois de fausses informations comme un canular du Gorafi affirmant qu'un candidat de Fort Boyard aurait été retrouvé sept ans après avoir été oublié dans une cellule.",
+      "buzzdefr",
+      "buzzdefr"
+    ],
+    "1395": [
+      3,
+      "Un site qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Il relaie également parfois de fausses informations comme un canular du site Secret News selon lequel une maison close zoophile allait ouvrir au Danemark.",
+      "Cool-Buzz",
+      "cool-buzz-1"
+    ],
+    "1396": [
+      3,
+      "Un site internet qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Il a par exemple repris une légende urbaine affirmant à tort que la boisson Red Bull contiendrait du sperme de taureau et a également pris pour argent comptant un canular d'un site américain selon lequel de la viande humaine aurait été retrouvée chez McDonald's.",
+      "Moment Buzz",
+      "moment-buzz-1"
+    ],
+    "1397": [
+      3,
+      "Un site internet qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Il a par exemple repris au premier degré un canular affirmant qu'une infirmière aurait échangé plus de 9 000 bébés à la maternité.",
+      "Buzz Trucs",
+      "buzz-trucs"
+    ],
+    "1398": [
+      3,
+      "Un site internet qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Il a par exemple diffusé une légende urbaine sur la circulation de drogue sous forme de bonbons dans les écoles. Ce site diffuse également des conseils santé à prendre avec des pincettes, car ils ne sont pas validés par des spécialistes. A ne pas confondre avec le site topsante.com.",
+      "topsante.org",
+      "topsante-org"
     ]
   },
   "urls": {
+    "topsante.org": 1398,
+    "buzztrucs.com": 1397,
+    "momentbuzz.com": 1147,
+    "cool-buzz.net": 1242,
+    "facebook.com/cool.buzz.net": 1395,
+    "buzzdefr.com": 1394,
+    "buzzarena.com": 1393,
+    "facebook.com/BuzzArena": 1393,
+    "twitter.com/BuzzArenaFr": 1393,
+    "ojobuzz.fr": 1392,
+    "facebook.com/OjoBuzz": 1392,
+    "petitrepos.com": 1391,
+    "jetaimemaman.co": 1390,
+    "bestsante.com": 1389,
+    "astucesdesfemmes.com": 1388,
+    "santesos.com": 1387,
+    "santeacademy.com": 1386,
+    "entre-mamans.fr": 1385,
+    "facebook.com/entremamansPage": 1385,
+    "ehtusaisquoi.net": 1384,
+    "facebook.com/EhTuSaisQuoibyJordan": 1384,
+    "facebook.com/infosdiversesbyJazz": 1383,
+    "facebook.com/ღϠღ-Lastuce-du-mois-ღϠღ-614029875343804": 1382,
+    "facebook.com/ღ-Le-Monde-des-Femmes-Recettes-et-Astuces-ღ-1481986778693692": 1381,
+    "facebook.com/VivreFemme": 1380,
+    "facebook.com/VeuxTuRire": 1379,
+    "facebook.com/Veux-Tu-aimer-912771458761344": 1378,
+    "facebook.com/SuperVDMamour": 1377,
+    "facebook.com/Trucs-de-grands-mères-737077989661259": 1376,
+    "facebook.com/Trucscoolafaireaveclesobjetsduquotidien": 1375,
+    "facebook.com/TrucsCoolAFaireALaMaison": 1374,
+    "facebook.com/TrucsCoolAEssayer": 1373,
+    "facebook.com/TrucsBrico": 1372,
+    "facebook.com/tropcute": 1371,
+    "facebook.com/TopTrucAEssayer": 1370,
+    "topastuces.net": 1369,
+    "facebook.com/topastuces.net.page.officielle": 1369,
+    "facebook.com/style.femme11": 1368,
+    "facebook.com/TagQqn0": 1367,
+    "superastuces.co": 1366,
+    "facebook.com/SuperAstuces": 1366,
+    "facebook.com/SourceduSavoir": 1365,
+    "facebook.com/smshumour.net": 1364,
+    "facebook.com/Si-toi-aussi-tu-na-jamais-lu-le-reglement-du-collége-lycée-183773479462": 1363,
+    "facebook.com/Tamereracontetavie": 1362,
+    "facebook.com/secretsdupoids": 1361,
+    "facebook.com/SaviezvousqueLOL": 1360,
+    "facebook.com/SaviezVousQueOfficiel": 1359,
+    "facebook.com/santeplusport": 1358,
+    "facebook.com/bienetsante": 1357,
+    "facebook.com/Santé-et-beauté-pour-tous-314513145985": 1356,
+    "sanslimitesn.com": 1355,
+    "facebook.com/sanslimitesn": 1355,
+    "facebook.com/SaisTuQueVersionCitations1": 1354,
+    "facebook.com/STQHumourr": 1353,
     "facebook.com/Quand-un-geek-meurt-il-va-dans-la-corbeille-286263067225": 1352,
     "facebook.com/Quandlesprofsselachent": 1351,
     "facebook.com/Quand-les-élèves-se-lâchent-681131845280480": 1350,
@@ -4484,6 +4941,9 @@
     "facebook.com/Desirsdevasion": 1298,
     "facebook.com/CodeDesMecsOfficiel": 1297,
     "facebook.com/Ciitations": 1296,
+    "facebook.com/FoxDiff": 1295,
+    "facebook.com/cestnormalauquebec": 1294,
+    "facebook.com/lapagedelaBonneHumeur": 1293,
     "facebook.com/ayoye.co": 1292,
     "facebook.com/AyoyeConneries": 1291,
     "facebook.com/AvecLesMoyensDuBled": 1290,
@@ -4569,7 +5029,6 @@
     "top-buzz.net": 1244,
     "topdunet.org": 1243,
     "facebook.com/Top-du-Net-491966404328010": 1243,
-    "cool-buzz.net": 1242,
     "cyceon.com": 1241,
     "facebook.com/cyceon.fr": 1241,
     "twitter.com/cyceon_fr": 1241,
@@ -4682,6 +5141,14 @@
     "cahiersdufootball.net": 1194,
     "facebook.com/LesCahiersduFootball": 1194,
     "twitter.com/cahiersdufoot": 1194,
+    "acrimed.org": 1193,
+    "facebook.com/Acrimed-Action-Critique-Médias-94089796249": 1193,
+    "twitter.com/acrimed_info": 1193,
+    "youtube.com/channel/UCqEwL9lUdH-ccrN4Rgd0sEw": 1193,
+    "charliehebdo.fr": 1192,
+    "facebook.com/Charlie-Hebdo-Officiel-106626879360459": 1192,
+    "twitter.com/Charlie_Hebdo_": 1192,
+    "lesalonbeige.fr": 1189,
     "hypotheses.org": 1188,
     "sante.journaldesfemmes.com": 1187,
     "e-sante.fr": 1186,
@@ -4715,9 +5182,9 @@
     "youtube.com/user/LJALTERECO": 1175,
     "monde.taibaweb.com": 1174,
     "abonnes.mobile.lemonde.fr": 1173,
-    "facebook.com/lemonde.fr": 1172,
-    "twitter.com/lemondefr": 1172,
-    "youtube.com/channel/UCYpRDnhk5H8h16jpS84uqsA": 1172,
+    "facebook.com/lemonde.fr": 1044,
+    "twitter.com/lemondefr": 1044,
+    "youtube.com/channel/UCYpRDnhk5H8h16jpS84uqsA": 1044,
     "mobile.lemonde.fr": 1172,
     "mesopinions.com": 1171,
     "facebook.com/mesopinions": 1171,
@@ -4765,7 +5232,6 @@
     "buzzsurnet.com": 1149,
     "facebook.com/Buzzsurnet": 1149,
     "facebook.com/Labaseduncouple": 1148,
-    "momentbuzz.com": 1147,
     "fimina.com": 1146,
     "facebook.com/Fiminamag": 1146,
     "facebook.com/SaisTuaimerr": 1145,
@@ -4910,6 +5376,15 @@
     "premiere.fr": 1087,
     "facebook.com/premierefr": 1087,
     "twitter.com/PremiereFR": 1087,
+    "politis.fr": 1086,
+    "facebook.com/Politisfr-217973083988": 1086,
+    "twitter.com/Politis_fr": 1086,
+    "politico.eu": 1085,
+    "facebook.com/POLITICOeu": 1085,
+    "twitter.com/POLITICOEurope": 1085,
+    "politico.com": 1084,
+    "facebook.com/politico": 1084,
+    "twitter.com/politico": 1084,
     "pointdevue.fr": 1083,
     "pelerin.com": 1082,
     "facebook.com/pelerincom": 1082,
@@ -5011,6 +5486,13 @@
     "leparisien.fr": 1047,
     "facebook.com/leparisien": 1047,
     "twitter.com/le_Parisien": 1047,
+    "lenouveleconomiste.fr": 1046,
+    "facebook.com/Le.nouvel.Economiste": 1046,
+    "twitter.com/LeNouvelEco": 1046,
+    "monde-diplomatique.fr": 1045,
+    "facebook.com/lemondediplo": 1045,
+    "twitter.com/mdiplo": 1045,
+    "lemonde.fr": 1044,
     "lemainelibre.fr": 1043,
     "facebook.com/lemainelibre": 1043,
     "twitter.com/lemainelibre": 1043,
@@ -5274,6 +5756,14 @@
     "ap.org": 943,
     "facebook.com/APNews&rf=109042952456316": 943,
     "twitter.com/AP": 943,
+    "asahi.com": 942,
+    "facebook.com/asahicom": 942,
+    "arte.tv/fr": 941,
+    "facebook.com/artetv": 941,
+    "twitter.com/ARTEfr": 941,
+    "arretsurimages.net": 940,
+    "facebook.com/arretsurimages.net": 940,
+    "twitter.com/arretsurimages": 940,
     "ameli-sante.fr": 939,
     "twitter.com/ameli_actu": 939,
     "alternet.org": 938,
@@ -5772,6 +6262,12 @@
     "facebook.com/davidicke": 694,
     "twitter.com/davidicke": 694,
     "youtube.com/user/davidicke": 694,
+    "dailynewsbin.com": 693,
+    "facebook.com/dailynewsbin": 693,
+    "twitter.com/DailyNewsBin": 693,
+    "cuisine-et-sante.net": 692,
+    "croa.fr": 691,
+    "facebook.com/croaplus": 691,
     "corbettreport.com": 690,
     "facebook.com/TheCorbettReport": 690,
     "twitter.com/corbettreport": 690,
@@ -5863,6 +6359,14 @@
     "twitter.com/le_gorafi": 635,
     "ledailyberet.fr": 634,
     "facebook.com/lecourrierdesechos": 634,
+    "lasardineduport.fr": 633,
+    "facebook.com/lasardineduport": 633,
+    "twitter.com/sardinedp": 633,
+    "ladechedumidi.com": 632,
+    "facebook.com/La-D%C3%A8che-du-Midi-393616387445504": 632,
+    "lepique.com": 631,
+    "facebook.com/lepique.fr": 631,
+    "twitter.com/iepique": 631,
     "lechodelaboucle.fr": 630,
     "facebook.com/L%C3%89cho-de-la-Boucle-1438751383069032": 630,
     "twitter.com/echodelaboucle": 630,
