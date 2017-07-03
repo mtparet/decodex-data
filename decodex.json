@@ -348,24 +348,6 @@
       "L'Echo de la Boucle",
       "l-echo-de-la-boucle"
     ],
-    "631": [
-      1,
-      "Un site satirique sur le sport.",
-      "L'Epique",
-      "l-epique"
-    ],
-    "632": [
-      1,
-      "Un site satirique qui se moque de la presse locale.",
-      "La Deche du Midi",
-      "la-deche-du-midi"
-    ],
-    "633": [
-      1,
-      "Un site parodique à prendre au second degré.",
-      "La Sardine du Port",
-      "la-sardine-du-port"
-    ],
     "634": [
       1,
       "Un site satirique qui se moque de la presse locale.",
@@ -707,24 +689,6 @@
       "Le site d'un auteur américain qui se présente abusivement comme un média d'information. Il diffuse des théories conspirationnistes sur le 11 septembre 2001 notamment et donne de fausses informations climatosceptiques.",
       "Corbett Report",
       "corbett-report"
-    ],
-    "691": [
-      2,
-      "Un site qui se présente comme un site d'information indépendant mais qui publie en réalité des articles qui peuvent induire le lecteur en erreur et relaie des théories négationnistes, qui prétendent notamment que l'extermination des juifs pendant la Seconde guerre mondiale n'a pas eu lieu.",
-      "Croa",
-      "croa"
-    ],
-    "692": [
-      2,
-      "Un site dédié en grande partie à l'alimentation et à la sexualité, qui diffuse régulièrement des conseils exagérés sur de prétendus aliments « miracles », reprend des études sans précaution et propage des thèses complotistes, comme celle des bananes potentiellement porteuses du virus du sida, le tout sous des titres racoleurs. Aucune information n'est disponible sur les auteurs du site ni sur ses propriétaires.",
-      "Cuisine et Santé",
-      "cuisine-et-sante"
-    ],
-    "693": [
-      2,
-      "Un site politique américaine fortement orienté à l'extrême gauche et clairement anti-Trump qui publie régulièrement des informations trompeuses ou approximatives.",
-      "DailyNewsBin",
-      "dailynewsbin"
     ],
     "694": [
       2,
@@ -2148,24 +2112,6 @@
       "Ameli",
       "ameli"
     ],
-    "940": [
-      4,
-      "Un site Internet d'information et d'analyse des médias, né après la suppression de l'émission du même nom sur France 5.",
-      "Arrêt sur images",
-      "arret-sur-images"
-    ],
-    "941": [
-      4,
-      "Chaîne de télévision culturelle de service public franco-allemande.",
-      "Arte",
-      "arte"
-    ],
-    "942": [
-      4,
-      "Un quotidien et site Internet japonais, l'un des principaux titres du pays, classé politiquement au centre gauche, et clairement pacifiste.",
-      "Asahi Shinbun",
-      "asahi-shinbun"
-    ],
     "943": [
       4,
       "Associated Press (AP) est l'une des principales agences de presse généralistes mondiales, qui diffuse de manière générale des informations vérifiées en précisant systématiquement ses sources.",
@@ -2748,24 +2694,6 @@
       "Le Maine Libre",
       "le-maine-libre"
     ],
-    "1044": [
-      4,
-      "Un quotidien et site Internet d'information généraliste. Le groupe est détenu depuis 2010 par les hommes d'affaires Xavier Niel, Pierre Bergé et Matthieu Pigasse.",
-      "Le Monde",
-      "le-monde"
-    ],
-    "1045": [
-      4,
-      "Un journal mensuel français d'information et d'opinion, marqué à gauche.",
-      "Le Monde diplomatique",
-      "le-monde-diplomatique"
-    ],
-    "1046": [
-      4,
-      "Un journal hebdomadaire économique.",
-      "Le Nouvel Economiste",
-      "le-nouvel-economiste"
-    ],
     "1047": [
       4,
       "Un quotidien et site Internet d'information généraliste détenu par le groupe de luxe LVMH, dirigé par le milliardaire Bernard Arnault.",
@@ -2987,24 +2915,6 @@
       "Un hebdomadaire spécialisé dans la vie des familles royales.",
       "Point de Vue",
       "point-de-vue"
-    ],
-    "1084": [
-      4,
-      "Un site d'information américain consacré à l'actualité politique.",
-      "Politico",
-      "politico"
-    ],
-    "1085": [
-      4,
-      "La version européenne du site d'information américain du même nom, consacré à l'actualité politique européenne vue de Bruxelles.",
-      "Politico Europe",
-      "politico-europe"
-    ],
-    "1086": [
-      4,
-      "Hebdomadaire d'information généraliste proche de la gauche antilibérale et écologiste.",
-      "Politis",
-      "politis"
     ],
     "1087": [
       4,
@@ -3588,24 +3498,6 @@
       "Hypotheses",
       "hypotheses"
     ],
-    "1189": [
-      2,
-      "Un site proche de La Manif pour tous, qui a déjà diffusé de fausses informations. Son responsable a notamment été condamné en justice pour avoir comparé le traitement des militants de La Manif pour tous au sort des enfants juifs pendant l'occupation.",
-      "Le Salon beige",
-      "le-salon-beige-1"
-    ],
-    "1192": [
-      4,
-      "« Charlie Hebdo » est un hebdomadaire satirique français de tradition libertaire, qui a une ligne caustique et irrévérencieuse qui se traduit notamment par la publication de nombreuses caricatures. Le journal aborde principalement les sujets liés à la politique, aux religions, à l'économie ou encore aux médias. Le journal a été frappé par un incendie criminel en 2011. Il a ensuite été la cible de l'attentat perpétré par les frères Kouachi le 7 janvier 2015, qui a tué douze personnes dont huit collaborateurs de l'hebdomadaire. La publication de « Charlie Hebdo » a, malgré tout, repris à l'initiative des survivants, le journal adoptant à l'été 2015 le statut d'entreprise solidaire de presse.",
-      "Charlie Hebdo",
-      "charlie-hebdo"
-    ],
-    "1193": [
-      4,
-      "Acrimed (Action critique médias) est une association qui, comme son nom l'indique, se veut être un observatoire critique des médias. Plutôt classé comme marqué à gauche, Acrimed se donne pour objectif d'informer sur l'information et d'analyser les liens entre le journalisme et les pouvoirs économiques et politiques.",
-      "Acrimed",
-      "acrimed"
-    ],
     "1194": [
       4,
       "Site Web décalé et satirique dédié au football.",
@@ -4121,9 +4013,490 @@
       "Un site parodique français, qui imite le site de France Info.",
       "francetvdesinfo.fr",
       "francetvdesinfo-fr"
+    ],
+    "1282": [
+      3,
+      "Une page Facebook qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Elle relaie parfois de fausses informations, par exemple une légende urbaine sur des vols de voitures organisés en laissant un billet de 50 euros sur le pare-brise d'un véhicule.",
+      "\"Madame vous allez rire...\" \"Telle que vous me voyez là j'suis au maximum!\"",
+      "madame-vous-allez-rire-telle-que-vous-me-voyez-la-j-suis-au-maximum"
+    ],
+    "1283": [
+      3,
+      "Une page Facebook qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Elle relaie parfois de fausses informations, par exemple une fausse alerte enlèvement selon laquelle des gans utiliseraient des enfants pour attirer des femmes.",
+      "Les Bonnie &Clyde",
+      "les-bonnie-clyde"
+    ],
+    "1284": [
+      3,
+      "Une page Facebook qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Elle relaie parfois de fausses informations, par exemple une légende urbaine sur des vols de voitures organisés en laissant un billet de 50 euros sur le pare-brise d'un véhicule.",
+      "1 verre de vodka c comme granola,ne pariez jamais que vous en prendrez qu'1",
+      "1-verre-de-vodka-c-comme-granola-ne-pariez-jamais-que-vous-en-prendrez-qu-1"
+    ],
+    "1285": [
+      3,
+      "Un site internet qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Il a par exemple diffusé une fausse information sur un prétendu fruit miracle anti-cancer.",
+      "Actumag",
+      "actumag"
+    ],
+    "1286": [
+      3,
+      "Une page Facebook qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Elle relaie parfois de fausses informations, par exemple une légende urbaine sur des vols de voitures organisés en laissant un billet de 50 euros sur le pare-brise d'un véhicule.",
+      "Astuces de grand mère",
+      "astuces-de-grand-mere"
+    ],
+    "1287": [
+      3,
+      "Une page Facebook qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Elle relaie parfois de fausses informations, par exemple sur la prétendue présence de sperme de taureau dans la composition du Red Bull.",
+      "Astuces de Grand-Mère",
+      "astuces-de-grand-mere-1"
+    ],
+    "1288": [
+      3,
+      "Une page Facebook qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Elle relaie parfois de fausses informations, par exemple une légende urbaine sur des vols de voitures organisés en laissant un billet de 50 euros sur le pare-brise d'un véhicule.",
+      "Astuces de Mac Gyver",
+      "astuces-de-mac-gyver"
+    ],
+    "1289": [
+      3,
+      "Une page Facebook qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Elle relaie parfois de fausses informations, par exemple une légende urbaine sur des vols de voitures organisés en laissant un billet de 50 euros sur le pare-brise d'un véhicule.",
+      "Astuces pour rendre ton chez-toi unique",
+      "astuces-pour-rendre-ton-chez-toi-unique"
+    ],
+    "1290": [
+      3,
+      "Une page Facebook qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Elle relaie parfois de fausses informations, par exemple une légende urbaine sur des vols de voitures organisés en laissant un billet de 50 euros sur le pare-brise d'un véhicule.",
+      "Avec les moyens du bled",
+      "avec-les-moyens-du-bled"
+    ],
+    "1291": [
+      3,
+      "Une page Facebook qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Elle relaie parfois de fausses informations, par exemple une légende urbaine sur des vols de voitures organisés en laissant un billet de 50 euros sur le pare-brise d'un véhicule.",
+      "Ayoye - Conneries",
+      "ayoye-conneries"
+    ],
+    "1292": [
+      3,
+      "Une page Facebook qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Elle relaie parfois de fausses informations, par exemple une légende urbaine sur des vols de voitures organisés en laissant un billet de 50 euros sur le pare-brise d'un véhicule.",
+      "Ayoye [Fan-O-web]",
+      "ayoye-fan-o-web"
+    ],
+    "1296": [
+      3,
+      "Une page Facebook qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Elle relaie parfois de fausses informations, par exemple lorsqu'elle a repris au premier degré un canular d'un site parodique qui affirmait que de la viande humaine aurait été retrouvée chez McDonald's.",
+      "Citations.",
+      "citations"
+    ],
+    "1297": [
+      3,
+      "Une page Facebook qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Elle relaie parfois de fausses informations, par exemple une légende urbaine sur des vols de voitures organisés en laissant un billet de 50 euros sur le pare-brise d'un véhicule.",
+      "Code. des mecs",
+      "code-des-mecs"
+    ],
+    "1298": [
+      3,
+      "Une page Facebook qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Elle relaie parfois de fausses informations, par exemple une légende urbaine sur des vols de voitures organisés en laissant un billet de 50 euros sur le pare-brise d'un véhicule.",
+      "Désirs d'évasion",
+      "desirs-d-evasion"
+    ],
+    "1299": [
+      3,
+      "Une page Facebook qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Elle relaie parfois de fausses informations, par exemple une légende urbaine sur des vols de voitures organisés en laissant un billet de 50 euros sur le pare-brise d'un véhicule.",
+      "Différence entre les jeunes d'avant et les jeunes d'aujourd'hui",
+      "difference-entre-les-jeunes-d-avant-et-les-jeunes-d-aujourd-hui"
+    ],
+    "1300": [
+      3,
+      "Une page Facebook qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Elle relaie parfois de fausses informations, par exemple lorsqu'elle a repris un canular du site belge Nordpresse selon lequel les célibataires de plus de 30 ans seraient contraints par la loi d'accueillir des migrants.",
+      "Espace Zapping",
+      "espace-zapping"
+    ],
+    "1301": [
+      3,
+      "Une page Facebook qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Elle relaie parfois de fausses informations, par exemple une légende urbaine sur des vols de voitures organisés en laissant un billet de 50 euros sur le pare-brise d'un véhicule.",
+      "Faits incroyables et scientifiques",
+      "faits-incroyables-et-scientifiques"
+    ],
+    "1302": [
+      3,
+      "Un site de divertissement français, spécialisé dans les contenus « insolites » et décalés. Ce site agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Il relaie également parfois de fausses informations, par exemple une légende urbaine sur des vols de voitures organisés en laissant un billet de 50 euros sur le pare-brise d'un véhicule.",
+      "Féroce",
+      "feroce"
+    ],
+    "1303": [
+      3,
+      "Une page Facebook qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Elle relaie également parfois de fausses informations comme un canular du Gorafi affirmant qu'un candidat de Fort Boyard aurait été retrouvé sept ans après avoir été oublié dans une cellule.",
+      "Gif Porn RNB",
+      "gif-porn-rnb"
+    ],
+    "1304": [
+      3,
+      "Une page Facebook qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Elle relaie parfois de fausses informations, par exemple une légende urbaine sur des vols de voitures organisés en laissant un billet de 50 euros sur le pare-brise d'un véhicule.",
+      "Humour d'Homme",
+      "humour-d-homme"
+    ],
+    "1305": [
+      3,
+      "Une page Facebook qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Elle relaie parfois de fausses informations, par exemple une légende urbaine sur des vols de voitures organisés en laissant un billet de 50 euros sur le pare-brise d'un véhicule.",
+      "Humour de Jeunes",
+      "humour-de-jeunes"
+    ],
+    "1306": [
+      3,
+      "Une page Facebook qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Elle relaie parfois de fausses informations, par exemple lorsqu'elle a repris un canular affirmant qu'une infirmière aurait échangé 9 000 bébés à la maternité.",
+      "Humour du net",
+      "humour-du-net"
+    ],
+    "1307": [
+      3,
+      "Une page Facebook qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Elle relaie parfois de fausses informations, par exemple une légende urbaine sur des vols de voitures organisés en laissant un billet de 50 euros sur le pare-brise d'un véhicule.",
+      "Humour.",
+      "humour-4"
+    ],
+    "1308": [
+      3,
+      "Un site qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Il relaie également parfois de fausses informations comme un canular du Gorafi affirmant qu'un candidat de Fort Boyard aurait été retrouvé sept ans après avoir été oublié dans une cellule ou un autre affirmant que Marion Maréchal Le Pen arrêterait la politique pour s'installer avec son concubin musulman.",
+      "Infos Swag",
+      "infos-swag"
+    ],
+    "1309": [
+      3,
+      "Une page Facebook qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Elle relaie parfois de fausses informations, par exemple une légende urbaine sur des vols de voitures organisés en laissant un billet de 50 euros sur le pare-brise d'un véhicule.",
+      "Je suis Elle [Fan-O-web]",
+      "je-suis-elle-fan-o-web"
+    ],
+    "1310": [
+      3,
+      "Un site internet qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Il a par exemple diffusé une fausse information sur un prétendu fruit miracle anti-cancer.",
+      "L'astucerie",
+      "l-astucerie"
+    ],
+    "1311": [
+      3,
+      "Une page Facebook qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Elle relaie parfois de fausses informations, par exemple lorsqu'elle a repris un canular affirmant qu'une infirmière aurait échangé 9 000 bébés à la maternité.",
+      "La blague du matin",
+      "la-blague-du-matin"
+    ],
+    "1312": [
+      3,
+      "Une page Facebook qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Elle relaie parfois de fausses informations, par exemple une légende urbaine sur des vols de voitures organisés en laissant un billet de 50 euros sur le pare-brise d'un véhicule.",
+      "Lavilla Beauté",
+      "lavilla-beaute"
+    ],
+    "1313": [
+      3,
+      "Une page Facebook qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Elle relaie parfois de fausses informations, par exemple une légende urbaine sur des vols de voitures organisés en laissant un billet de 50 euros sur le pare-brise d'un véhicule.",
+      "Lavilla food",
+      "lavilla-food"
+    ],
+    "1314": [
+      3,
+      "Une page Facebook qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Elle relaie parfois de fausses informations, par exemple une légende urbaine sur des vols de voitures organisés en laissant un billet de 50 euros sur le pare-brise d'un véhicule.",
+      "LaVilla PopCorn",
+      "lavilla-popcorn"
+    ],
+    "1315": [
+      3,
+      "Une page Facebook qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Elle relaie parfois de fausses informations, par exemple une légende urbaine sur des vols de voitures organisés en laissant un billet de 50 euros sur le pare-brise d'un véhicule.",
+      "Le saviez-vous ?",
+      "le-saviez-vous"
+    ],
+    "1316": [
+      3,
+      "Une page Facebook qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Elle relaie parfois de fausses informations, par exemple une légende urbaine sur des vols de voitures organisés en laissant un billet de 50 euros sur le pare-brise d'un véhicule.",
+      "Le saviez-vous by pause cafein",
+      "le-saviez-vous-by-pause-cafein"
+    ],
+    "1317": [
+      3,
+      "Une page Facebook qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Elle relaie parfois de fausses informations, par exemple lorsqu'elle a repris un canular affirmant qu'une infirmière aurait échangé 9 000 bébés à la maternité.",
+      "Les coiffures faciles à faire",
+      "les-coiffures-faciles-a-faire"
+    ],
+    "1318": [
+      3,
+      "Une page Facebook qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Elle relaie parfois de fausses informations, par exemple lorsqu'elle a repris un canular affirmant qu'une infirmière aurait échangé 9 000 bébés à la maternité.",
+      "LES FILLES ORIENTALES SONT LES PLUS BELLES",
+      "les-filles-orientales-sont-les-plus-belles"
+    ],
+    "1319": [
+      3,
+      "Une page Facebook qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Elle relaie parfois de fausses informations, par exemple une légende urbaine sur des vols de voitures organisés en laissant un billet de 50 euros sur le pare-brise d'un véhicule.",
+      "Les idées de génie",
+      "les-idees-de-genie"
+    ],
+    "1320": [
+      3,
+      "Une page Facebook qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Elle relaie parfois de fausses informations, par exemple une légende urbaine sur des vols de voitures organisés en laissant un billet de 50 euros sur le pare-brise d'un véhicule.",
+      "Les inventions les plus spectaculaires au monde",
+      "les-inventions-les-plus-spectaculaires-au-monde"
+    ],
+    "1321": [
+      3,
+      "Une page Facebook qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Elle relaie parfois de fausses informations, par exemple une légende urbaine sur des vols de voitures organisés en laissant un billet de 50 euros sur le pare-brise d'un véhicule.",
+      "Les mathématiques , C'est pas automatiques",
+      "les-mathematiques-c-est-pas-automatiques"
+    ],
+    "1322": [
+      3,
+      "Une page Facebook qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Elle relaie parfois de fausses informations, par exemple une légende urbaine sur des vols de voitures organisés en laissant un billet de 50 euros sur le pare-brise d'un véhicule.",
+      "Les meilleures attractions au monde",
+      "les-meilleures-attractions-au-monde"
+    ],
+    "1323": [
+      3,
+      "Une page Facebook qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Elle relaie parfois de fausses informations, par exemple une légende urbaine sur des vols de voitures organisés en laissant un billet de 50 euros sur le pare-brise d'un véhicule.",
+      "Les meilleures photos de ralentis",
+      "les-meilleures-photos-de-ralentis"
+    ],
+    "1324": [
+      3,
+      "Une page Facebook qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Elle relaie parfois de fausses informations, par exemple une légende urbaine sur des vols de voitures organisés en laissant un billet de 50 euros sur le pare-brise d'un véhicule.",
+      "Les Meilleures Photos Tatouage",
+      "les-meilleures-photos-tatouage"
+    ],
+    "1325": [
+      3,
+      "Une page Facebook qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Elle relaie parfois de fausses informations, par exemple lorsqu'elle a repris un canular du site belge Nordpresse selon lequel les célibataires de plus de 30 ans seraient contraints par la loi d'accueillir des migrants.",
+      "Les meilleurs phrases et VDM",
+      "les-meilleurs-phrases-et-vdm"
+    ],
+    "1326": [
+      3,
+      "Une page Facebook qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Elle relaie parfois de fausses informations, par exemple une légende urbaine sur des vols de voitures organisés en laissant un billet de 50 euros sur le pare-brise d'un véhicule.",
+      "Les objets les plus design du monde La minute déco",
+      "les-objets-les-plus-design-du-monde-la-minute-deco"
+    ],
+    "1327": [
+      3,
+      "Une page Facebook qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Elle relaie parfois de fausses informations, par exemple une légende urbaine sur des vols de voitures organisés en laissant un billet de 50 euros sur le pare-brise d'un véhicule.",
+      "Les perles des copies d'élèves",
+      "les-perles-des-copies-d-eleves"
+    ],
+    "1328": [
+      3,
+      "Une page Facebook qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Elle relaie parfois de fausses informations, par exemple une légende urbaine sur des vols de voitures organisés en laissant un billet de 50 euros sur le pare-brise d'un véhicule.",
+      "Les pires fail de tattouage",
+      "les-pires-fail-de-tattouage"
+    ],
+    "1329": [
+      3,
+      "Une page Facebook qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Elle relaie parfois de fausses informations, par exemple une légende urbaine sur des vols de voitures organisés en laissant un billet de 50 euros sur le pare-brise d'un véhicule.",
+      "Les plus beaux tatouages",
+      "les-plus-beaux-tatouages"
+    ],
+    "1330": [
+      3,
+      "Une page Facebook qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Elle relaie parfois de fausses informations, par exemple une légende urbaine sur des vols de voitures organisés en laissant un billet de 50 euros sur le pare-brise d'un véhicule.",
+      "Les trucs les plus stupides à faire by Pause Cafein",
+      "les-trucs-les-plus-stupides-a-faire-by-pause-cafein"
+    ],
+    "1331": [
+      2,
+      "Une page Facebook qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Elle a relayé au moins 5 fausses informations, notamment lorsqu'elle a repris au premier degré un canular selon lequel de la viande humaine aurait été retrouvée chez McDonald's, un autre affirmant qu'une maison close zoophile allait ouvrir au Danemark ou un autre encore affirmant que les célibataires de plus de 30 ans allaient être contraints d'accueillir des migrants.",
+      "Meilleures Plats et Astuces",
+      "meilleures-plats-et-astuces"
+    ],
+    "1332": [
+      3,
+      "Une page Facebook qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Elle relaie parfois de fausses informations, par exemple lorsqu'elle a repris un canular affirmant qu'une infirmière aurait échangé 9 000 bébés à la maternité.",
+      "Mode",
+      "mode-1"
+    ],
+    "1333": [
+      3,
+      "Une page Facebook qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Elle a par exemple diffusé une fausse information sur un prétendu fruit miracle anti-cancer.",
+      "Mode recettes Mariage maquillage coiffure & loisirs \"c'est par ici\"",
+      "mode-recettes-mariage-maquillage-coiffure-loisirs-c-est-par-ici"
+    ],
+    "1334": [
+      3,
+      "Une page Facebook qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Elle relaie parfois de fausses informations, par exemple une légende urbaine sur des vols de voitures organisés en laissant un billet de 50 euros sur le pare-brise d'un véhicule.",
+      "Nom des marques en version française",
+      "nom-des-marques-en-version-francaise"
+    ],
+    "1335": [
+      3,
+      "Une page Facebook qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Elle relaie parfois de fausses informations, par exemple une légende urbaine sur des vols de voitures organisés en laissant un billet de 50 euros sur le pare-brise d'un véhicule.",
+      "Ohmymag version buzz",
+      "ohmymag-version-buzz"
+    ],
+    "1336": [
+      3,
+      "Une page Facebook qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Elle relaie parfois de fausses informations, par exemple lorsqu'elle a repris un canular du site belge Nordpresse selon lequel les célibataires de plus de 30 ans seraient contraints par la loi d'accueillir des migrants.",
+      "On a tous quelqu'un en tête, quelqu'un a qui on pense sans arrêt .",
+      "on-a-tous-quelqu-un-en-tete-quelqu-un-a-qui-on-pense-sans-arret"
+    ],
+    "1337": [
+      3,
+      "Une page Facebook qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Elle relaie parfois de fausses informations, par exemple une légende urbaine sur des vols de voitures organisés en laissant un billet de 50 euros sur le pare-brise d'un véhicule.",
+      "Overdose de Conneries",
+      "overdose-de-conneries"
+    ],
+    "1338": [
+      3,
+      "Une page Facebook qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Elle relaie parfois de fausses informations, par exemple une légende urbaine sur des vols de voitures organisés en laissant un billet de 50 euros sur le pare-brise d'un véhicule.",
+      "Photographie.",
+      "photographie"
+    ],
+    "1339": [
+      3,
+      "Une page Facebook qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Elle relaie parfois de fausses informations, par exemple lorsqu'elle a repris un canular affirmant qu'une infirmière aurait échangé 9 000 bébés à la maternité.",
+      "Photos à regarder deux fois",
+      "photos-a-regarder-deux-fois"
+    ],
+    "1340": [
+      3,
+      "Une page Facebook qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Elle relaie parfois de fausses informations, par exemple une légende urbaine sur des vols de voitures organisés en laissant un billet de 50 euros sur le pare-brise d'un véhicule.",
+      "Problèmes de Mecs",
+      "problemes-de-mecs"
+    ],
+    "1341": [
+      3,
+      "Une page Facebook qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Elle relaie parfois de fausses informations, par exemple une légende urbaine sur des vols de voitures organisés en laissant un billet de 50 euros sur le pare-brise d'un véhicule.",
+      "Problèmes de Filles by pause cafein",
+      "problemes-de-filles-by-pause-cafein"
+    ],
+    "1342": [
+      3,
+      "Une page Facebook qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Elle relaie parfois de fausses informations, par exemple une légende urbaine sur des vols de voitures organisés en laissant un billet de 50 euros sur le pare-brise d'un véhicule.",
+      "Pourquoi on a pas ça ?",
+      "pourquoi-on-a-pas-ca"
+    ],
+    "1343": [
+      3,
+      "Une page Facebook qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Elle relaie parfois de fausses informations, par exemple une légende urbaine sur des vols de voitures organisés en laissant un billet de 50 euros sur le pare-brise d'un véhicule.",
+      "Pourquoi je ne savais pas ça avant ?",
+      "pourquoi-je-ne-savais-pas-ca-avant"
+    ],
+    "1344": [
+      3,
+      "Une page Facebook qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Elle relaie parfois de fausses informations, par exemple une légende urbaine sur des vols de voitures organisés en laissant un billet de 50 euros sur le pare-brise d'un véhicule.",
+      "Pour nous les filles",
+      "pour-nous-les-filles"
+    ],
+    "1345": [
+      3,
+      "Une page Facebook qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Elle relaie parfois de fausses informations, par exemple une légende urbaine sur des vols de voitures organisés en laissant un billet de 50 euros sur le pare-brise d'un véhicule.",
+      "Photos de pervers prises au bon moment",
+      "photos-de-pervers-prises-au-bon-moment"
+    ],
+    "1346": [
+      3,
+      "Un site internet qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Il relaie parfois de fausses informations, par exemple lorsqu'il a repris au premier degré un canular d'un site parodique qui affirmait que de la viande humaine aurait été retrouvée chez McDonald's.",
+      "Protège ta santé naturellement",
+      "protege-ta-sante-naturellement"
+    ],
+    "1347": [
+      3,
+      "Une page Facebook qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Elle relaie parfois de fausses informations, par exemple une légende urbaine sur des vols de voitures organisés en laissant un billet de 50 euros sur le pare-brise d'un véhicule.",
+      "Proverbes et Citations",
+      "proverbes-et-citations"
+    ],
+    "1348": [
+      3,
+      "Une page Facebook qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Elle relaie parfois de fausses informations, par exemple une légende urbaine sur des vols de voitures organisés en laissant un billet de 50 euros sur le pare-brise d'un véhicule.",
+      "Punchlines de Filles",
+      "punchlines-de-filles"
+    ],
+    "1349": [
+      3,
+      "Une page Facebook qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Elle relaie parfois de fausses informations, par exemple une légende urbaine sur des vols de voitures organisés en laissant un billet de 50 euros sur le pare-brise d'un véhicule.",
+      "Punchlines De Profs",
+      "punchlines-de-profs"
+    ],
+    "1350": [
+      3,
+      "Une page Facebook qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Elle relaie parfois de fausses informations, par exemple une légende urbaine sur des vols de voitures organisés en laissant un billet de 50 euros sur le pare-brise d'un véhicule.",
+      "Quand les élèves se lâchent",
+      "quand-les-eleves-se-lachent"
+    ],
+    "1351": [
+      3,
+      "Une page Facebook qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Elle relaie parfois de fausses informations, par exemple une légende urbaine sur des vols de voitures organisés en laissant un billet de 50 euros sur le pare-brise d'un véhicule.",
+      "Quand les profs se lâchent",
+      "quand-les-profs-se-lachent"
+    ],
+    "1352": [
+      3,
+      "Une page Facebook qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Elle relaie parfois de fausses informations, par exemple une légende urbaine sur des vols de voitures organisés en laissant un billet de 50 euros sur le pare-brise d'un véhicule.",
+      "Quand un geek meurt, il va dans la corbeille?",
+      "quand-un-geek-meurt-il-va-dans-la-corbeille"
     ]
   },
   "urls": {
+    "facebook.com/Quand-un-geek-meurt-il-va-dans-la-corbeille-286263067225": 1352,
+    "facebook.com/Quandlesprofsselachent": 1351,
+    "facebook.com/Quand-les-élèves-se-lâchent-681131845280480": 1350,
+    "facebook.com/Punchlines-De-Profs-1392318004375193": 1349,
+    "facebook.com/Punchlinesfilles": 1348,
+    "facebook.com/Proverbe.Citations": 1347,
+    "protegetasante.net": 1346,
+    "facebook.com/protegetasante": 1346,
+    "facebook.com/Photos-de-pervers-prises-au-bon-moment-643137069109047": 1345,
+    "facebook.com/cestrienquepournous": 1344,
+    "facebook.com/Savaispasca": 1343,
+    "facebook.com/Pourquoionapasca": 1342,
+    "facebook.com/problemesdefillesofficiel": 1341,
+    "facebook.com/problemesdemecs": 1340,
+    "facebook.com/yannispardf": 1339,
+    "facebook.com/photgraphiefrance": 1338,
+    "facebook.com/overdosedeconneries": 1337,
+    "facebook.com/PageBy.F.O": 1336,
+    "facebook.com/Ohmybuzz": 1335,
+    "facebook.com/Nomsdesmarques": 1334,
+    "facebook.com/ChahinezEtIbtissem": 1333,
+    "facebook.com/ModeFashionSwag": 1167,
+    "facebook.com/recettes.de.cuisine.facile": 1331,
+    "facebook.com/Les-trucs-les-plus-stupides-à-faire-by-Pause-Cafein-874061835953330": 1330,
+    "facebook.com/taouages.tattoo": 1329,
+    "facebook.com/Les-pires-fail-de-tattouage-1448112128769781": 1328,
+    "facebook.com/Les-perles-des-copies-délèves-496101910512827": 1327,
+    "facebook.com/Les-objets-les-plus-design-du-monde-La-minute-déco-1519635374945059": 1326,
+    "facebook.com/SuperVdm": 1325,
+    "facebook.com/Les-Meilleures-Photos-Tatouage-1477488732471583": 1324,
+    "facebook.com/Les-meilleures-photos-de-ralentis-1446025622312036": 1323,
+    "facebook.com/Lesmeilleuresattractionsaumonde": 1322,
+    "facebook.com/Les-mathématiques-Cest-pas-automatiques-332976648191": 1321,
+    "facebook.com/InventionsSpectaculaires": 1320,
+    "facebook.com/Lesmeilleuresinventions.fr": 1319,
+    "facebook.com/LesFillesOrientales": 1318,
+    "facebook.com/LesCoiffuresFaciles": 1317,
+    "facebook.com/Le-saviez-vous-by-pause-cafein-845107662168667": 1316,
+    "facebook.com/saviezvous.societe.tualaweb": 1315,
+    "facebook.com/laVillapopcorn": 1314,
+    "facebook.com/Lavillafood1": 1313,
+    "facebook.com/lavillabeaute": 1312,
+    "facebook.com/blaguedumatin": 1311,
+    "astucerie.net": 1310,
+    "facebook.com/astucerie": 1310,
+    "facebook.com/jesuiselle": 1309,
+    "infosswag.com": 1308,
+    "facebook.com/Infos-Swag-476834269088771": 1308,
+    "facebook.com/Humour-378359313290": 1307,
+    "facebook.com/humourdunet": 1306,
+    "facebook.com/HumourDeJeunes.fr": 1305,
+    "facebook.com/humour.homme": 1304,
+    "facebook.com/Gif.Porn.RNB": 1303,
+    "feroce.co": 1302,
+    "facebook.com/ferocefrance": 1302,
+    "facebook.com/pausecafeinscience": 1301,
+    "facebook.com/Espace.Zapping": 1300,
+    "facebook.com/Desirsdevasion": 1298,
+    "facebook.com/CodeDesMecsOfficiel": 1297,
+    "facebook.com/Ciitations": 1296,
+    "facebook.com/ayoye.co": 1292,
+    "facebook.com/AyoyeConneries": 1291,
+    "facebook.com/AvecLesMoyensDuBled": 1290,
+    "facebook.com/Astucespourrendretoncheztoiunique": 1289,
+    "facebook.com/AstucesDeMcGyver": 1288,
+    "facebook.com/grandmastuce": 1287,
+    "facebook.com/AstucesdeGrandMere.fr": 1286,
+    "actumag.info": 1285,
+    "facebook.com/Actumag.info": 1285,
+    "twitter.com/actumaginfo": 1285,
+    "facebook.com/1verredevodka": 1284,
+    "facebook.com/Les-Bonnie-Clyde-740809902623377": 1283,
+    "facebook.com/Madame-vous-allez-rire-Telle-que-vous-me-voyez-là-jsuis-au-maximum-325253005945": 1282,
     "francetvdesinfo.fr": 1281,
     "facebook.com/francetvdesinfo": 1281,
     "twitter.com/francetvdesinfo": 1281,
@@ -4309,14 +4682,6 @@
     "cahiersdufootball.net": 1194,
     "facebook.com/LesCahiersduFootball": 1194,
     "twitter.com/cahiersdufoot": 1194,
-    "acrimed.org": 1193,
-    "facebook.com/Acrimed-Action-Critique-Médias-94089796249": 1193,
-    "twitter.com/acrimed_info": 1193,
-    "youtube.com/channel/UCqEwL9lUdH-ccrN4Rgd0sEw": 1193,
-    "charliehebdo.fr": 1192,
-    "facebook.com/Charlie-Hebdo-Officiel-106626879360459": 1192,
-    "twitter.com/Charlie_Hebdo_": 1192,
-    "lesalonbeige.fr": 1189,
     "hypotheses.org": 1188,
     "sante.journaldesfemmes.com": 1187,
     "e-sante.fr": 1186,
@@ -4350,9 +4715,9 @@
     "youtube.com/user/LJALTERECO": 1175,
     "monde.taibaweb.com": 1174,
     "abonnes.mobile.lemonde.fr": 1173,
-    "facebook.com/lemonde.fr": 1044,
-    "twitter.com/lemondefr": 1044,
-    "youtube.com/channel/UCYpRDnhk5H8h16jpS84uqsA": 1044,
+    "facebook.com/lemonde.fr": 1172,
+    "twitter.com/lemondefr": 1172,
+    "youtube.com/channel/UCYpRDnhk5H8h16jpS84uqsA": 1172,
     "mobile.lemonde.fr": 1172,
     "mesopinions.com": 1171,
     "facebook.com/mesopinions": 1171,
@@ -4361,7 +4726,6 @@
     "facebook.com/Change.orgFrance": 1170,
     "twitter.com/Change": 1170,
     "happybuzzday.net": 1168,
-    "facebook.com/ModeFashionSwag": 1167,
     "facebook.com/vivelete": 1166,
     "buzzly.fr": 1165,
     "facebook.com/Buzzly.fr": 1165,
@@ -4546,15 +4910,6 @@
     "premiere.fr": 1087,
     "facebook.com/premierefr": 1087,
     "twitter.com/PremiereFR": 1087,
-    "politis.fr": 1086,
-    "facebook.com/Politisfr-217973083988": 1086,
-    "twitter.com/Politis_fr": 1086,
-    "politico.eu": 1085,
-    "facebook.com/POLITICOeu": 1085,
-    "twitter.com/POLITICOEurope": 1085,
-    "politico.com": 1084,
-    "facebook.com/politico": 1084,
-    "twitter.com/politico": 1084,
     "pointdevue.fr": 1083,
     "pelerin.com": 1082,
     "facebook.com/pelerincom": 1082,
@@ -4656,13 +5011,6 @@
     "leparisien.fr": 1047,
     "facebook.com/leparisien": 1047,
     "twitter.com/le_Parisien": 1047,
-    "lenouveleconomiste.fr": 1046,
-    "facebook.com/Le.nouvel.Economiste": 1046,
-    "twitter.com/LeNouvelEco": 1046,
-    "monde-diplomatique.fr": 1045,
-    "facebook.com/lemondediplo": 1045,
-    "twitter.com/mdiplo": 1045,
-    "lemonde.fr": 1044,
     "lemainelibre.fr": 1043,
     "facebook.com/lemainelibre": 1043,
     "twitter.com/lemainelibre": 1043,
@@ -4926,14 +5274,6 @@
     "ap.org": 943,
     "facebook.com/APNews&rf=109042952456316": 943,
     "twitter.com/AP": 943,
-    "asahi.com": 942,
-    "facebook.com/asahicom": 942,
-    "arte.tv/fr": 941,
-    "facebook.com/artetv": 941,
-    "twitter.com/ARTEfr": 941,
-    "arretsurimages.net": 940,
-    "facebook.com/arretsurimages.net": 940,
-    "twitter.com/arretsurimages": 940,
     "ameli-sante.fr": 939,
     "twitter.com/ameli_actu": 939,
     "alternet.org": 938,
@@ -5432,12 +5772,6 @@
     "facebook.com/davidicke": 694,
     "twitter.com/davidicke": 694,
     "youtube.com/user/davidicke": 694,
-    "dailynewsbin.com": 693,
-    "facebook.com/dailynewsbin": 693,
-    "twitter.com/DailyNewsBin": 693,
-    "cuisine-et-sante.net": 692,
-    "croa.fr": 691,
-    "facebook.com/croaplus": 691,
     "corbettreport.com": 690,
     "facebook.com/TheCorbettReport": 690,
     "twitter.com/corbettreport": 690,
@@ -5529,14 +5863,6 @@
     "twitter.com/le_gorafi": 635,
     "ledailyberet.fr": 634,
     "facebook.com/lecourrierdesechos": 634,
-    "lasardineduport.fr": 633,
-    "facebook.com/lasardineduport": 633,
-    "twitter.com/sardinedp": 633,
-    "ladechedumidi.com": 632,
-    "facebook.com/La-D%C3%A8che-du-Midi-393616387445504": 632,
-    "lepique.com": 631,
-    "facebook.com/lepique.fr": 631,
-    "twitter.com/iepique": 631,
     "lechodelaboucle.fr": 630,
     "facebook.com/L%C3%89cho-de-la-Boucle-1438751383069032": 630,
     "twitter.com/echodelaboucle": 630,
