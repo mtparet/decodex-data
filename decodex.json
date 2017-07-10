@@ -4823,9 +4823,24 @@
       "Un site internet qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Il a par exemple diffusé une légende urbaine sur la circulation de drogue sous forme de bonbons dans les écoles. Ce site diffuse également des conseils santé à prendre avec des pincettes, car ils ne sont pas validés par des spécialistes. A ne pas confondre avec le site topsante.com.",
       "topsante.org",
       "topsante-org"
+    ],
+    "1399": [
+      3,
+      "Un site qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Il relaie également parfois de fausses informations comme un canular du Gorafi affirmant qu'un candidat de Fort Boyard aurait été retrouvé sept ans après avoir été oublié dans une cellule.",
+      "tusaisjetaime.com",
+      "tusaisjetaime-com"
+    ],
+    "1400": [
+      3,
+      "Un site qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Il relaie également parfois de fausses informations comme un canular du Gorafi affirmant qu'un candidat de Fort Boyard aurait été retrouvé sept ans après avoir été oublié dans une cellule.",
+      "bestsante.co",
+      "bestsante-co"
     ]
   },
   "urls": {
+    "bestsante.co": 1400,
+    "tusaisjetaime.com": 1399,
+    "facebook.com/tusaisjetaimee": 1399,
     "topsante.org": 1398,
     "buzztrucs.com": 1397,
     "momentbuzz.com": 1147,
