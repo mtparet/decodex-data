@@ -4835,9 +4835,16 @@
       "Un site qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Il relaie également parfois de fausses informations comme un canular du Gorafi affirmant qu'un candidat de Fort Boyard aurait été retrouvé sept ans après avoir été oublié dans une cellule.",
       "bestsante.co",
       "bestsante-co"
+    ],
+    "1401": [
+      1,
+      "Un site qui permet à n'importe quel internaute de créer un article fictif et de le partager sur les réseaux sociaux.",
+      "Toute l'info",
+      "toute-l-info"
     ]
   },
   "urls": {
+    "toutelinfo.fr": 1401,
     "bestsante.co": 1400,
     "tusaisjetaime.com": 1399,
     "facebook.com/tusaisjetaimee": 1399,
