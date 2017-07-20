@@ -4859,9 +4859,16 @@
       "Un site qui revendique vouloir sortir de la pensée unique, mais qui diffuse un certain nombre de fausses informations, notamment des affirmations sur la vaccination contestées par l'immense majorité des spécialistes.",
       "Morpheus",
       "morpheus"
+    ],
+    "1405": [
+      3,
+      "Un site qui, contrairement à ce que son adresse web (URL) pourrait laisser supposer, n'a aucun lien avec le groupe Le Monde. Il relaie parfois des rumeurs sans les vérifier voire de fausses informations, comme lorsqu'il a repris au premier degré un canular affirmant que de la viande humaine aurait été retrouvée chez McDonald's ou lorsqu'il a affirmé que des tombes juives ont été vandalisées au cimetière de Pantin, alors qu'il s'agissait d'un accident causé par un camion.",
+      "lemonde.co.il",
+      "lemonde-co-il"
     ]
   },
   "urls": {
+    "lemonde.co.il": 1405,
     "morpheus.fr": 1404,
     "letopdelhumour.fr": 1403,
     "facebook.com/letopdelhumour.fr": 1403,
