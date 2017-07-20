@@ -674,7 +674,7 @@
     ],
     "685": [
       2,
-      "Un site présenté comme un média d'information local neutre, mais orienté à l'extrême droite et qui publie régulièrement de fausses informations.",
+      "Un site présenté comme un média d'information local neutre, mais orienté à l'extrême droite et qui publie régulièrement de fausses informations. Il a par exemple affirmé à tort que Slobodan Milosevic aurait été blanci par le Tribunal pénal international et diffusé des informations sur la vaccination contestées par l'immense majorité des spécialistes.",
       "Breizh Info",
       "breizh-info"
     ],
@@ -1064,7 +1064,7 @@
     ],
     "751": [
       2,
-      "Un site qui diffuse des théories conspirationnistes et négationnistes, remettant par exemple en cause, sans preuve réelle, la « version officielle » du 11 septembre 2001 ou bien l'extermination des juifs pendant la Seconde guerre mondiale.",
+      "Un site qui diffuse des théories conspirationnistes et négationnistes, remettant par exemple en cause, sans preuve réelle, la « version officielle » du 11 septembre 2001 ou bien l'extermination des juifs pendant la Seconde guerre mondiale. Il a également relayé plusieurs informations sur la vaccination contestées par l'immense majorité des spécialistes.",
       "Les moutons rebelles",
       "les-moutons-rebelles"
     ],
@@ -1268,7 +1268,7 @@
     ],
     "786": [
       2,
-      "Un site d'extrême droite qui diffuse de fausses informations et des théories conspirationnistes.",
+      "Un site d'extrême droite qui diffuse de fausses informations et des théories conspirationnistes. Il a par exemple repris au premier degré un canular d'un site parodique affirmant que les bébés européens recevront prochainement une puce sous la peau ou écrit à tort que la justice européenne avait reconnu le lien entre vaccin contre l'hépatite B et sclérose en plaques.",
       "Réseau International",
       "reseau-international"
     ],
@@ -1358,7 +1358,7 @@
     ],
     "801": [
       2,
-      "Un site qui nous apparaît peu fiable et qui héberge des théories conspirationnistes sur les extraterrestres ou sur le contrôle mental.",
+      "Un site qui nous apparaît peu fiable et qui héberge des théories conspirationnistes sur les extraterrestres ou sur le contrôle mental. Il a par exemple relayé à plusieurs reprises des informations sur la vaccination contestées par l'immense majorité des spécialistes.",
       "Stop Mensonges",
       "stop-mensonges"
     ],
@@ -1454,7 +1454,7 @@
     ],
     "817": [
       2,
-      "Un site qui nous apparaît peu fiable et qui relaie des théories conspirationnistes et publie régulièrement de fausses informations, notamment sur l'existence d'une prime de Noël de 20 millions d'euros versées aux membres du gouvernement.",
+      "Un site qui nous apparaît peu fiable et qui relaie des théories conspirationnistes et publie régulièrement de fausses informations, notamment sur l'existence d'une prime de Noël de 20 millions d'euros versées aux membres du gouvernement ou lorsqu'il a relayé de faux résultats de l'élection présidentielle 2017, ou repris au premier degré un canular affirmant que les bébés européens recevraient bientôt une puce sous la peau.",
       "Wikistrike",
       "wikistrike"
     ],
@@ -1466,7 +1466,7 @@
     ],
     "819": [
       2,
-      "Un site américain qui relaie parfois de fausses informations, notamment dans l'affaire du Pizzagate aux Etats-Unis.",
+      "Un site américain qui relaie parfois de fausses informations, notamment dans l'affaire du Pizzagate aux Etats-Unis. Il a également relayé plusieurs fausses informations sur la vaccination contestée par l'immense majorité des spécialistes.",
       "Your News Wire",
       "your-news-wire"
     ],
@@ -4841,9 +4841,31 @@
       "Un site qui permet à n'importe quel internaute de créer un article fictif et de le partager sur les réseaux sociaux.",
       "Toute l'info",
       "toute-l-info"
+    ],
+    "1402": [
+      3,
+      "Une copie du site chieuseatempscomplet.com, qui relaie des informations de manière sensationnaliste, sans toujours les vérifier. Il lui arrive de relayer de fausses informations, comme lorsqu'il a écrit qu'une infirmière aurait échangé 9 000 bébés dans à la naissance dans des maternités françaises, affirmation qui était en réalité un canular d'un site parodique, tout comme lorsqu'il a repris au premier degré un article du Gorafi affirmant qu'un candidat de Fort Boyard aurait été oublié 7 ans dans une pièce.",
+      "mondedutanks.com",
+      "mondedutanks-com"
+    ],
+    "1403": [
+      2,
+      "Un site qui diffuse des blagues mais aussi de nombreuses fausses informations, par exemple lorsqu'il accuse à tort David Douillet d'être largement rémunéré par l'opération Pièces jaunes, ou lorsqu'il affirme à tort que la prime de rentrée scolaire sera supprimée à la rentrée 2017.",
+      "Le Top de l'Humour",
+      "le-top-de-l-humour"
+    ],
+    "1404": [
+      2,
+      "Un site qui revendique vouloir sortir de la pensée unique, mais qui diffuse un certain nombre de fausses informations, notamment des affirmations sur la vaccination contestées par l'immense majorité des spécialistes.",
+      "Morpheus",
+      "morpheus"
     ]
   },
   "urls": {
+    "morpheus.fr": 1404,
+    "letopdelhumour.fr": 1403,
+    "facebook.com/letopdelhumour.fr": 1403,
+    "mondedutanks.com": 1402,
     "toutelinfo.fr": 1401,
     "bestsante.co": 1400,
     "tusaisjetaime.com": 1399,
@@ -6083,6 +6105,7 @@
     "avortement.net": 820,
     "facebook.com/ivgoupas": 820,
     "yournewswire.com": 819,
+    "facebook.com/yournewswire": 819,
     "twitter.com/YannMerkado": 818,
     "wikistrike.com": 817,
     "facebook.com/WikiStrikeOfficiel": 817,
