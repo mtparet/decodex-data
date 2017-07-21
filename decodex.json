@@ -4865,9 +4865,17 @@
       "Un site qui, contrairement à ce que son adresse web (URL) pourrait laisser supposer, n'a aucun lien avec le groupe Le Monde. Il relaie parfois des rumeurs sans les vérifier voire de fausses informations, comme lorsqu'il a repris au premier degré un canular affirmant que de la viande humaine aurait été retrouvée chez McDonald's ou lorsqu'il a affirmé que des tombes juives ont été vandalisées au cimetière de Pantin, alors qu'il s'agissait d'un accident causé par un camion.",
       "lemonde.co.il",
       "lemonde-co-il"
+    ],
+    "1406": [
+      2,
+      "Ce site, qui n'a pas de page de présentation, diffuse un certain nombre de fausses informations. Il a par exemple relayé des informations sur la vaccination contestée par l'immense majorité des scientifiques et des articles trompeurs (voir quelques exemples dans les références ci-dessous).",
+      "Dans quel monde vit-on ?",
+      "dans-quel-monde-vit-on"
     ]
   },
   "urls": {
+    "dansquelmondeviton.fr": 1406,
+    "facebook.com/OuvronsNosYeuxvousmvoyez": 1406,
     "lemonde.co.il": 1405,
     "morpheus.fr": 1404,
     "letopdelhumour.fr": 1403,
