@@ -4871,9 +4871,16 @@
       "Ce site, qui n'a pas de page de présentation, diffuse un certain nombre de fausses informations. Il a par exemple relayé des informations sur la vaccination contestée par l'immense majorité des scientifiques et des articles trompeurs (voir quelques exemples dans les références ci-dessous).",
       "Dans quel monde vit-on ?",
       "dans-quel-monde-vit-on"
+    ],
+    "1407": [
+      2,
+      "Une page Facebook qui relaie régulièrement des informations sur la vaccination contestées par l'immense majorité des spécialistes.",
+      "Touche pas à mon gosse",
+      "touche-pas-a-mon-gosse"
     ]
   },
   "urls": {
+    "facebook.com/touchepasamongosse": 1407,
     "dansquelmondeviton.fr": 1406,
     "facebook.com/OuvronsNosYeuxvousmvoyez": 1406,
     "lemonde.co.il": 1405,
