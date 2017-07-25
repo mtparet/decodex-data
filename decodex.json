@@ -818,7 +818,7 @@
     ],
     "709": [
       2,
-      "Un blog à tendance conspirationniste, qui reprend notamment de fausses informations sur la vaccination.",
+      "Un blog à tendance conspirationniste qui diffuse un certain nombre de fausses informations. Il a également repris plusieurs affirmations sur la vaccination contestées par l'immense majorité des spécialistes.",
       "Fawkes News",
       "fawkes-news"
     ],
@@ -4877,9 +4877,16 @@
       "Une page Facebook qui relaie régulièrement des informations sur la vaccination contestées par l'immense majorité des spécialistes.",
       "Touche pas à mon gosse",
       "touche-pas-a-mon-gosse"
+    ],
+    "1408": [
+      2,
+      "Une page Facebook qui reprend des informations de sources variables, sans les vérifier systématiquement. Elle diffuse un certain nombre de fausses informations, comme lorsqu'elle a repris au premier degré un canular sur une prétendue future taxe sur les jardins potagers. Elle a également fait circuler des affirmations sur la vaccination contestée par l'immense majorité des spécialistes.",
+      "Ce que vous Cachent les Médias",
+      "ce-que-vous-cachent-les-medias"
     ]
   },
   "urls": {
+    "facebook.com/cequevouscachentlesmedias": 1408,
     "facebook.com/touchepasamongosse": 1407,
     "dansquelmondeviton.fr": 1406,
     "facebook.com/OuvronsNosYeuxvousmvoyez": 1406,
