@@ -4883,9 +4883,16 @@
       "Une page Facebook qui reprend des informations de sources variables, sans les vérifier systématiquement. Elle diffuse un certain nombre de fausses informations, comme lorsqu'elle a repris au premier degré un canular sur une prétendue future taxe sur les jardins potagers. Elle a également fait circuler des affirmations sur la vaccination contestée par l'immense majorité des spécialistes.",
       "Ce que vous Cachent les Médias",
       "ce-que-vous-cachent-les-medias"
+    ],
+    "1409": [
+      1,
+      "Un site qui permet à n'importe quel internaute de créer un article fictif et de le partager sur les réseaux sociaux.",
+      "Actualités du jour",
+      "actualites-du-jour"
     ]
   },
   "urls": {
+    "actualitesdujour.fr": 1409,
     "facebook.com/cequevouscachentlesmedias": 1408,
     "facebook.com/touchepasamongosse": 1407,
     "dansquelmondeviton.fr": 1406,
