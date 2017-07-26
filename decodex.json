@@ -4889,9 +4889,16 @@
       "Un site qui permet à n'importe quel internaute de créer un article fictif et de le partager sur les réseaux sociaux.",
       "Actualités du jour",
       "actualites-du-jour"
+    ],
+    "1410": [
+      3,
+      "Un site qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Il relaie également parfois de fausses informations comme un canular du Gorafi affirmant qu'un candidat de Fort Boyard aurait été oublié pendant 7 ans dans une cellule.",
+      "buzzvrai.com",
+      "buzz-vrai"
     ]
   },
   "urls": {
+    "buzzvrai.com": 1410,
     "actualitesdujour.fr": 1409,
     "facebook.com/cequevouscachentlesmedias": 1408,
     "facebook.com/touchepasamongosse": 1407,
