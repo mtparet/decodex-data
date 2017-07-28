@@ -4979,9 +4979,16 @@
       "Une page Facebook qui reprend des informations de sources diverses, sans les vérifier systématiquement. Elle a par exemple diffusé au premier degré un canular qui affirmait que l'Islande paierait 4 500 euros par mois les hommes qui épouseraient une irlandaise.",
       "Moi aussi je vais emmerder mon monde",
       "moi-aussi-je-vais-emmerder-mon-monde"
+    ],
+    "1425": [
+      3,
+      "Une page Facebook qui agrège des informations de sources variables, sans forcément les vérifier systématiquement. Elle relaie parfois de fausses informations, par exemple lorsqu'elle a affirmé, à tort, que la Suède avait rejeté l'obligation vaccinale à cause de « de graves problèmes de santé ».",
+      "Réveillez-vous",
+      "reveillez-vous"
     ]
   },
   "urls": {
+    "facebook.com/reveillezvousenfin": 1425,
     "facebook.com/Moi-aussi-je-vais-emmerder-mon-monde-1557340284482112": 1424,
     "facebook.com/VaXismNEWS": 1423,
     "facebook.com/Le-Meilleur-Des-Mondes-1622026158127891": 1422,
@@ -5040,6 +5047,7 @@
     "ehtusaisquoi.net": 1384,
     "facebook.com/EhTuSaisQuoibyJordan": 1384,
     "facebook.com/infosdiversesbyJazz": 1383,
+    "facebook.com/614029875343804": 1382,
     "facebook.com/ღϠღ-Lastuce-du-mois-ღϠღ-614029875343804": 1382,
     "facebook.com/ღ-Le-Monde-des-Femmes-Recettes-et-Astuces-ღ-1481986778693692": 1381,
     "facebook.com/VivreFemme": 1380,
