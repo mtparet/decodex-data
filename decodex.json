@@ -1034,7 +1034,7 @@
     ],
     "746": [
       2,
-      "Le site du professeur Henri Joyeux, radié de l'ordre des médecins en 2016 notamment pour « des manquements d’une extrême gravité au code de déontologie » et qui met notamment en avant des théories conspirationnistes anti-vaccins.",
+      "Le site du professeur Henri Joyeux, radié de l'ordre des médecins en 2016 (cette radiation a été suspendue par l'appel déposé depuis), notamment pour « des manquements d’une extrême gravité au code de déontologie » et qui met notamment en avant des théories conspirationnistes anti-vaccins.",
       "Le site du Professeur Henri Joyeux",
       "le-site-du-professeur-henri-joyeux"
     ],
@@ -1316,7 +1316,7 @@
     ],
     "794": [
       2,
-      "Un site tenu par deux journalistes s'appuyant sur un réseau de médecins. Il appartient à la société SNI Editions SA, située en Suisse. Ce site défend l'alimentation et les remèdes naturels, mais diffuse parfois des informations exagérées ou dépourvues de sources, par exemple sur des aliments miracles ou sur de supposés dangers de la vaccination, démentis par la majorité des spécialistes.",
+      "Un site tenu par deux journalistes s'appuyant sur un réseau de médecins. Il appartient à la société SNI Editions SA, située en Suisse. Ce site défend l'alimentation et les remèdes naturels, mais diffuse parfois des informations exagérées ou dépourvues de sources, par exemple sur des aliments miracles ou sur de supposés dangers de la vaccination, démenties par l'immense majorité des spécialistes.",
       "Sante Nature Innovation",
       "sante-nature-innovation"
     ],
@@ -4634,7 +4634,7 @@
     ],
     "1367": [
       3,
-      "Une page Facebook qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Elle relaie parfois de fausses informations, par exemple lorsqu'elle a repris au premier degré un canular d'un site parodique qui affirmait que de la viande humaine aurait été retrouvée chez McDonald's. Ou encore lorsqu'elle a repris une fausses affirmation selon laquelle la boisson Red Bull contiendrait du sperme de taureau.",
+      "Une page Facebook qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Elle relaie parfois de fausses informations, par exemple lorsqu'elle a repris au premier degré un canular d'un site parodique qui affirmait que de la viande humaine aurait été retrouvée chez McDonald's. Ou encore lorsqu'elle a repris une fausse affirmation selon laquelle la boisson Red Bull contiendrait du sperme de taureau.",
       "Tag quelqu'un qui",
       "tag-quelqu-un-qui"
     ],
@@ -4919,9 +4919,67 @@
       "Une page Facebook sur la vaccination qui relaie de fausses informations et des allégations contestées par l'immense majorité des spécialistes (voir ci-dessous dans les références de cette fiche).",
       "Vaccination information network",
       "vaccination-information-network"
+    ],
+    "1415": [
+      2,
+      "Une page Facebook aux accents conspirationnistes qui dénonce un prétendu complot Illuminati et diffuse de fausses informations.",
+      "Illuminati Exposed (This is the resistance)",
+      "illuminati-exposed-this-is-the-resistance"
+    ],
+    "1416": [
+      2,
+      "Une page Facebook sur la vaccination qui diffuse un certain nombre de fausses informations et des affirmations contestées par l'immense majorité des spécialistes.",
+      "National Vaccine Information Center",
+      "national-vaccine-information-center"
+    ],
+    "1417": [
+      2,
+      "Une page qui diffuse un certain nombre de fausses informations et des affirmations sur la vaccination contestées par l'immense majorité des spécialistes.",
+      "Wake up call",
+      "wake-up-call"
+    ],
+    "1418": [
+      2,
+      "Un site sur la vaccination qui relaie de fausses informations et des allégations contestées par l'immense majorité des spécialistes (voir ci-dessous dans les références de cette fiche).",
+      "vactruth.com",
+      "vactruth-com"
+    ],
+    "1419": [
+      2,
+      "Une page Facebook sur la vaccination qui diffuse un certain nombre de fausses informations et des affirmations contestées par l'immense majorité des spécialistes.",
+      "Dr. Tenpenny on Vaccines and Current Events",
+      "dr-tenpenny-on-vaccines-and-current-events"
+    ],
+    "1420": [
+      2,
+      "Une page Facebook qui diffuse un certain nombre de fausses informations (voir la section références).",
+      "Informations citoyennes",
+      "informations-citoyennes"
+    ],
+    "1421": [
+      2,
+      "Une page Facebook qui diffuse",
+      "Africa Media",
+      "africa-media"
+    ],
+    "1422": [
+      2,
+      "Une page Facebook qui reprend des informations de sources diverses, sans forcément les vérifier. Elle a notamment relayé de fausses informations et des informations sur la vaccination contestées par l'immense majorité des spécialistes.",
+      "Le Meilleur Des Mondes",
+      "le-meilleur-des-mondes"
     ]
   },
   "urls": {
+    "facebook.com/Le-Meilleur-Des-Mondes-1622026158127891": 1422,
+    "facebook.com/AfriqueMediaTVfans": 1421,
+    "facebook.com/InformationsCitoyennes": 1420,
+    "facebook.com/vaccineinfo": 1419,
+    "vactruth.com": 1418,
+    "facebook.com/vaccinetruth": 1418,
+    "facebook.com/wakeupcallnews": 1417,
+    "youtube.com/wakeupcall": 1417,
+    "facebook.com/national.vaccine.information.center": 1416,
+    "facebook.com/thenwowillfail": 1415,
     "facebook.com/vaccinationinformationnetwork": 1414,
     "leweek.info": 1413,
     "twitter.com/leweekofficiel": 1413,
@@ -6218,6 +6276,7 @@
     "sante-nutrition.org": 795,
     "facebook.com/Sant%C3%A9-Nutrition-598338556946671": 795,
     "santenatureinnovation.com": 794,
+    "facebook.com/Sante-Nature-Innovation-554178414627483": 794,
     "rustyjames.canalblog.com": 793,
     "russia-insider.com": 792,
     "facebook.com/RussiaInsider": 792,
