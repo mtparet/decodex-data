@@ -572,7 +572,7 @@
     ],
     "668": [
       2,
-      "Un site éclectique qui mélange vraies et fausses informations, et parle notamment de présence extraterrestre sur Terre ou de guerre en Syrie.",
+      "Un site éclectique qui mélange vraies et fausses informations, et parle notamment de présence extraterrestre sur Terre ou de guerre en Syrie. Il diffuse un certain nombre de fausses informations et des affirmations sur la vaccination contestées par l'immense majorité des spécialistes.",
       "2012 un nouveau paradigme",
       "2012-un-nouveau-paradigme"
     ],
@@ -2029,7 +2029,7 @@
       "topito"
     ],
     "916": [
-      3,
+      2,
       "Un site et surtout une plateforme vidéo d'information qui est très proche de l'extrême droite, reçoit régulièrement des figures de cette dernière et diffuse des informations biaisées.",
       "TV Libertés",
       "tv-libertes"
@@ -4105,7 +4105,7 @@
       "newvibe"
     ],
     "1279": [
-      3,
+      2,
       "Un site qui relaie des informations de manière sensationnaliste, sans toujours les vérifier. Il lui arrive de relayer de fausses informations, comme lorsqu'il a écrit qu'une infirmière aurait échangé 9 000 bébés dans à la naissance dans des maternités françaises, affirmation qui était en réalité un canular d'un site parodique, tout comme lorsqu'il a repris au premier degré un article du Gorafi affirmant qu'un candidat de Fort Boyard aurait été oublié 7 ans dans une pièce.",
       "@Chieuseatemphed",
       "chieuseatemphed"
@@ -4291,7 +4291,7 @@
       "je-suis-elle-fan-o-web"
     ],
     "1310": [
-      3,
+      2,
       "Un site internet qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Il a par exemple diffusé une fausse information sur un prétendu fruit miracle anti-cancer.",
       "L'astucerie",
       "l-astucerie"
@@ -4967,9 +4967,23 @@
       "Une page Facebook qui reprend des informations de sources diverses, sans forcément les vérifier. Elle a notamment relayé de fausses informations et des informations sur la vaccination contestées par l'immense majorité des spécialistes.",
       "Le Meilleur Des Mondes",
       "le-meilleur-des-mondes"
+    ],
+    "1423": [
+      2,
+      "Un page Facebook qui reprend des informations de sources diverses, sans forcément les vérifier. Elle a notamment relayé de fausses informations et des informations sur la vaccination contestées par l'immense majorité des spécialistes.",
+      "VaXism",
+      "vaxism"
+    ],
+    "1424": [
+      3,
+      "Une page Facebook qui reprend des informations de sources diverses, sans les vérifier systématiquement. Elle a par exemple diffusé au premier degré un canular qui affirmait que l'Islande paierait 4 500 euros par mois les hommes qui épouseraient une irlandaise.",
+      "Moi aussi je vais emmerder mon monde",
+      "moi-aussi-je-vais-emmerder-mon-monde"
     ]
   },
   "urls": {
+    "facebook.com/Moi-aussi-je-vais-emmerder-mon-monde-1557340284482112": 1424,
+    "facebook.com/VaXismNEWS": 1423,
     "facebook.com/Le-Meilleur-Des-Mondes-1622026158127891": 1422,
     "facebook.com/AfriqueMediaTVfans": 1421,
     "facebook.com/InformationsCitoyennes": 1420,
@@ -6490,7 +6504,7 @@
     "youtube.com/user/21stCenturyWireTV": 670,
     "2012nouvelmorguemondial.over-blog.com": 669,
     "2012un-nouveau-paradigme.com": 668,
-    "facebook.com/NouvelleTerre": 668,
+    "facebook.com/2012unnouveauparadigme": 668,
     "twitter.com/LNParadigme": 668,
     "100percentfedup.com": 667,
     "mespropresrecherches.com": 666,
