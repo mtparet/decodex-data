@@ -4901,9 +4901,18 @@
       "Un site qui se présente comme une forme de revue de presse dite alternative et qui reprend des informations de sources diverses, sans les vérifier systématiquement. Il a notamment relayé des informations sur la vaccination contestées par l'immense majorité des spécialistes.",
       "On sait ce qu'on veut qu'on sache",
       "on-sait-ce-qu-on-veut-qu-on-sache"
+    ],
+    "1412": [
+      1,
+      "Un site parodique qui publie des articles humoristiques, à ne pas prendre au sérieux.",
+      "Tomimag",
+      "tomimag"
     ]
   },
   "urls": {
+    "tomimag.fr": 1412,
+    "facebook.com/tomimagfr": 1412,
+    "twitter.com/tomimagfr": 1412,
     "onsaitcequonveutquonsache.com": 1411,
     "facebook.com/onsaitceque": 1411,
     "twitter.com/onsaitceque": 1411,
