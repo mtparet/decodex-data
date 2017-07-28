@@ -3536,7 +3536,7 @@
     ],
     "1180": [
       3,
-      "Le site de l'Institut pour la protection de la santé naturelle, qui milite pour la « médecine naturelle », c'est-à-dire l'utilisation des plantes médicinales plutôt que des médicaments et des vaccins. L’IPSN est financé par des dons, des conférences et des partenariats (avec une société d’édition, l’Ecole lyonnaise des plantes médicinales, et des PME d’herboristes). Il compte dans son comité scientifique le professeur Henri Joyeux, radié de l'ordre des médecins en 2016, notamment pour « des manquements d’une extrême gravité au code de déontologie », et qui met notamment en avant des théories conspirationnistes anti-vaccins.",
+      "Le site de l'Institut pour la protection de la santé naturelle, qui milite pour la « médecine naturelle », c'est-à-dire l'utilisation des plantes médicinales plutôt que des médicaments et des vaccins. L’IPSN est financé par des dons, des conférences et des partenariats (avec une société d’édition, l’Ecole lyonnaise des plantes médicinales, et des PME d’herboristes). Il diffuse des informations sur la vaccination contestées par l'immense majorité des spécialistes et un certain nombre de fausses informations.",
       "Institut pour la protection de la santé naturelle",
       "institut-pour-la-protection-de-la-sante-naturelle"
     ],
@@ -4418,7 +4418,7 @@
     ],
     "1331": [
       2,
-      "Une page Facebook qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Elle a relayé au moins 5 fausses informations, notamment lorsqu'elle a repris au premier degré un canular selon lequel de la viande humaine aurait été retrouvée chez McDonald's, un autre affirmant qu'une maison close zoophile allait ouvrir au Danemark ou un autre encore affirmant que les célibataires de plus de 30 ans allaient être contraints d'accueillir des migrants.",
+      "Une page Facebook qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Elle a relayé de nombreuses fausses informations, notamment lorsqu'elle a repris au premier degré un canular selon lequel de la viande humaine aurait été retrouvée chez McDonald's, un autre affirmant qu'une maison close zoophile allait ouvrir au Danemark ou un autre encore affirmant que les célibataires de plus de 30 ans allaient être contraints d'accueillir des migrants.",
       "Meilleures Plats et Astuces",
       "meilleures-plats-et-astuces"
     ],
@@ -4730,7 +4730,7 @@
     ],
     "1383": [
       2,
-      "Un site internet qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Il a par exemple repris au premier degré un canular affirmant qu'il y aurait prochainement une nouvelle taxe sur les jardins potagers. Par ailleurs, cette page relaie, sous couvert de défendre la cause palestinienne, des campagnes anti vaccinations et renvoie vers des sites négationnistes.",
+      "Un site internet qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Il a par exemple repris au premier degré un canular affirmant qu'il y aurait prochainement une nouvelle taxe sur les jardins potagers. Par ailleurs, cette page relaie, sous couvert de défendre la cause palestinienne, des campagnes anti vaccinations avec des arguments faux ou contestés par l'immense majorité des spécialistes, et renvoie vers des sites négationnistes.",
       "Infos tous sujets et pays",
       "infos-tous-sujets-et-pays"
     ],
@@ -4907,9 +4907,24 @@
       "Un site parodique qui publie des articles humoristiques, à ne pas prendre au sérieux.",
       "Tomimag",
       "tomimag"
+    ],
+    "1413": [
+      3,
+      "Un site dirigé par Jean-Paul Ney, un journaliste controversé connu pour publier des informations sans forcément les vérifier systématiquement. Il a notamment été condamné par le tribunal correctionnel de Paris pour « recel de violation du secret de l'enquête » après avoir diffusé le 7 janvier 2015 l'identité des frères Kouachi après l'attentat contre « Charlie Hebdo ». Le procureur de la République de Paris, François Molins, avait entre autres estimé que cette publication avait ruiné « tout espoir de surprise » dans la traque des deux terroristes. Jean-Paul Ney a également diffusé en mars 2016 sur les réseaux sociaux les coordonnées d'un homme, le présentant à tort comme auteur des attentats de Bruxelles.",
+      "Le Week",
+      "le-week"
+    ],
+    "1414": [
+      2,
+      "Une page Facebook sur la vaccination qui relaie de fausses informations et des allégations contestées par l'immense majorité des spécialistes (voir ci-dessous dans les références de cette fiche).",
+      "Vaccination information network",
+      "vaccination-information-network"
     ]
   },
   "urls": {
+    "facebook.com/vaccinationinformationnetwork": 1414,
+    "leweek.info": 1413,
+    "twitter.com/leweekofficiel": 1413,
     "tomimag.fr": 1412,
     "facebook.com/tomimagfr": 1412,
     "twitter.com/tomimagfr": 1412,
@@ -5273,6 +5288,7 @@
     "twitter.com/lesucretvous": 1181,
     "youtube.com/user/LeSucreEnVideo/videos": 1181,
     "ipsn.eu": 1180,
+    "facebook.com/IPSNaturelle": 1180,
     "electrosensible.info": 1179,
     "twitter.com/electroallergik": 1179,
     "sante-et-sport.com": 1178,
