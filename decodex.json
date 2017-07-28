@@ -4895,9 +4895,18 @@
       "Un site qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Il relaie également parfois de fausses informations comme un canular du Gorafi affirmant qu'un candidat de Fort Boyard aurait été oublié pendant 7 ans dans une cellule.",
       "buzzvrai.com",
       "buzz-vrai"
+    ],
+    "1411": [
+      2,
+      "Un site qui se présente comme une forme de revue de presse dite alternative et qui reprend des informations de sources diverses, sans les vérifier systématiquement. Il a notamment relayé des informations sur la vaccination contestées par l'immense majorité des spécialistes.",
+      "On sait ce qu'on veut qu'on sache",
+      "on-sait-ce-qu-on-veut-qu-on-sache"
     ]
   },
   "urls": {
+    "onsaitcequonveutquonsache.com": 1411,
+    "facebook.com/onsaitceque": 1411,
+    "twitter.com/onsaitceque": 1411,
     "buzzvrai.com": 1410,
     "actualitesdujour.fr": 1409,
     "facebook.com/cequevouscachentlesmedias": 1408,
