@@ -4985,9 +4985,64 @@
       "Une page Facebook qui agrège des informations de sources variables, sans forcément les vérifier systématiquement. Elle relaie parfois de fausses informations, par exemple lorsqu'elle a affirmé, à tort, que la Suède avait rejeté l'obligation vaccinale à cause de « de graves problèmes de santé ».",
       "Réveillez-vous",
       "reveillez-vous"
+    ],
+    "1426": [
+      2,
+      "Un page Facebook du site Le top de l'humour, qui diffuse des blagues mais aussi de nombreuses fausses informations, par exemple lorsqu'il accuse à tort David Douillet d'être largement rémunéré par l'opération Pièces jaunes, ou lorsqu'il affirme à tort que la prime de rentrée scolaire sera supprimée à la rentrée 2017.",
+      "Hihihii",
+      "hihihii"
+    ],
+    "1427": [
+      1,
+      "Un site qui permet à n'importe quel internaute de créer un article fictif et de le partager sur les réseaux sociaux.",
+      "12minutes.com",
+      "12minutes-com"
+    ],
+    "1428": [
+      1,
+      "Un site qui permet à n'importe quel internaute de créer un article fictif et de le partager sur les réseaux sociaux.",
+      "24aktuelles.com",
+      "24aktuelles-com"
+    ],
+    "1429": [
+      1,
+      "Un site qui permet à n'importe quel internaute de créer un article fictif et de le partager sur les réseaux sociaux.",
+      "cnoticias.net",
+      "cnoticias-net"
+    ],
+    "1430": [
+      1,
+      "Un site qui permet à n'importe quel internaute de créer un article fictif et de le partager sur les réseaux sociaux.",
+      "noticias-frescas.com",
+      "noticias-frescas-com"
+    ],
+    "1431": [
+      1,
+      "Un site qui permet à n'importe quel internaute de créer un article fictif et de le partager sur les réseaux sociaux.",
+      "breakingnews365.net",
+      "breakingnews365-net"
+    ],
+    "1432": [
+      1,
+      "Un site qui permet à n'importe quel internaute de créer un article fictif et de le partager sur les réseaux sociaux.",
+      "react365.com",
+      "react365-com"
+    ],
+    "1433": [
+      1,
+      "Un site qui permet à n'importe quel internaute de créer un article fictif et de le partager sur les réseaux sociaux.",
+      "react365.com",
+      "react365-com-1"
     ]
   },
   "urls": {
+    "react365.com": 1432,
+    "breakingnews365.net": 1431,
+    "noticias-frescas.com": 1430,
+    "cnoticias.net": 1429,
+    "24aktuelles.com": 1428,
+    "12minutos.com": 1427,
+    "facebook.com/letopdelhumour2": 1426,
     "facebook.com/reveillezvousenfin": 1425,
     "facebook.com/Moi-aussi-je-vais-emmerder-mon-monde-1557340284482112": 1424,
     "facebook.com/VaXismNEWS": 1423,
@@ -5019,7 +5074,7 @@
     "lemonde.co.il": 1405,
     "morpheus.fr": 1404,
     "letopdelhumour.fr": 1403,
-    "facebook.com/letopdelhumour.fr": 1403,
+    "facebook.com/Letopdelhumour.fr": 1403,
     "mondedutanks.com": 1402,
     "toutelinfo.fr": 1401,
     "bestsante.co": 1400,
