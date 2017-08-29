@@ -5028,14 +5028,26 @@
       "react365.com",
       "react365-com"
     ],
-    "1433": [
+    "1434": [
       1,
-      "Un site qui permet à n'importe quel internaute de créer un article fictif et de le partager sur les réseaux sociaux.",
-      "react365.com",
-      "react365-com-1"
+      "Un site d'informations satiriques régionales.",
+      "L'oignon du cantal",
+      "l-oignon-du-cantal"
+    ],
+    "1435": [
+      1,
+      "Un site satirique régional.",
+      "La sirène du Pays Basque",
+      "la-sirene-du-pays-basque"
     ]
   },
   "urls": {
+    "lasirenedupaysbasque.fr": 1435,
+    "facebook.com/laSireneDuPaysBasque": 1435,
+    "twitter.com/LaSireneBasque": 1435,
+    "loignonducantal.fr": 1434,
+    "facebook.com/loignonducantal": 1434,
+    "twitter.com/OignonCantal": 1434,
     "react365.com": 1432,
     "breakingnews365.net": 1431,
     "noticias-frescas.com": 1430,
