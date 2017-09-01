@@ -5051,9 +5051,16 @@
       "Un site internet qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement.",
       "Zone-Astuce",
       "zone-astuce"
+    ],
+    "1439": [
+      2,
+      "Un site qui diffuse régulièrement des informations fausses, par exemple sur des morts ou accidents de personnalités, le tout en demandant à ses lecteurs de partager ses articles sur Facebook avant de pouvoir les lire.",
+      "in-storyletter.com",
+      "in-storyletter-com"
     ]
   },
   "urls": {
+    "in-storyletter.com": 1439,
     "zone-astuce.com": 1438,
     "topviraly.com": 1437,
     "facebook.com/ღ-Le-Monde-des-Femmes-Recettes-et-Astuces-ღ-1481986778693692": 1436,
