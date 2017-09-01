@@ -1250,7 +1250,7 @@
     ],
     "783": [
       2,
-      "Un site d'extrême droite qui relaie des théories conspirationnistes comme l'idée d'un « grand remplacement » de la population française, en manipulant les chiffres..",
+      "Un site d'extrême droite qui relaie des théories conspirationnistes comme l'idée d'un « grand remplacement » de la population française, en manipulant les chiffres.",
       "Reinformation.tv",
       "reinformation-tv"
     ],
@@ -4716,12 +4716,6 @@
       "VivreFemme",
       "vivrefemme"
     ],
-    "1381": [
-      3,
-      "Une page Facebook qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Elle relaie également parfois de fausses informations, par exemple un canular affirmant que de la viande humaine aurait retrouvée chez McDonald's ou une légende urbaine erronée selon laquelle il  aurait du sperme de taureau dans la boisson Red Bull.",
-      "ღ Le Monde des Femmes; Recettes et Astuces ღ",
-      "-le-monde-des-femmes-recettes-et-astuces-"
-    ],
     "1382": [
       3,
       "Une page Facebook qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Elle relaie également parfois de fausses informations, par exemple un canular affirmant que de la viande humaine aurait retrouvée chez McDonald's ou une légende urbaine erronée selon laquelle il  aurait du sperme de taureau dans la boisson Red Bull.",
@@ -5039,9 +5033,16 @@
       "Un site satirique régional.",
       "La sirène du Pays Basque",
       "la-sirene-du-pays-basque"
+    ],
+    "1436": [
+      3,
+      "Une page Facebook qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Elle relaie également parfois de fausses informations, par exemple un canular affirmant que de la viande humaine aurait retrouvée chez McDonald's ou une légende urbaine erronée selon laquelle il  aurait du sperme de taureau dans la boisson Red Bull.",
+      "Recettes et Astuces",
+      "recette-et-astuces"
     ]
   },
   "urls": {
+    "facebook.com/ღ-Le-Monde-des-Femmes-Recettes-et-Astuces-ღ-1481986778693692": 1436,
     "lasirenedupaysbasque.fr": 1435,
     "facebook.com/laSireneDuPaysBasque": 1435,
     "twitter.com/LaSireneBasque": 1435,
@@ -5116,7 +5117,6 @@
     "facebook.com/infosdiversesbyJazz": 1383,
     "facebook.com/614029875343804": 1382,
     "facebook.com/ღϠღ-Lastuce-du-mois-ღϠღ-614029875343804": 1382,
-    "facebook.com/ღ-Le-Monde-des-Femmes-Recettes-et-Astuces-ღ-1481986778693692": 1381,
     "facebook.com/VivreFemme": 1380,
     "facebook.com/VeuxTuRire": 1379,
     "facebook.com/Veux-Tu-aimer-912771458761344": 1378,
