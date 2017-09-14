@@ -5057,9 +5057,16 @@
       "Un site qui diffuse régulièrement des informations fausses, par exemple sur des morts ou accidents de personnalités, le tout en demandant à ses lecteurs de partager ses articles sur Facebook avant de pouvoir les lire.",
       "in-storyletter.com",
       "in-storyletter-com"
+    ],
+    "1440": [
+      1,
+      "Un site satirique qui diffuse des fausses informations sur l'actualité du monde du football.",
+      "L'épique 21",
+      "l-epique-21"
     ]
   },
   "urls": {
+    "lepique-21.fr": 1440,
     "in-storyletter.com": 1439,
     "zone-astuce.com": 1438,
     "topviraly.com": 1437,
