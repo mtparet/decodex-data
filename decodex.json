@@ -5069,9 +5069,16 @@
       "Un site parodique qui dit vouloir brocarder \"les informations apocalyptiques des deux grands titres de la presse locale brestoise\".",
       "Le Télégramme de France",
       "le-telegramme-de-france"
+    ],
+    "1442": [
+      2,
+      "Un compte Youtube peu fiable qui relaie parfois des théories conspirationnistes ainsi que de fausses informations, notamment sur la vaccination.",
+      "La Chaine Qui Dérange",
+      "la-chaine-qui-derange"
     ]
   },
   "urls": {
+    "youtube.com/channel/UCvintQZIscJudL6Ec8qwdUw": 1442,
     "telegramme2france.jimdo.com": 1441,
     "lepique-21.fr": 1440,
     "in-storyletter.com": 1439,
