@@ -1783,7 +1783,7 @@
       "le-journal-du-siecle"
     ],
     "874": [
-      3,
+      2,
       "Un site orienté à l'extrême droite, qui publie des informations biaisées et pas toujours vérifiées ainsi que des théories conspirationnistes, émanant notamment du site Panamza.",
       "Le Libre Penseur",
       "le-libre-penseur"
@@ -5063,9 +5063,16 @@
       "Un site satirique qui diffuse des fausses informations sur l'actualité du monde du football.",
       "L'épique 21",
       "l-epique-21"
+    ],
+    "1441": [
+      1,
+      "Un site parodique qui dit vouloir brocarder \"les informations apocalyptiques des deux grands titres de la presse locale brestoise\".",
+      "Le Télégramme de France",
+      "le-telegramme-de-france"
     ]
   },
   "urls": {
+    "telegramme2france.jimdo.com": 1441,
     "lepique-21.fr": 1440,
     "in-storyletter.com": 1439,
     "zone-astuce.com": 1438,
