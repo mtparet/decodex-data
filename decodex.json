@@ -2342,8 +2342,8 @@
     ],
     "972": [
       4,
-      "Un quotidien gratuit et site Internet d'information généraliste qui appartient au groupe de médias de Vincent Bolloré, également propriétaire de Canal +.",
-      "Direct matin",
+      "Un quotidien gratuit et site Internet d'information généraliste anciennement nommé Direct Matin, qui appartient au groupe de médias de Vincent Bolloré, également propriétaire de Canal +. Le site des informations de sources diverses sans toujours les vérifier rigoureusement, l'amenant parfois à reprendre de fausses informations (néanmoins corrigées par la suite) comme une fausse rumeur affirmant que le port du maillot du FC Barcelone était puni de 15 ans de prison en Arabie Saoudite.",
+      "Cnews Matin",
       "direct-matin"
     ],
     "974": [
@@ -6007,9 +6007,9 @@
     "fr.euronews.com": 974,
     "facebook.com/fr.euronews": 974,
     "twitter.com/euronews": 974,
-    "directmatin.fr": 972,
-    "facebook.com/directmatin": 972,
-    "twitter.com/DirectMatin": 972,
+    "cnewsmatin.fr": 972,
+    "facebook.com/CNEWSMatin": 972,
+    "twitter.com/cnewsmatin": 972,
     "taz.de": 971,
     "facebook.com/taz.kommune": 971,
     "dna.fr": 970,
