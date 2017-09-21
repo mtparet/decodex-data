@@ -5075,9 +5075,31 @@
       "Un compte Youtube peu fiable qui relaie parfois des théories conspirationnistes ainsi que de fausses informations, notamment sur la vaccination.",
       "La Chaine Qui Dérange",
       "la-chaine-qui-derange"
+    ],
+    "1443": [
+      2,
+      "Ce site, qui n'a pas de page de présentation, diffuse un certain nombre de fausses informations. Il a par exemple relayé des informations sur la vaccination contestée par l'immense majorité des scientifiques et des articles trompeurs (voir quelques exemples dans les références ci-dessous).",
+      "Dans quel monde vit-on ? (DQMVO)",
+      "dans-quel-monde-vit-on-dqmvo"
+    ],
+    "1444": [
+      2,
+      "Un site qui relaie des informations de manière sensationnaliste, sans toujours les vérifier. Il lui arrive de relayer de fausses informations, comme lorsqu'il a écrit qu'une infirmière aurait échangé 9 000 bébés dans à la naissance dans des maternités françaises, affirmation qui était en réalité un canular d'un site parodique, tout comme lorsqu'il a repris au premier degré un article du Gorafi affirmant qu'un candidat de Fort Boyard aurait été oublié 7 ans dans une pièce.",
+      "Chieuse à temp complet",
+      "chieuse-a-temp-complet"
+    ],
+    "1445": [
+      4,
+      "Une plateforme participative qui n'est pas orientée idéologiquement, mais de nombreux contributeurs du site s'en servent notamment pour relayer des théories conspirationnistes.",
+      "Agoravox TV",
+      "agoravox-tv"
     ]
   },
   "urls": {
+    "agoravox.tv": 1445,
+    "chieuseatempcomplet.com": 1444,
+    "dansquelmondevit-on.fr": 1443,
+    "facebook.com/OuvronsNosYeuxvousmvoyez": 1406,
     "youtube.com/channel/UCvintQZIscJudL6Ec8qwdUw": 1442,
     "telegramme2france.jimdo.com": 1441,
     "lepique-21.fr": 1440,
@@ -5125,7 +5147,6 @@
     "facebook.com/cequevouscachentlesmedias": 1408,
     "facebook.com/touchepasamongosse": 1407,
     "dansquelmondeviton.fr": 1406,
-    "facebook.com/OuvronsNosYeuxvousmvoyez": 1406,
     "lemonde.co.il": 1405,
     "morpheus.fr": 1404,
     "letopdelhumour.fr": 1403,
@@ -6159,7 +6180,7 @@
     "twitter.com/santeici": 905,
     "francais.rt.com": 904,
     "facebook.com/RTFrance": 904,
-    "twitter.com/rtenfrancais": 904,
+    "twitter.com/RTenfrancais": 904,
     "youtube.com/channel/UCqEVwTnDzlzKOGYNFemqnYA": 904,
     "rt.com": 903,
     "facebook.com/RTnews": 903,
