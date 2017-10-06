@@ -2342,7 +2342,7 @@
     ],
     "972": [
       4,
-      "Un quotidien gratuit et site Internet d'information généraliste anciennement nommé Direct Matin, qui appartient au groupe de médias de Vincent Bolloré, également propriétaire de Canal +. Le site des informations de sources diverses sans toujours les vérifier rigoureusement, l'amenant parfois à reprendre de fausses informations (néanmoins corrigées par la suite) comme une fausse rumeur affirmant que le port du maillot du FC Barcelone était puni de 15 ans de prison en Arabie Saoudite.",
+      "Un quotidien gratuit et site Internet d'information généraliste anciennement nommé Direct Matin, qui appartient au groupe de médias de Vincent Bolloré, également propriétaire de Canal +. Le site reprend des informations de sources diverses sans toujours les vérifier rigoureusement, l'amenant parfois à reprendre de fausses informations (néanmoins corrigées par la suite) comme une fausse rumeur affirmant que le port du maillot du FC Barcelone était puni de 15 ans de prison en Arabie Saoudite.",
       "Cnews Matin",
       "direct-matin"
     ],
@@ -5177,9 +5177,165 @@
       "Une page Facebook qui agrège des informations de sources diverses, sans forcément les vérifier systématiquement. Il lui arrive de reprendre de fausses informations, notamment lorsqu'elle a affirmé que l'ouragan Irma aurait été créé par des scientifiques manipulant le climat.",
       "WorldTruth.TV",
       "worldtruth-tv"
+    ],
+    "1460": [
+      2,
+      "Un site consacré à la médecine alternative, qui diffuse parfois de fausses informations, notamment sur la vaccination qu'il qualifie de « vaccinazisme ».",
+      "L'art de vivre sain",
+      "l-art-de-vivre-sain"
+    ],
+    "1461": [
+      2,
+      "Un blog orienté à l'extrême droite qui diffuse parfois de fausses informations. Il affirme par exemple sans preuve que le tueur de la Las Vegas était un agent du FBI chargé de fournir des armes à l'Etat islamique.",
+      "Citoyens et Français",
+      "citoyens-et-francais"
+    ],
+    "1462": [
+      2,
+      "Un blog qui se présente comme diffusant des informations « alternatives », mais qui publie parfois de fausses informations, par exemple au sujet de l'ouragan Irma ou lorsqu'il a repris une fausse rumeur selon laqeulle les vaccins en Afrique contenaient des produits destinés à stériliser les femmes.",
+      "Délit d'images",
+      "delit-d-images"
+    ],
+    "1463": [
+      2,
+      "Un site sensationnaliste qui agrège des informations de sources diverses, sans les vérifier systématiquement. Il reprend ainsi parfois des rumeurs mensongères, l'une affirmant par exemple à tort que l'acteur Sami Naceri serait mort en plein été 2017. Il a également republié au premier degré un canular du Gorafi sur un candidat retrouvé mort dans une cellule de Fort Boyard sept ans plus tard.",
+      "Entre mamans",
+      "entre-mamans-1"
+    ],
+    "1464": [
+      2,
+      "Un site qui agrège des informations de sources diverses sans les vérifier systématiquement, souvent sous des titres sensationnalistes. Il diffuse parfois de fausses informations, par exemple lorsqu'il a repris au premier un canular parti d'un site parodique selon lequel les bébés européens seraient obligatoirement porteurs d'une puce depuis la fin de l'année 2016.",
+      "Infos Maintenant",
+      "infos-maintenant"
+    ],
+    "1465": [
+      2,
+      "Le site internet d'une association anti-vaccins, qui diffuse régulièrement des informations fausses sur la vaccination, contestées par l'immense majorité des scientifiques.",
+      "Initiative Citoyenne",
+      "initiative-citoyenne"
+    ],
+    "1466": [
+      2,
+      "Un blog qui diffuse régulièrement des rumeurs et de fausses informations, par exemple sur la vaccination, la prétendue disparition de l'argent liquide en 2018 ou lorsqu'il a repris un canular sur une taxe sur les jardins potagers.",
+      "intérêt pour tous",
+      "interet-pour-tous"
+    ],
+    "1467": [
+      2,
+      "Un site qui prétend diffuser des informations alternatives sur la santé et les médecines naturelles, mais qui diffuse régulièrement des informations contestées par l'immense majorité des scientifiques voire complètement fausses, notamment sur la vaccination.",
+      "Natural News",
+      "natural-news"
+    ],
+    "1468": [
+      2,
+      "Un site qui agrège des vidéos d'informations de sources diverses, dont un certain nombre de sources qui nous apparaissent peu fiables comme la web TV d'extrême droite TV Libertés, le site d'Alain Soral Egalité & Réconciliation, Russia Today, Fdesouche ou encore la chaîne YouTube de Paul Joseph Watson, un Américain connu pour avoir relayé des théories conspirationnistes à de nombreuses occasions.",
+      "Nos-Médias",
+      "nos-medias"
+    ],
+    "1469": [
+      2,
+      "Un site qui agrège des vidéos d'informations de sources diverses, dont un certain nombre de sources qui nous apparaissent peu fiables comme la web TV d'extrême droite TV Libertés, le site d'Alain Soral Egalité & Réconciliation, Russia Today, Fdesouche ou encore la chaîne YouTube de Paul Joseph Watson, un Américain connu pour avoir relayé des théories conspirationnistes à de nombreuses occasions.",
+      "Nos Médias",
+      "nos-medias-1"
+    ],
+    "1470": [
+      2,
+      "Un site qui agrège des informations de plusieurs sites satiriques ou parodiques sans indiquer clairement qu'il s'agit d'informations à prendre au second degré, ce qui peut induire les lecteurs en erreur.",
+      "Réseau Sherlock Holmes",
+      "reseau-sherlock-holmes"
+    ],
+    "1471": [
+      2,
+      "Un blog qui relaie des informations de sources diverses sans les vérifier systématiquement. Il diffuse parfois de fausses informations, comme lorsqu'il a écrit qu'une arme de manipulation du climat était à l'origine de l'ouragan Irma, ainsi que des affirmations démenties par l'immense majorité des spécialistes, notamment sur la vaccination.",
+      "Le blog de la Résistance",
+      "le-blog-de-la-resistance"
+    ],
+    "1472": [
+      2,
+      "Paul Joseph Watson est un blogueur d'extrême drotie britannique connu pour avoir relayé de multiples théories conspirationnistes et de fausses informations, dans la lignée du site américain Infowars auquel il collabore depuis 2002. Il a notamment colporté de fausses informations sur la santé de Hillary Clinton pendant la campagne présidentielle américaine de 2016.",
+      "Paul Joseph Watson",
+      "paul-joseph-watson"
+    ],
+    "1473": [
+      2,
+      "Une page Facebook américaine hostile à l'avortement, qui publie parfois de fausses informations, notamment lorsqu'elle a affirmé que les vaccins envoyés en Afrique viseraient à stériliser les jeunes femmes.",
+      "We can end abortion",
+      "we-can-end-abortion"
+    ],
+    "1474": [
+      2,
+      "David Van Hemelryck est un activiste qui s'est fait connaître en créant le mouvement Hollande Démission. Il diffuse régulièrement de fausses informations sur les réseaux sociaux, notamment lorsqu'il a publié de faux SMS de militants d'En marche en mai 2017.",
+      "David Van Hemelryck",
+      "david-van-hemelryck"
+    ],
+    "1475": [
+      2,
+      "Une page Facebook d'extrême droite qui diffuse un certain nombre de fausses informations sur l'immigration, par exemple lorsqu'elle a affirmé à tort que l'Etat allait racheter des hôtels pour loger des migrants avec de l'argent européen.",
+      "Rassemblement De Patriotes 2",
+      "rassemblement-de-patriotes-2"
+    ],
+    "1476": [
+      2,
+      "La page Facebook du militant « nationaliste révolutionnaire » Alain Soral,  qui reprend de nombreux articles de sites peu fiables, dont de nombreuses fausses informations.",
+      "Alain Soral",
+      "alain-soral"
+    ],
+    "1477": [
+      2,
+      "Une page Facebook qui agrège des informations de sources diverses, principalement sur l'alimentation et la santé, sans forcément les vérifier systématiquement. Elle a notamment diffusé à plusieurs reprises des informations sur la vaccination contestées par l'immense majorité des scientifiques.",
+      "The People's Voice",
+      "the-people-s-voice"
+    ],
+    "1478": [
+      2,
+      "Une page Facebook qui agrège des informations de sources diverses, principalement sur l'alimentation et la santé, sans forcément les vérifier systématiquement. Elle a notamment diffusé à plusieurs reprises des informations sur la vaccination contestées par l'immense majorité des scientifiques.",
+      "The Refusers",
+      "the-refusers"
+    ],
+    "1479": [
+      2,
+      "Un blog conservateur américain connu pour avoir relayé de nombreuses fausses informations, notamment lorsqu'il a relayé des rumeurs erronées affirmant que Barack Obama serait né au Kenya ou quand il a publié un article désignant à tort un certain \"Geary Danley\" comme l'auteur de la tuerie de Las Vegas le 1er octobre 2017.",
+      "http://www.thegatewaypundit.com/",
+      "http-www-thegatewaypundit-com"
     ]
   },
   "urls": {
+    "thegatewaypundit.com": 1479,
+    "facebook.com/gatewaypundit": 1479,
+    "twitter.com/gatewaypundit": 1479,
+    "youtube.com/channel/UCMaLetBcZ8fqsoIryB015og": 1479,
+    "facebook.com/TheRefusers": 1478,
+    "facebook.com/thepeoplesvoicetv": 1477,
+    "facebook.com/soralrepond": 1476,
+    "twitter.com/alainsoraloffic": 1476,
+    "facebook.com/rassemblementdepatriotes": 1475,
+    "facebook.com/LePiloteDavid": 1474,
+    "twitter.com/david_vanh": 1474,
+    "facebook.com/165284543530775": 1473,
+    "facebook.com/We-can-end-abortion-165284543530775": 1473,
+    "youtube.com/channel/UCittVh8imKanO_5KohzDbpg": 1472,
+    "facebook.com/paul.j.watson.71": 1472,
+    "twitter.com/prisonplanet": 1472,
+    "resistanceauthentique.net": 1471,
+    "reseausherlockholmes.net": 1470,
+    "nosmedias.fr": 1469,
+    "twitter.com/nosmedias_fr": 1469,
+    "nos-medias.fr": 1468,
+    "naturalnews.com": 1467,
+    "facebook.com/HealthRanger": 1467,
+    "twitter.com/healthranger": 1467,
+    "youtube.com/channel/UCAZaby1ZmxU50mfBPnZY0nQ": 1467,
+    "interetpourtous.com": 1466,
+    "initiativecitoyenne.be": 1465,
+    "infosmaintenant.net": 1464,
+    "entre-mamans.org": 1463,
+    "facebook.com/entremamansPage": 1385,
+    "delitdimages.org": 1462,
+    "facebook.com/DelitDimagesLeBlog": 1462,
+    "twitter.com/delitdimages": 1462,
+    "citoyens-et-francais.fr": 1461,
+    "facebook.com/CNEWSMatin": 972,
+    "artdevivresain.over-blog.com": 1460,
     "facebook.com/WorldTruthTV": 1459,
     "organiclifestylemagazine.com": 1458,
     "facebook.com/organiclifestylemagazine": 1458,
@@ -5275,7 +5431,6 @@
     "santesos.com": 1387,
     "santeacademy.com": 1386,
     "entre-mamans.fr": 1385,
-    "facebook.com/entremamansPage": 1385,
     "ehtusaisquoi.net": 1384,
     "facebook.com/EhTuSaisQuoibyJordan": 1384,
     "facebook.com/infosdiversesbyJazz": 1383,
@@ -6109,7 +6264,6 @@
     "facebook.com/fr.euronews": 974,
     "twitter.com/euronews": 974,
     "cnewsmatin.fr": 972,
-    "facebook.com/CNEWSMatin": 972,
     "twitter.com/cnewsmatin": 972,
     "taz.de": 971,
     "facebook.com/taz.kommune": 971,
