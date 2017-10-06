@@ -5099,9 +5099,103 @@
       "Un site de spam qui contraint ses lecteurs à partager un article sur Facebook avant de pouvoir le lire et qui diffuse des rumeurs erronées, l'une affirmant ainsi à tort que Nicolas Sarkozy serait mort le 5 octobre 2017.",
       "Realy-news-one",
       "realy-news-one"
+    ],
+    "1447": [
+      3,
+      "Un site édité par la société Santé Port Royal consacré aux médecines alternatives, mais qui diffuse parfois de fausses informations, notamment sur la vaccination.",
+      "Alternative Santé",
+      "alternative-sante"
+    ],
+    "1448": [
+      3,
+      "Un site qui agrège des informations de sources diverses, souvent sous des titres sensationnalistes et sans les vérifier systématiquement. Il a par exemple relayé au premier degré un canular du site parodique Secret News selon lequel une infirmière aurait échangé 9 000 bébés dans les maternités françaises.",
+      "Les pipelettes",
+      "les-pipelettes"
+    ],
+    "1449": [
+      3,
+      "Une page Facebook qui diffuse un certain nombre de fausses informations, notamment sur la vaccination.",
+      "Le changement par la consommation",
+      "le-changement-par-la-consommation"
+    ],
+    "1450": [
+      3,
+      "Une page Facebook qui se présente comme émanant du mouvement Anonymous, bien que ce ne soit pas avéré, et qui diffuse parfois de fausses informations, notamment lorsqu'elle a accusé à tort Bill Gates de soutenir la vaccination pour faire baisser la population en Afrique.",
+      "Anonymous Around The World",
+      "anonymous-around-the-world"
+    ],
+    "1451": [
+      3,
+      "Une page Facebook qui se présente comme émanant du mouvement Anonymous, bien que ce ne soit pas avéré, et qui diffuse parfois de fausses informations, notamment lorsqu'elle a accusé à tort Bill Gates de soutenir la vaccination pour faire baisser la population en Afrique.",
+      "Anonymous Portugal International",
+      "anonymous-portugal-international"
+    ],
+    "1452": [
+      3,
+      "Une page Facebook qui se présente comme émanant du mouvement Anonymous, bien que ce ne soit pas avéré, et qui diffuse parfois de fausses informations, notamment lorsqu'elle a accusé à tort Bill Gates de soutenir la vaccination pour faire baisser la population en Afrique.",
+      "Anonymous The World is Ours",
+      "anonymous-the-world-is-ours"
+    ],
+    "1453": [
+      3,
+      "Un page Facebook qui agrège des informations de sources diverses, principalement sur des faits divers, sans les vérifier systématiquement. Elle a notamment partagé de fausses informations sur la situation à Saint-Martin après le passage de l'ouragan Irma en septembre 2017.",
+      "Ça se passe chez vous",
+      "ca-se-passe-chez-vous"
+    ],
+    "1454": [
+      3,
+      "Une page Facebook qui relaie parfois des informations trompeuses, notamment des argumentaires anti-vaccination contestés par l'immense majorité des spécialistes.",
+      "GreenMedInfo.com",
+      "greenmedinfo-com"
+    ],
+    "1455": [
+      3,
+      "Une page Facebook qui relaie parfois des informations trompeuses, notamment des argumentaires anti-vaccination contestés par l'immense majorité des spécialistes.",
+      "Health Nut News",
+      "health-nut-news"
+    ],
+    "1456": [
+      3,
+      "Une page Facebook qui diffuse des informations de sources variables sans forcément les vérifier systématiquement. Elle a relayé à plusieurs occasions de fausses informations, notamment lorsqu'elle a accusé David Douillet de s'enrichir sur le dos de la fondation Pièces jaunes.",
+      "Le Monde Invisible",
+      "le-monde-invisible"
+    ],
+    "1457": [
+      3,
+      "Une page Facebook qui agrège des informations de sources diverses, sans forcément les vérifier systématiquement. Elle a par exemple repris de fausses informations sur un Chinois infesté par les vers après avoir mangé des sushis ou de la viande humaine qui aurait été retrouvée chez McDonald's.",
+      "Les Meilleures Méthodes de Musculation",
+      "les-meilleures-methodes-de-musculation"
+    ],
+    "1458": [
+      3,
+      "Une page Facebook qui agrège des informations de sources diverses, principalement sur l'alimentation et la santé, sans forcément les vérifier systématiquement. Elle a notamment diffusé à plusieurs reprises des informations sur la vaccination contestées par l'immense majorité des scientifiques.",
+      "Organic Lifestyle Magazine",
+      "organic-lifestyle-magazine"
+    ],
+    "1459": [
+      3,
+      "Une page Facebook qui agrège des informations de sources diverses, sans forcément les vérifier systématiquement. Il lui arrive de reprendre de fausses informations, notamment lorsqu'elle a affirmé que l'ouragan Irma aurait été créé par des scientifiques manipulant le climat.",
+      "WorldTruth.TV",
+      "worldtruth-tv"
     ]
   },
   "urls": {
+    "facebook.com/WorldTruthTV": 1459,
+    "organiclifestylemagazine.com": 1458,
+    "facebook.com/organiclifestylemagazine": 1458,
+    "facebook.com/musculation.france01": 1457,
+    "facebook.com/LeMondeInvisiblespiritualiteParanormal": 1456,
+    "facebook.com/HealthNutNews": 1455,
+    "facebook.com/greenmedinfo": 1454,
+    "facebook.com/CaSePasseChezVous": 1453,
+    "facebook.com/ATWIO": 1452,
+    "facebook.com/AnonymousPortugalInternacional": 1451,
+    "facebook.com/anonymousaroundtheworld": 1450,
+    "facebook.com/218263484852205": 1449,
+    "facebook.com/Le-changement-par-la-consommation-218263484852205": 1449,
+    "lespipelettes.net": 1448,
+    "alternativesante.fr": 1447,
+    "facebook.com/alternativesante": 1447,
     "fr.realy-news-one.website": 1446,
     "agoravox.tv": 1445,
     "chieuseatempcomplet.com": 1444,
