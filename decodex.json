@@ -1466,7 +1466,7 @@
     ],
     "819": [
       2,
-      "Un site américain qui relaie parfois de fausses informations, notamment dans l'affaire du Pizzagate aux Etats-Unis. Il a également relayé plusieurs fausses informations sur la vaccination contestée par l'immense majorité des spécialistes.",
+      "Un site américain qui relaie parfois de fausses informations, notamment dans l'affaire du Pizzagate aux Etats-Unis. Il a également relayé  des affirmations sur la vaccination contestée par l'immense majorité des spécialistes ainsi que des rumeurs erronées sur la fusillade de Las Vegas.",
       "Your News Wire",
       "your-news-wire"
     ],
@@ -1585,8 +1585,8 @@
       "arret-sur-info"
     ],
     "839": [
-      3,
-      "Un site américain connu pour avoir posté de fausses informations, notamment sur une comète censée engendrer le « chaos » sur Terre en 2015.",
+      2,
+      "Un site américain connu pour avoir posté de fausses informations, notamment sur une comète censée engendrer le « chaos » sur Terre en 2015 ou sur la fusillade de Las Vegas en octobre 2017.",
       "Before it's news",
       "before-it-s-news"
     ],
@@ -3871,8 +3871,8 @@
       "ouf-j-ai-pas-vote-hollande"
     ],
     "1240": [
-      3,
-      "Un site américain traitant surtout de marchés financiers et de bourse, mais relayant parfois de fausses informations, comme sur la santé de Hillary Clinton pendant la campagne présidentielle américaine de 2016 ou une fausse citation du président du Parlement européen pendant la campagne du « Brexit ».",
+      2,
+      "Un site américain traitant surtout de marchés financiers et de bourse, mais relayant parfois de fausses informations, comme sur la santé de Hillary Clinton pendant la campagne présidentielle américaine de 2016, une fausse citation du président du Parlement européen pendant la campagne du « Brexit » ou encore de fausses rumeurs relatives à la fusillade de Las Vegas.",
       "ZeroHedge",
       "zerohedge"
     ],
@@ -5093,9 +5093,16 @@
       "Une plateforme participative qui n'est pas orientée idéologiquement, mais de nombreux contributeurs du site s'en servent notamment pour relayer des théories conspirationnistes.",
       "Agoravox TV",
       "agoravox-tv"
+    ],
+    "1446": [
+      2,
+      "Un site de spam qui contraint ses lecteurs à partager un article sur Facebook avant de pouvoir le lire et qui diffuse des rumeurs erronées, l'une affirmant ainsi à tort que Nicolas Sarkozy serait mort le 5 octobre 2017.",
+      "Realy-news-one",
+      "realy-news-one"
     ]
   },
   "urls": {
+    "fr.realy-news-one.website": 1446,
     "agoravox.tv": 1445,
     "chieuseatempcomplet.com": 1444,
     "dansquelmondevit-on.fr": 1443,
