@@ -998,7 +998,7 @@
     ],
     "740": [
       2,
-      "Un site Internet qui reprend des articles sur des sujets divers dont de fausses informations émanant de sites peu fiables.",
+      "Un site Internet qui reprend des articles sur des sujets divers sans forcément les vérifier systématiquement, dont de fausses informations émanant de sites peu fiables.",
       "La mine d'infos",
       "la-mine-d-infos"
     ],
@@ -1819,7 +1819,7 @@
       "metatv"
     ],
     "880": [
-      4,
+      3,
       "Un site de divertissement francophone, spécialisé dans les contenus « insolites » et « buzz ». Il agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement.",
       "Millennium Buzz",
       "millennium-buzz"
@@ -3350,7 +3350,7 @@
     ],
     "1146": [
       3,
-      "Un site féminin qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement.",
+      "Un site féminin qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Il a par exemple relayé au premier degré un canular d'un site satirique américain selon lequel une femme aurait augmenté son QI en buvant du sperme tous les jours pendant un an.",
       "Fimina",
       "fimina"
     ],
@@ -4549,7 +4549,7 @@
       "quand-un-geek-meurt-il-va-dans-la-corbeille"
     ],
     "1353": [
-      3,
+      2,
       "Une page Facebook qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Elle relaie parfois de fausses informations, par exemple lorsqu'elle a repris au premier degré un canular d'un site parodique qui affirmait que de la viande humaine aurait été retrouvée chez McDonald's.",
       "Sais-tu aimer? Version Jeune",
       "sais-tu-aimer-version-jeune"
@@ -6501,6 +6501,7 @@
     "youtube.com/user/MinuteBuzz": 882,
     "minute-hebdo.fr": 881,
     "meilleur.millennium-buzz.com": 880,
+    "facebook.com/le.meilleur.Du.Web.letop": 880,
     "meta.tv": 879,
     "facebook.com/MetatvFrance": 879,
     "twitter.com/MetaTVFrance": 879,
