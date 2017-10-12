@@ -1010,7 +1010,7 @@
     ],
     "742": [
       2,
-      "Une page Facebook qui diffuse régulièrement de fausses informations du site La Gauche m'a tuer.",
+      "Une page Facebook qui diffuse régulièrement de fausses informations émanant du site La Gauche m'a tuer.",
       "La révolte des vaches à lait",
       "la-revolte-des-vaches-a-lait"
     ],
@@ -1424,7 +1424,7 @@
     ],
     "812": [
       2,
-      "Une page Facebook prorusse qui relaie des informations de sources diverses, parfois erronées, par exemple un article mensonger sur Emmanuel Macron et l'Arabie Saoudite.",
+      "Une page Facebook prorusse qui relaie des informations de sources diverses, parfois erronées. Elle a par exemple partagé un article affirmant à tort que l'ouragan Irma aurait été créé par une arme de manipulation du climat ou un autre affirmant que Barack Obama serait né au Kenya.",
       "Vladimir Poutine - Fan Club -",
       "vladimir-poutine-fan-club"
     ],
@@ -4724,7 +4724,7 @@
     ],
     "1383": [
       2,
-      "Un site internet qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Il a par exemple repris au premier degré un canular affirmant qu'il y aurait prochainement une nouvelle taxe sur les jardins potagers. Par ailleurs, cette page relaie, sous couvert de défendre la cause palestinienne, des campagnes anti vaccinations avec des arguments faux ou contestés par l'immense majorité des spécialistes, et renvoie vers des sites négationnistes.",
+      "Un site internet qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Parmi elles, on trouve un nombre significatif de fausses informations. Il a par exemple repris au premier degré un canular affirmant qu'il y aurait prochainement une nouvelle taxe sur les jardins potagers. Par ailleurs, cette page relaie, sous couvert de défendre la cause palestinienne, des campagnes anti vaccinations avec des arguments faux ou contestés par l'immense majorité des spécialistes, et renvoie vers des sites négationnistes.",
       "Infos tous sujets et pays",
       "infos-tous-sujets-et-pays"
     ],
@@ -5297,9 +5297,17 @@
       "Un blog conservateur américain connu pour avoir relayé de nombreuses fausses informations, notamment lorsqu'il a relayé des rumeurs erronées affirmant que Barack Obama serait né au Kenya ou quand il a publié un article désignant à tort un certain \"Geary Danley\" comme l'auteur de la tuerie de Las Vegas le 1er octobre 2017.",
       "http://www.thegatewaypundit.com/",
       "http-www-thegatewaypundit-com"
+    ],
+    "1480": [
+      2,
+      "Une page Facebook d'extrême droite qui diffuse un nombre significatif de fausses informations sur l'immigration, la situation sur l'île de Saint-Martin après le passage de l'ouragan Irma, Emmanuel Macron ou encore Jean-Luc Mélenchon (voir la liste dans la section Références de cette page).",
+      "Résistance et Unité PACA",
+      "resistance-et-unite-paca-1"
     ]
   },
   "urls": {
+    "facebook.com/R%C3%A9sistance-et-Unit%C3%A9-PACA-1688025814776501": 1480,
+    "facebook.com/1688025814776501": 1480,
     "thegatewaypundit.com": 1479,
     "facebook.com/gatewaypundit": 1479,
     "twitter.com/gatewaypundit": 1479,
