@@ -5309,9 +5309,16 @@
       "Un site qui usurpe l'identité et le logo du réseau de télévision américain CNN pour diffuser de fausses informations.",
       "cnn-internationaledition.com",
       "cnn-internationaledition-com"
+    ],
+    "1482": [
+      4,
+      "Un compte Twitter qui relaie des informations de sources diverses, sans forcément les vérifier systématiquement. N'hésitez pas à remonter à la source de l'information pour tenter d'en savoir plus.",
+      "Alertes Infos",
+      "alertes-infos"
     ]
   },
   "urls": {
+    "twitter.com/alertesinfos": 1482,
     "cnn-internationaledition.com": 1481,
     "facebook.com/R%C3%A9sistance-et-Unit%C3%A9-PACA-1688025814776501": 1480,
     "facebook.com/1688025814776501": 1480,
@@ -6552,7 +6559,7 @@
     "facebook.com/JSSNews": 867,
     "twitter.com/JSSNews": 867,
     "youtube.com/user/teilativi": 867,
-    "twitter.com/infos140": 866,
+    "twitter.com/actu140": 866,
     "infochretienne.com": 865,
     "humourdemecs.com": 864,
     "facebook.com/HumourMecs": 864,
