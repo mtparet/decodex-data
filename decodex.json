@@ -674,7 +674,7 @@
     ],
     "685": [
       2,
-      "Un site présenté comme un média d'information local neutre, mais orienté à l'extrême droite et qui publie régulièrement de fausses informations. Il a par exemple affirmé à tort que Slobodan Milosevic aurait été blanci par le Tribunal pénal international et diffusé des informations sur la vaccination contestées par l'immense majorité des spécialistes.",
+      "Un site présenté comme un média d'information local neutre, mais orienté à l'extrême droite et qui publie régulièrement de fausses informations. Il a par exemple affirmé à tort que Slobodan Milosevic aurait été blanchi par le Tribunal pénal international et diffusé des informations sur la vaccination contestées par l'immense majorité des spécialistes.",
       "Breizh Info",
       "breizh-info"
     ],
@@ -5303,9 +5303,16 @@
       "Une page Facebook d'extrême droite qui diffuse un nombre significatif de fausses informations sur l'immigration, la situation sur l'île de Saint-Martin après le passage de l'ouragan Irma, Emmanuel Macron ou encore Jean-Luc Mélenchon (voir la liste dans la section Références de cette page).",
       "Résistance et Unité PACA",
       "resistance-et-unite-paca-1"
+    ],
+    "1481": [
+      2,
+      "Un site qui usurpe l'identité et le logo du réseau de télévision américain CNN pour diffuser de fausses informations.",
+      "cnn-internationaledition.com",
+      "cnn-internationaledition-com"
     ]
   },
   "urls": {
+    "cnn-internationaledition.com": 1481,
     "facebook.com/R%C3%A9sistance-et-Unit%C3%A9-PACA-1688025814776501": 1480,
     "facebook.com/1688025814776501": 1480,
     "thegatewaypundit.com": 1479,
