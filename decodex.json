@@ -5315,9 +5315,16 @@
       "Un compte Twitter qui relaie des informations de sources diverses, sans forcément les vérifier systématiquement. N'hésitez pas à remonter à la source de l'information pour tenter d'en savoir plus.",
       "Alertes Infos",
       "alertes-infos"
+    ],
+    "1483": [
+      2,
+      "Un site qui se présente comme une forme de revue de presse dite alternative et qui reprend des informations de sources diverses, sans les vérifier systématiquement. Il a notamment relayé des informations sur la vaccination contestées par l'immense majorité des spécialistes.",
+      "On sait ce qu'on veut qu'on sache",
+      "on-sait-ce-qu-on-veut-qu-on-sache-1"
     ]
   },
   "urls": {
+    "onsaitcequonveutquonsache.fr": 1483,
     "twitter.com/alertesinfos": 1482,
     "cnn-internationaledition.com": 1481,
     "facebook.com/R%C3%A9sistance-et-Unit%C3%A9-PACA-1688025814776501": 1480,
