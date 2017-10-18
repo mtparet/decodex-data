@@ -5321,9 +5321,18 @@
       "Un site qui se présente comme une forme de revue de presse dite alternative et qui reprend des informations de sources diverses, sans les vérifier systématiquement. Il a notamment relayé des informations sur la vaccination contestées par l'immense majorité des spécialistes.",
       "On sait ce qu'on veut qu'on sache",
       "on-sait-ce-qu-on-veut-qu-on-sache-1"
+    ],
+    "1484": [
+      1,
+      "Un site satirique sans lien avec le quotidien régional Ouest France.",
+      "Le Ouest-Franc",
+      "le-ouest-franc"
     ]
   },
   "urls": {
+    "leouestfranc.com": 1484,
+    "facebook.com/leouestfranc": 1484,
+    "twitter.com/@leouestfranc": 1484,
     "onsaitcequonveutquonsache.fr": 1483,
     "twitter.com/alertesinfos": 1482,
     "cnn-internationaledition.com": 1481,
