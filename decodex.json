@@ -1316,7 +1316,7 @@
     ],
     "794": [
       2,
-      "Un site tenu par deux journalistes s'appuyant sur un réseau de médecins. Il appartient à la société SNI Editions SA, située en Suisse. Ce site défend l'alimentation et les remèdes naturels, mais diffuse parfois des informations exagérées ou dépourvues de sources, par exemple sur des aliments miracles ou sur de supposés dangers de la vaccination, démenties par l'immense majorité des spécialistes.",
+      "Un site tenu par deux journalistes s'appuyant sur un réseau de médecins. Il appartient à la société SNI Editions SA, située en Suisse. Ce site défend l'alimentation et les remèdes naturels, mais diffuse parfois des informations fausses, exagérées ou dépourvues de sources, par exemple sur des aliments miracles ou sur de supposés dangers de la vaccination, démenties par l'immense majorité des spécialistes.",
       "Sante Nature Innovation",
       "sante-nature-innovation"
     ],
@@ -5327,9 +5327,16 @@
       "Un site satirique sans lien avec le quotidien régional Ouest France.",
       "Le Ouest-Franc",
       "le-ouest-franc"
+    ],
+    "1485": [
+      2,
+      "Un site tenu par deux journalistes s'appuyant sur un réseau de médecins. Il appartient à la société SNI Editions SA, située en Suisse. Ce site défend l'alimentation et les remèdes naturels, mais diffuse parfois des informations fausses, exagérées ou dépourvues de sources, par exemple sur des aliments miracles ou sur de supposés dangers de la vaccination, démenties par l'immense majorité des spécialistes.",
+      "Santé Nature Innovation (site annexe)",
+      "sante-nature-innovation-site-annexe"
     ]
   },
   "urls": {
+    "lead.santenatureinnovation.com": 1485,
     "leouestfranc.com": 1484,
     "facebook.com/leouestfranc": 1484,
     "twitter.com/@leouestfranc": 1484,
