@@ -5333,9 +5333,17 @@
       "Un site tenu par deux journalistes s'appuyant sur un réseau de médecins. Il appartient à la société SNI Editions SA, située en Suisse. Ce site défend l'alimentation et les remèdes naturels, mais diffuse parfois des informations fausses, exagérées ou dépourvues de sources, par exemple sur des aliments miracles ou sur de supposés dangers de la vaccination, démenties par l'immense majorité des spécialistes.",
       "Santé Nature Innovation (site annexe)",
       "sante-nature-innovation-site-annexe"
+    ],
+    "1486": [
+      2,
+      "Un site internet sensationnaliste qui diffuse des informations de sources diverses, sans les vérifier systématiquement. Il a notamment publié des informations sur la vaccination contestées par l'immense majorité des spécialistes ainsi qu'une rumeur en partie erronée sur une possible affaire de zoophilie en Serbie.",
+      "Je suis Français",
+      "je-suis-francais"
     ]
   },
   "urls": {
+    "jesuisfrancais.net": 1486,
+    "facebook.com/jesuisfrancais2015": 1486,
     "lead.santenatureinnovation.com": 1485,
     "leouestfranc.com": 1484,
     "facebook.com/leouestfranc": 1484,
