@@ -4855,7 +4855,7 @@
       "morpheus"
     ],
     "1405": [
-      3,
+      2,
       "Un site qui, contrairement à ce que son adresse web (URL) pourrait laisser supposer, n'a aucun lien avec le groupe Le Monde. Il relaie parfois des rumeurs sans les vérifier voire de fausses informations, comme lorsqu'il a repris au premier degré un canular affirmant que de la viande humaine aurait été retrouvée chez McDonald's ou lorsqu'il a affirmé que des tombes juives ont été vandalisées au cimetière de Pantin, alors qu'il s'agissait d'un accident causé par un camion.",
       "lemonde.co.il",
       "lemonde-co-il"
@@ -5339,9 +5339,16 @@
       "Un site internet sensationnaliste qui diffuse des informations de sources diverses, sans les vérifier systématiquement. Il a notamment publié des informations sur la vaccination contestées par l'immense majorité des spécialistes ainsi qu'une rumeur en partie erronée sur une possible affaire de zoophilie en Serbie.",
       "Je suis Français",
       "je-suis-francais"
+    ],
+    "1487": [
+      2,
+      "Un site trompeur qui usurpe le logo et la charte du site 20 minutes, mais qui n'a rien à voir avec lui.",
+      "20minutes.fr.truemindword.com",
+      "20minutes-fr-truemindword-com"
     ]
   },
   "urls": {
+    "20minutes.fr.truemindword.com": 1487,
     "jesuisfrancais.net": 1486,
     "facebook.com/jesuisfrancais2015": 1486,
     "lead.santenatureinnovation.com": 1485,
