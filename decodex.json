@@ -1717,7 +1717,7 @@
       "herault-tribune"
     ],
     "863": [
-      4,
+      3,
       "Un site consacré notamment aux séries et aux jeux vidéo, avec un traitement parfois approximatif de l'actualité.",
       "Hitek",
       "hitek"
@@ -1790,7 +1790,7 @@
     ],
     "875": [
       4,
-      "Un site de divertissement français, spécialisé dans les contenus « insolites » et trash. Ce site agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement.",
+      "Un site de divertissement français, spécialisé dans les contenus « insolites » et trash. Ce site agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Il a notamment diffusé une rumeur erronée selon laquelle un verre de vin rouge pourrait remplacer une heure de sport intensif.",
       "Le Tribunal du Net",
       "le-tribunal-du-net"
     ],
@@ -4381,7 +4381,7 @@
       "les-meilleures-photos-tatouage"
     ],
     "1325": [
-      3,
+      2,
       "Une page Facebook qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Elle relaie parfois de fausses informations, par exemple lorsqu'elle a repris un canular du site belge Nordpresse selon lequel les célibataires de plus de 30 ans seraient contraints par la loi d'accueillir des migrants.",
       "Les meilleurs phrases et VDM",
       "les-meilleurs-phrases-et-vdm"
@@ -5433,6 +5433,7 @@
     "facebook.com/letopdelhumour2": 1426,
     "facebook.com/reveillezvousenfin": 1425,
     "facebook.com/Moi-aussi-je-vais-emmerder-mon-monde-1557340284482112": 1424,
+    "facebook.com/1557340284482112": 1424,
     "facebook.com/VaXismNEWS": 1423,
     "facebook.com/Le-Meilleur-Des-Mondes-1622026158127891": 1422,
     "facebook.com/AfriqueMediaTVfans": 1421,
@@ -5461,7 +5462,7 @@
     "lemonde.co.il": 1405,
     "morpheus.fr": 1404,
     "letopdelhumour.fr": 1403,
-    "facebook.com/Letopdelhumour.fr": 1403,
+    "facebook.com/letopdelhumour.fr": 1403,
     "mondedutanks.com": 1402,
     "toutelinfo.fr": 1401,
     "bestsante.co": 1400,
