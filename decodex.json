@@ -5345,9 +5345,16 @@
       "Un site trompeur qui usurpe le logo et la charte du site 20 minutes, mais qui n'a rien à voir avec lui.",
       "20minutes.fr.truemindword.com",
       "20minutes-fr-truemindword-com"
+    ],
+    "1488": [
+      1,
+      "Un site humoristique qui diffuse de nombreux canulars sur la base de récits imaginaires.",
+      "24 jours",
+      "24-jours"
     ]
   },
   "urls": {
+    "24jours.com": 1488,
     "20minutes.fr.truemindword.com": 1487,
     "jesuisfrancais.net": 1486,
     "facebook.com/jesuisfrancais2015": 1486,
