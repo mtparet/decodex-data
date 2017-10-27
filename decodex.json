@@ -5351,9 +5351,17 @@
       "Un site humoristique qui diffuse de nombreux canulars sur la base de récits imaginaires.",
       "24 jours",
       "24-jours"
+    ],
+    "1489": [
+      4,
+      "Un site internet d'actualité généraliste, à ne pas confondre avec le site satirique 24matins.ch.",
+      "24matins.fr",
+      "24matins-fr"
     ]
   },
   "urls": {
+    "24matins.fr": 1489,
+    "facebook.com/24matins": 1489,
     "24jours.com": 1488,
     "20minutes.fr.truemindword.com": 1487,
     "jesuisfrancais.net": 1486,
