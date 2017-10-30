@@ -5363,9 +5363,17 @@
       "Un site parodique marocain créé en 2016, à lire au second degré.",
       "AkhnaPress.com",
       "akhnapress-com"
+    ],
+    "1491": [
+      1,
+      "Un site satirique dont les articles relèvent purement de la fiction. A lire au second degré.",
+      "La Triburne",
+      "la-triburne"
     ]
   },
   "urls": {
+    "latriburne.com": 1491,
+    "facebook.com/Latriburne": 1491,
     "akhnapress.com": 1490,
     "facebook.com/akhnapress": 1490,
     "twitter.com/akhnapress": 1490,
