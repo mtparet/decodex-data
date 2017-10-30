@@ -5357,9 +5357,18 @@
       "Un site internet d'actualité généraliste, à ne pas confondre avec le site satirique 24matins.ch.",
       "24matins.fr",
       "24matins-fr"
+    ],
+    "1490": [
+      1,
+      "Un site parodique marocain créé en 2016, à lire au second degré.",
+      "AkhnaPress.com",
+      "akhnapress-com"
     ]
   },
   "urls": {
+    "akhnapress.com": 1490,
+    "facebook.com/akhnapress": 1490,
+    "twitter.com/akhnapress": 1490,
     "24matins.fr": 1489,
     "facebook.com/24matins": 1489,
     "24jours.com": 1488,
