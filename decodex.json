@@ -3355,7 +3355,7 @@
       "fimina"
     ],
     "1147": [
-      3,
+      2,
       "Un site de divertissement qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Il lui arrive également de diffuser de fausses informations, par exemple lorsqu'il a repris au premier degré un canular affirmant que de la viande humaine aurait été retrouvée chez McDonald's.",
       "Moment buzz",
       "moment-buzz"
@@ -4621,7 +4621,7 @@
       "sms-droles"
     ],
     "1365": [
-      3,
+      2,
       "Une page Facebook qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Elle relaie parfois de fausses informations, par exemple lorsqu'elle a repris au premier degré un canular d'un site parodique qui affirmait que de la viande humaine aurait été retrouvée chez McDonald's.",
       "Source du savoir",
       "source-du-savoir"
@@ -4800,12 +4800,6 @@
       "Cool-Buzz",
       "cool-buzz-1"
     ],
-    "1396": [
-      3,
-      "Un site internet qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Il a par exemple repris une légende urbaine affirmant à tort que la boisson Red Bull contiendrait du sperme de taureau et a également pris pour argent comptant un canular d'un site américain selon lequel de la viande humaine aurait été retrouvée chez McDonald's.",
-      "Moment Buzz",
-      "moment-buzz-1"
-    ],
     "1397": [
       3,
       "Un site internet qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Il a par exemple repris au premier degré un canular affirmant qu'une infirmière aurait échangé plus de 9 000 bébés à la maternité.",
@@ -4819,7 +4813,7 @@
       "topsante-org"
     ],
     "1399": [
-      3,
+      2,
       "Un site qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Il relaie également parfois de fausses informations comme un canular du Gorafi affirmant qu'un candidat de Fort Boyard aurait été retrouvé sept ans après avoir été oublié dans une cellule.",
       "tusaisjetaime.com",
       "tusaisjetaime-com"
@@ -5516,7 +5510,6 @@
     "facebook.com/tusaisjetaimee": 1399,
     "topsante.org": 1398,
     "buzztrucs.com": 1397,
-    "momentbuzz.com": 1147,
     "cool-buzz.net": 1242,
     "facebook.com/cool.buzz.net": 1395,
     "buzzdefr.com": 1394,
@@ -5920,6 +5913,7 @@
     "buzzsurnet.com": 1149,
     "facebook.com/Buzzsurnet": 1149,
     "facebook.com/Labaseduncouple": 1148,
+    "momentbuzz.com": 1147,
     "fimina.com": 1146,
     "facebook.com/Fiminamag": 1146,
     "facebook.com/SaisTuaimerr": 1145,
