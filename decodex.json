@@ -5369,9 +5369,16 @@
       "Un site satirique dont les articles relèvent purement de la fiction. A lire au second degré.",
       "La Triburne",
       "la-triburne"
+    ],
+    "1492": [
+      2,
+      "Un site qui imite parfaitement l’apparence du site internet de la chaîne de télévision BFMTV et en profite pour diffuser régulièrement des fausses informations déguisées comme de réels articles émanant de BFMTV (dont la vraie adresse est : www.bfmtv.com).",
+      "BFMPro.com",
+      "bfmpro-com"
     ]
   },
   "urls": {
+    "people.bfmpro.com": 1492,
     "latriburne.com": 1491,
     "facebook.com/Latriburne": 1491,
     "akhnapress.com": 1490,
