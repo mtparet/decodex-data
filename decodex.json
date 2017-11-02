@@ -5369,9 +5369,16 @@
       "Un site qui imite parfaitement l’apparence du site internet de la chaîne de télévision BFMTV et en profite pour diffuser régulièrement des fausses informations déguisées comme de réels articles émanant de BFMTV (dont la vraie adresse est : www.bfmtv.com).",
       "BFMPro.com",
       "bfmpro-com"
+    ],
+    "1493": [
+      2,
+      "Un site de divertissement qui relaie des informations de sources variées, sans forcément les vérifier systématiquement et sous des titres racoleurs. Il relaie parfois de fausses informations, par exemple une légende urbaine sur des vols de voitures organisés en laissant un billet de 50 euros sur le pare-brise d'un véhicule",
+      "t0pibuzz.com",
+      "t0pibuzz-com"
     ]
   },
   "urls": {
+    "t0pibuzz.com": 1493,
     "people.bfmpro.com": 1492,
     "latriburne.com": 1491,
     "facebook.com/Latriburne": 1491,
