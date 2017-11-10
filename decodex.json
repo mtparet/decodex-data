@@ -5381,9 +5381,18 @@
       "Un site trompeur qui usurpe le logo et le nom du groupe Le Monde et diffuse régulièrement de fausses informations.",
       "lemonde24h.com",
       "lemonde24h-com"
+    ],
+    "1495": [
+      1,
+      "Un site satirique alimenté par des sympathisants de la France insoumise, qui se présentent comme membre du \"discord insoumis\".",
+      "http://www.worldtvdesinfo.com",
+      "http-www-worldtvdesinfo-com"
     ]
   },
   "urls": {
+    "worldtvdesinfo.com": 1495,
+    "facebook.com/worldtvdesinfo": 1495,
+    "twitter.com/worldtvdesinfo": 1495,
     "lemonde24h.com": 1494,
     "t0pibuzz.com": 1493,
     "people.bfmpro.com": 1492,
