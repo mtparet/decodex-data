@@ -1002,12 +1002,6 @@
       "La mine d'infos",
       "la-mine-d-infos"
     ],
-    "741": [
-      2,
-      "Un site qui nous apparaît peu fiable et qui héberge parfois des fausses informations.",
-      "La Presse galactique",
-      "la-presse-galactique"
-    ],
     "742": [
       2,
       "Une page Facebook qui diffuse régulièrement de fausses informations émanant du site La Gauche m'a tuer.",
@@ -5781,7 +5775,7 @@
     "lesoir.info": 1222,
     "civilwarineurope.com": 1221,
     "twitter.com/Civilwarineurop": 1221,
-    "lapressegalactique.com": 741,
+    "lapressegalactique.com": 1219,
     "facebook.com/lapressegalactique": 1219,
     "thespiritscience.net": 1218,
     "facebook.com/thespiritscience": 1218,
