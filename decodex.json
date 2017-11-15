@@ -1328,7 +1328,7 @@
     ],
     "796": [
       2,
-      "Un site qui nous apparaît peu fiable et qui héberge des théories conspirationnistes.",
+      "Un site qui nous apparaît peu fiable et qui héberge des théories conspirationnistes. Il a notamment relayé une prétendue intervention d'une princesse saoudienne au Monde qui était inventée de toutes pièces.",
       "Sott (Signs of the Times)",
       "signs-of-the-times"
     ],
@@ -4807,7 +4807,7 @@
       "buzz-trucs"
     ],
     "1398": [
-      3,
+      2,
       "Un site internet qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Il a par exemple diffusé une légende urbaine sur la circulation de drogue sous forme de bonbons dans les écoles. Ce site diffuse également des conseils santé à prendre avec des pincettes, car ils ne sont pas validés par des spécialistes. A ne pas confondre avec le site topsante.com.",
       "topsante.org",
       "topsante-org"
@@ -4862,7 +4862,7 @@
     ],
     "1407": [
       2,
-      "Une page Facebook qui relaie régulièrement des informations sur la vaccination contestées par l'immense majorité des spécialistes.",
+      "Une page Facebook qui relaie régulièrement des informations sur la vaccination contestées par l'immense majorité des spécialistes. Elle a également diffusé une fausse information sur une prétendue interview d'une princesse saoudienne au Monde contenant des révélations explosives... qui n'a en réalité jamais existé.",
       "Touche pas à mon gosse",
       "touche-pas-a-mon-gosse"
     ],
@@ -5387,9 +5387,16 @@
       "Un site satirique alimenté par des sympathisants de la France insoumise, qui se présentent comme membre du \"discord insoumis\".",
       "http://www.worldtvdesinfo.com",
       "http-www-worldtvdesinfo-com"
+    ],
+    "1496": [
+      2,
+      "Un site qui nous apparaît peu fiable et qui héberge des théories conspirationnistes. Il a notamment relayé une prétendue intervention d'une princesse saoudienne au Monde qui était inventée de toutes pièces.",
+      "Sott (Signs of the Times) (en anglais)",
+      "sott-signs-of-the-times-en-anglais"
     ]
   },
   "urls": {
+    "sott.net": 1496,
     "worldtvdesinfo.com": 1495,
     "facebook.com/worldtvdesinfo": 1495,
     "twitter.com/worldtvdesinfo": 1495,
