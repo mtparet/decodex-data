@@ -5981,9 +5981,53 @@
       "Une page Facebook sensationnaliste qui agrège des informations de sources diverses sans forcément les vérifier systématiquement. Elle a notamment diffusé une fausse rumeur annonçant la mort de l'acteur Samy Naceri.",
       "Savoir aimer",
       "savoir-aimer"
+    ],
+    "1597": [
+      2,
+      "Une page Facebook sensationnaliste qui agrège des informations de sources variables sans les vérifier systématiquement. Elle a notamment diffusé au premier degré un canular d'un site satirique américain affirmant qu'une employée de morgue aurait donné naissance au bébé d'un homme mort.",
+      "J'aime ma famille",
+      "j-aime-ma-famille"
+    ],
+    "1598": [
+      2,
+      "Un site internet sensationnaliste qui agrège des informations de sources variables sans les vérifier systématiquement. Il a notamment diffusé au premier degré un canular d'un site satirique américain affirmant qu'une employée de morgue aurait donné naissance au bébé d'un homme mort.",
+      "BuzzFR",
+      "buzzfr"
+    ],
+    "1599": [
+      2,
+      "Une page Facebook sensationnaliste qui agrège des informations de sources diverses sans forcément les vérifier systématiquement.",
+      "Veux-tu rire? [Fan-O-Web]",
+      "veux-tu-rire-fan-o-web-1"
+    ],
+    "1600": [
+      2,
+      "Une page Facebook sensationnaliste qui agrège des informations de sources diverses sans forcément les vérifier systématiquement. Elle a notamment repris une fausse information sur un Chinois qui aurait été infesté de vers après avoir mangé des sushis.",
+      "Humour,",
+      "humour-7"
+    ],
+    "1601": [
+      2,
+      "Un site qui se présente comme une forme de revue de presse dite alternative et qui reprend des informations de sources diverses, sans les vérifier systématiquement. Il a notamment relayé des informations sur la vaccination contestées par l'immense majorité des spécialistes. Il partage également des conseils en matière de santé présentés de manière sensationnaliste. Par exemple, un article évoque un prétendu fruit miracle qui détruirait le cancer en quelques minutes.",
+      "Vivons mieux",
+      "vivons-mieux"
+    ],
+    "1602": [
+      2,
+      "Une page Facebook qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Elle a notamment diffusé au premier degré un canular affirmant que les bébés européens devraient désormais recevoir une puce sous la peau.",
+      "L'histoire d'amour",
+      "l-histoire-d-amour"
     ]
   },
   "urls": {
+    "facebook.com/Lhistoiredamourr": 1602,
+    "vivonsmieux.fr": 1601,
+    "facebook.com/vivons.mieux.fr": 1601,
+    "facebook.com/viveface": 1600,
+    "facebook.com/VeuxTuRire": 1379,
+    "buzzfr.net": 1598,
+    "facebook.com/331880510158780": 1597,
+    "facebook.com/Jaime-ma-famille-331880510158780": 1597,
     "facebook.com/SavoirAimerFan": 1596,
     "facebook.com/messagesdrole": 1595,
     "facebook.com/MakeupFilleFrance": 1594,
@@ -6274,7 +6318,6 @@
     "facebook.com/%E1%83%A6%CF%A0%E1%83%A6-Lastuce-du-mois-%E1%83%A6%CF%A0%E1%83%A6-614029875343804": 1382,
     "facebook.com/614029875343804": 1382,
     "facebook.com/VivreFemme": 1380,
-    "facebook.com/VeuxTuRire": 1379,
     "facebook.com/Veux-Tu-aimer-912771458761344": 1378,
     "facebook.com/SuperVDMamour": 1377,
     "facebook.com/Trucs-de-grands-mères-737077989661259": 1376,
