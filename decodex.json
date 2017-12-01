@@ -4795,7 +4795,7 @@
       "cool-buzz-1"
     ],
     "1397": [
-      3,
+      2,
       "Un site internet qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Il a par exemple repris au premier degré un canular affirmant qu'une infirmière aurait échangé plus de 9 000 bébés à la maternité.",
       "Buzz Trucs",
       "buzz-trucs"
@@ -6281,9 +6281,16 @@
       "Un site sensationnaliste qui agrège des informations de sources diverses sans forcément les vérifier systématiquement. Il a notamment repris au premier degré un canular du Gorafi selon lequel un candidat de Fort Boyard aurait été retrouvé après avoir été oublié sept ans dans une cellule.",
       "buzz4net.com",
       "buzz4net-com"
+    ],
+    "1648": [
+      2,
+      "Un site sensationnaliste qui agrège des informations de sources diverses sans forcément les vérifier systématiquement. Il a notamment repris au premier degré un canular affirmant qu'une femme aurait confondu son bébé de 5 mois avec un rôti.",
+      "buzzdemois.com",
+      "buzzdemois-com"
     ]
   },
   "urls": {
+    "buzzdemois.com": 1648,
     "buzz4net.com": 1647,
     "eddenya.com": 1646,
     "facebook.com/des.trucs.astuces.maison": 1646,
