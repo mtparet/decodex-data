@@ -6275,9 +6275,16 @@
       "Un site sensationnaliste qui agrège des informations de sources diverses sans forcément les vérifier systématiquement. Il a notamment diffusé une fausse rumeur au sujet d'un homme de 179 qui aurait été découvert vivant en Inde, ainsi qu'une fausse information sur un prétendu Chinois qui aurait été infesté par des vers après avoir mangé des sushis.",
       "eddenya.com",
       "eddenya-com"
+    ],
+    "1647": [
+      2,
+      "Un site sensationnaliste qui agrège des informations de sources diverses sans forcément les vérifier systématiquement. Il a notamment repris au premier degré un canular du Gorafi selon lequel un candidat de Fort Boyard aurait été retrouvé après avoir été oublié sept ans dans une cellule.",
+      "buzz4net.com",
+      "buzz4net-com"
     ]
   },
   "urls": {
+    "buzz4net.com": 1647,
     "eddenya.com": 1646,
     "facebook.com/des.trucs.astuces.maison": 1646,
     "lastucieuse.com": 1645,
