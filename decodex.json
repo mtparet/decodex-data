@@ -6287,9 +6287,17 @@
       "Un site sensationnaliste qui agrège des informations de sources diverses sans forcément les vérifier systématiquement. Il a notamment repris au premier degré un canular affirmant qu'une femme aurait confondu son bébé de 5 mois avec un rôti.",
       "buzzdemois.com",
       "buzzdemois-com"
+    ],
+    "1649": [
+      2,
+      "Le blog de Thomas Joly, secrétaire général du parti nationaliste Le Parti de la France, fondé en 2009 par Carl Lang ainsi que d'anciens cadres du FN. L'homme politique y a diffusé à plusieurs reprises de fausses informations, par exemple sur le droit de vote des détenus, sur les attentats du 13 novembre 2015 ou encore sur un prétendu projet visant à remettre en cause le droit de propriété.",
+      "Le blog de Thomas Joly",
+      "le-blog-de-thomas-joly"
     ]
   },
   "urls": {
+    "thomasjoly.fr": 1649,
+    "twitter.com/thomasjoly60": 1649,
     "buzzdemois.com": 1648,
     "buzz4net.com": 1647,
     "eddenya.com": 1646,
