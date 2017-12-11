@@ -6293,9 +6293,16 @@
       "Le blog de Thomas Joly, secrétaire général du parti nationaliste Le Parti de la France, fondé en 2009 par Carl Lang ainsi que d'anciens cadres du FN. L'homme politique y a diffusé à plusieurs reprises de fausses informations, par exemple sur le droit de vote des détenus, sur les attentats du 13 novembre 2015 ou encore sur un prétendu projet visant à remettre en cause le droit de propriété.",
       "Le blog de Thomas Joly",
       "le-blog-de-thomas-joly"
+    ],
+    "1650": [
+      2,
+      "Un site sensationnaliste qui agrège des informations de sources diverses sans forcément les vérifier systématiquement. Il a notamment repris au premier degré un canular sur candidat de Fort Boyard oublié dans une cellule pendant sept ans ou encore sur la prétendue interdiction à venir de certaines voitures.",
+      "tfi-info.com",
+      "tfi-info-com"
     ]
   },
   "urls": {
+    "tfi-info.com": 1650,
     "thomasjoly.fr": 1649,
     "twitter.com/thomasjoly60": 1649,
     "buzzdemois.com": 1648,
