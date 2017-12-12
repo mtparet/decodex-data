@@ -6299,9 +6299,16 @@
       "Un site sensationnaliste qui agrège des informations de sources diverses sans forcément les vérifier systématiquement. Il a notamment repris au premier degré un canular sur candidat de Fort Boyard oublié dans une cellule pendant sept ans ou encore sur la prétendue interdiction à venir de certaines voitures.",
       "tfi-info.com",
       "tfi-info-com"
+    ],
+    "1651": [
+      2,
+      "Un site sensationnaliste qui agrège des informations de sources diverses sans les vérifier systématiquement. Il a notamment relayé au premier degré plusieurs canulars de sites satiriques, notamment un affirmant que plus de 2 000 plants de cannabis auraient été découverts chez Jean-Marie Le Pen.",
+      "Tweebuzzz",
+      "tweebuzzz"
     ]
   },
   "urls": {
+    "tweebuzzz.com": 1651,
     "tfi-info.com": 1650,
     "thomasjoly.fr": 1649,
     "twitter.com/thomasjoly60": 1649,
