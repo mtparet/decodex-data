@@ -6329,9 +6329,45 @@
       "Une page Facebook sensationnaliste qui diffuse parfois de fausses informations.",
       "Citations des Minions",
       "citations-des-minions"
+    ],
+    "1656": [
+      2,
+      "Une page Facebook sensationnaliste qui agrège des informations de sources diverses sans forcément les vérifier systématiquement. Elle a notamment repris au premier degré plusieurs canulars de sites parodiques.",
+      "Bien-être",
+      "bien-etre"
+    ],
+    "1657": [
+      2,
+      "Une page Facebook d'extrême droite qui diffuse parfois de fausses informations, notamment sur l'immigration.",
+      "On aime la France",
+      "on-aime-la-france-1"
+    ],
+    "1658": [
+      2,
+      "Une page Facebook sensationnaliste qui agrège des informations de sources diverses sans forcément les vérifier systématiquement. Elle a notamment repris au premier degré plusieurs canulars de sites parodiques.",
+      "Infos Couples",
+      "infos-couples"
+    ],
+    "1659": [
+      2,
+      "Une page Facebook sensationnaliste qui agrège des informations de sources diverses sans forcément les vérifier systématiquement. Elle a notamment repris au premier degré plusieurs canulars de sites parodiques.",
+      "Santé et beauté pour tous!!",
+      "sante-et-beaute-pour-tous-1"
+    ],
+    "1660": [
+      2,
+      "Une page Facebook américaine qui a relayé à plusieurs reprises des informations sur la vaccination contestées par l'immense majorité des spécialistes.",
+      "Occupy the FDA",
+      "occupy-the-fda"
     ]
   },
   "urls": {
+    "facebook.com/OccupyFDA": 1660,
+    "facebook.com/314513145985": 1659,
+    "facebook.com/Sant%C3%A9-et-beaut%C3%A9-pour-tous-314513145985": 1659,
+    "facebook.com/iinfo.couple": 1658,
+    "facebook.com/1599057503748442": 1657,
+    "facebook.com/BienEtreMag": 1656,
     "facebook.com/CitationsMinions": 1655,
     "facebook.com/387313861411709": 1654,
     "facebook.com/354476977066": 1653,
