@@ -6305,9 +6305,37 @@
       "Un site sensationnaliste qui agrège des informations de sources diverses sans les vérifier systématiquement. Il a notamment relayé au premier degré plusieurs canulars de sites satiriques, notamment un affirmant que plus de 2 000 plants de cannabis auraient été découverts chez Jean-Marie Le Pen.",
       "Tweebuzzz",
       "tweebuzzz"
+    ],
+    "1652": [
+      2,
+      "Une page Facebook sensationnaliste qui diffuse parfois de fausses informations.",
+      "Pour ceux qui, pendant les contrôles, aimeraient avoir l'aide du public.",
+      "pour-ceux-qui-pendant-les-controles-aimeraient-avoir-l-aide-du-public"
+    ],
+    "1653": [
+      2,
+      "Une page Facebook sensationnaliste qui diffuse parfois de fausses informations.",
+      "Un X² court dans une forêt, il perd son ², pk ? il s'est prit une racine",
+      "un-x-court-dans-une-foret-il-perd-son-pk-il-s-est-prit-une-racine"
+    ],
+    "1654": [
+      2,
+      "Une page Facebook sensationnaliste qui diffuse parfois de fausses informations.",
+      "Humour, T",
+      "humour-t"
+    ],
+    "1655": [
+      2,
+      "Une page Facebook sensationnaliste qui diffuse parfois de fausses informations.",
+      "Citations des Minions",
+      "citations-des-minions"
     ]
   },
   "urls": {
+    "facebook.com/CitationsMinions": 1655,
+    "facebook.com/387313861411709": 1654,
+    "facebook.com/354476977066": 1653,
+    "facebook.com/78472389189": 1652,
     "tweebuzzz.com": 1651,
     "tfi-info.com": 1650,
     "thomasjoly.fr": 1649,
