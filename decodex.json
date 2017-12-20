@@ -6353,9 +6353,16 @@
       "Une page Facebook américaine qui a relayé à plusieurs reprises des informations sur la vaccination contestées par l'immense majorité des spécialistes.",
       "Occupy the FDA",
       "occupy-the-fda"
+    ],
+    "1661": [
+      2,
+      "Un site qui relaie des informations de manière sensationnaliste, sans toujours les vérifier. Il lui arrive de relayer de fausses informations, comme lorsqu'il a écrit qu'une infirmière aurait échangé 9 000 bébés dans à la naissance dans des maternités françaises, affirmation qui était en réalité un canular d'un site parodique, tout comme lorsqu'il a repris au premier degré un article du Gorafi affirmant qu'un candidat de Fort Boyard aurait été oublié 7 ans dans une pièce.",
+      "chieusetempcomplet.com",
+      "chieusetempcomplet-com"
     ]
   },
   "urls": {
+    "chieusetempcomplet.com": 1661,
     "facebook.com/OccupyFDA": 1660,
     "facebook.com/314513145985": 1659,
     "facebook.com/Sant%C3%A9-et-beaut%C3%A9-pour-tous-314513145985": 1659,
