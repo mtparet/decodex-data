@@ -4603,8 +4603,8 @@
       "si-toi-aussi-tu-n-a-jamais-lu-le-reglement-du-college-lycee"
     ],
     "1364": [
-      3,
-      "Une page Facebook qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Elle relaie également parfois de fausses informations comme un canular du Gorafi affirmant qu'un candidat de Fort Boyard aurait été retrouvé sept ans après avoir été oublié dans une cellule.",
+      2,
+      "Une page Facebook et un site qui agrègent des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Elle relaie également parfois de fausses informations comme un canular du Gorafi affirmant qu'un candidat de Fort Boyard aurait été retrouvé sept ans après avoir été oublié dans une cellule.",
       "SMS Drôles",
       "sms-droles"
     ],
@@ -6359,9 +6359,16 @@
       "Un site qui relaie des informations de manière sensationnaliste, sans toujours les vérifier. Il lui arrive de relayer de fausses informations, comme lorsqu'il a écrit qu'une infirmière aurait échangé 9 000 bébés dans à la naissance dans des maternités françaises, affirmation qui était en réalité un canular d'un site parodique, tout comme lorsqu'il a repris au premier degré un article du Gorafi affirmant qu'un candidat de Fort Boyard aurait été oublié 7 ans dans une pièce.",
       "chieusetempcomplet.com",
       "chieusetempcomplet-com"
+    ],
+    "1662": [
+      2,
+      "Un site internet qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Il a par exemple repris au premier degré un canular affirmant qu'une infirmière aurait échangé plus de 9 000 bébés à la maternité ou un autre affirmant que Brigitte Macron aurait menti sur son âge.",
+      "Ojobuzz.co",
+      "ojobuzz-co"
     ]
   },
   "urls": {
+    "ojobuzz.co": 1662,
     "chieusetempcomplet.com": 1661,
     "facebook.com/OccupyFDA": 1660,
     "facebook.com/314513145985": 1659,
@@ -6754,6 +6761,7 @@
     "superastuces.co": 1366,
     "facebook.com/SuperAstuces": 1366,
     "facebook.com/SourceduSavoir": 1365,
+    "smsdrole.com": 1364,
     "facebook.com/smshumour.net": 1364,
     "facebook.com/Si-toi-aussi-tu-na-jamais-lu-le-reglement-du-collége-lycée-183773479462": 1363,
     "facebook.com/Tamereracontetavie": 1362,
