@@ -6365,9 +6365,18 @@
       "Un site internet qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Il a par exemple repris au premier degré un canular affirmant qu'une infirmière aurait échangé plus de 9 000 bébés à la maternité ou un autre affirmant que Brigitte Macron aurait menti sur son âge.",
       "Ojobuzz.co",
       "ojobuzz-co"
+    ],
+    "1663": [
+      1,
+      "Un site qui se dit \"à vocation parodique\" qui détourne le nom et le logo du site Libération. \"Les articles publiés sur ce site ne sont que pures fictions\", est-il précisé.",
+      "Liberaphion",
+      "liberaphion"
     ]
   },
   "urls": {
+    "liberaphion.fr": 1663,
+    "facebook.com/Lib%C3%A9raphion-1903272406629017": 1663,
+    "twitter.com/Liberaphion": 1663,
     "ojobuzz.co": 1662,
     "chieusetempcomplet.com": 1661,
     "facebook.com/OccupyFDA": 1660,
