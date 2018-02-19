@@ -5522,7 +5522,7 @@
     ],
     "1521": [
       2,
-      "Un site et une page Facebook sensationnaliste qui agrègent des informations de sources diverses sans forcément les vérifier systématiquement. Elle a notamment repris au premier degré un canular affirmant que Philippe Poutou avait joué dans un film pornographique.",
+      "Un site et une page Facebook sensationnaliste qui agrègent des informations de sources diverses sans forcément les vérifier systématiquement. Le site a notamment repris au premier degré un canular affirmant que Philippe Poutou avait joué dans un film pornographique.",
       "Astuce femmes",
       "astuce-femmes"
     ],
@@ -6371,9 +6371,16 @@
       "Un site qui se dit \"à vocation parodique\" qui détourne le nom et le logo du site Libération. \"Les articles publiés sur ce site ne sont que pures fictions\", est-il précisé.",
       "Liberaphion",
       "liberaphion"
+    ],
+    "1664": [
+      2,
+      "Un site internet qui agrège des informations de sources diverses sans forcément les vérifier systématiquement. Il a notamment repris au premier degré un canular affirmant que Philippe Poutou avait joué dans un film pornographique.",
+      "astucefammes.com",
+      "astucefammes-com"
     ]
   },
   "urls": {
+    "astucefammes.com": 1664,
     "liberaphion.fr": 1663,
     "facebook.com/Lib%C3%A9raphion-1903272406629017": 1663,
     "twitter.com/Liberaphion": 1663,
