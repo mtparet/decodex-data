@@ -6383,9 +6383,17 @@
       "Un site internet sensationnaliste qui agrège des informations de sources variables sans les vérifier systématiquement. Il a notamment diffusé au premier degré plusieurs canulars de sites parodiques, par exemple une fausse information affirmant que de la viande humaine aurait été retrouvée dans une usine McDonald's.",
       "http://www.magazine-du-net.com/",
       "http-www-magazine-du-net-com"
+    ],
+    "1666": [
+      2,
+      "Un site internet qui se présente comme alternatif mais diffuse parfois des théories aux accents conspirationnistes. Il a repris à plusieurs occasions de fausses informations, comme une fausse citation d'un scientifique américain sur la découverte du virus du sida.",
+      "S'informer autrement",
+      "s-informer-autrement"
     ]
   },
   "urls": {
+    "sinformerautrement.com": 1666,
+    "facebook.com/s.informer.autrement": 1666,
     "magazine-du-net.com": 1665,
     "astucefammes.com": 1664,
     "liberaphion.fr": 1663,
