@@ -6389,9 +6389,18 @@
       "Un site internet qui se présente comme alternatif mais diffuse parfois des théories aux accents conspirationnistes. Il a repris à plusieurs occasions de fausses informations, comme une fausse citation d'un scientifique américain sur la découverte du virus du sida.",
       "S'informer autrement",
       "s-informer-autrement"
+    ],
+    "1667": [
+      1,
+      "Un site parodique canadien dont la devise est : « Tout ce que nous écrivons est un mensonge ». A lire au second degré.",
+      "Le Désavantage",
+      "le-desavantage"
     ]
   },
   "urls": {
+    "desavantage.com": 1667,
+    "facebook.com/ledesavantage": 1667,
+    "twitter.com/LeDesavantage": 1667,
     "sinformerautrement.com": 1666,
     "facebook.com/s.informer.autrement": 1666,
     "magazine-du-net.com": 1665,
