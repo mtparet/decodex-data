@@ -6401,9 +6401,23 @@
       "Un site internet sensationnaliste qui agrège des informations de sources diverses sans forcément les vérifier systématiquement. Il a notamment partagé de fausses informations sur la prétendue interdiction des vieilles voitures ou sur une loi obligeant les célibataires à accueillir des migrants.",
       "worldactuality",
       "worldactuality"
+    ],
+    "1671": [
+      2,
+      "Un site sensationnaliste anciennement connu sous le nom de TweeBuzz qui agrège des informations de sources diverses sans les vérifier systématiquement. Il a notamment relayé au premier degré plusieurs canulars de sites satiriques, notamment un affirmant que plus de 2 000 plants de cannabis auraient été découverts chez Jean-Marie Le Pen.",
+      "delaballe.info",
+      "delaballe-info"
+    ],
+    "1672": [
+      1,
+      "Un site parodique qui revendique faire de \"l'infaux en continu\".",
+      "bmf-news.com",
+      "bmf-news-com"
     ]
   },
   "urls": {
+    "bmf-news.com": 1672,
+    "delaballe.info": 1671,
     "worldactuality.com": 1668,
     "desavantage.com": 1667,
     "facebook.com/ledesavantage": 1667,
