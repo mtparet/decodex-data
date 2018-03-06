@@ -6695,9 +6695,17 @@
       "Un site internet sensationnaliste qui agrège des informations de sources diverses sans les vérifier systématiquement. Il a notamment publié de fausses informations sur la mort de Bob Marley ou sur la prétendue circulation d'une drogue zombie.",
       "Zapping du jour",
       "zapping-du-jour"
+    ],
+    "1721": [
+      1,
+      "Un site satirique québécois à lire au second degré.",
+      "Journal de Mourréal",
+      "journal-de-mourreal"
     ]
   },
   "urls": {
+    "journaldemourreal.com": 1721,
+    "facebook.com/JournaldeMourreal": 1721,
     "zap-du-jour.net": 1720,
     "facebook.com/zapping.du.jour": 1720,
     "worldtoday365.info": 1719,
