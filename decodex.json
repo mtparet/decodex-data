@@ -6701,9 +6701,18 @@
       "Un site satirique québécois à lire au second degré.",
       "Journal de Mourréal",
       "journal-de-mourreal"
+    ],
+    "1722": [
+      1,
+      "Un site parodique belge, qui revendique être \"la revue d'information qui ne cite pas ses sources\". A lire au second degré.",
+      "La Fraîche Gazette",
+      "la-fraiche-gazette"
     ]
   },
   "urls": {
+    "lafraiche.be": 1722,
+    "facebook.com/lafraichegazette": 1722,
+    "twitter.com/FraicheGazette": 1722,
     "journaldemourreal.com": 1721,
     "facebook.com/JournaldeMourreal": 1721,
     "zap-du-jour.net": 1720,
