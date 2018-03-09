@@ -6707,9 +6707,18 @@
       "Un site parodique belge, qui revendique être \"la revue d'information qui ne cite pas ses sources\". A lire au second degré.",
       "La Fraîche Gazette",
       "la-fraiche-gazette"
+    ],
+    "1723": [
+      1,
+      "Un site parodique qui revendique faire de \"l'information recalée en continue\" (sic).",
+      "Le journal news",
+      "le-journal-news"
     ]
   },
   "urls": {
+    "lejournalnews.com": 1723,
+    "facebook.com/lejournalnews": 1723,
+    "twitter.com/le_journalnews": 1723,
     "lafraiche.be": 1722,
     "facebook.com/lafraichegazette": 1722,
     "twitter.com/FraicheGazette": 1722,
