@@ -6713,9 +6713,16 @@
       "Un site parodique qui revendique faire de \"l'information recalée en continue\" (sic).",
       "Le journal news",
       "le-journal-news"
+    ],
+    "1724": [
+      2,
+      "Un site internet sensationnaliste qui agrège des informations de sources diverses sans les vérifier systématiquement. Il a notamment repris plusieurs fausses informations comme un canular selon lequel une femme avait été expulsée d'un restaurant pour avoir allaité son fils de 43 ans ou un autre affirmant qu'une infirmière aurait échangé 9 000 bébés dans des maternités françaises.",
+      "buzzsantedejour",
+      "buzzsantedejour"
     ]
   },
   "urls": {
+    "buzzsantedejour.site": 1724,
     "lejournalnews.com": 1723,
     "facebook.com/lejournalnews": 1723,
     "twitter.com/le_journalnews": 1723,
