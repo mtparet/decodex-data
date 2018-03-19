@@ -6719,9 +6719,25 @@
       "Un site internet sensationnaliste qui agrège des informations de sources diverses sans les vérifier systématiquement. Il a notamment repris plusieurs fausses informations comme un canular selon lequel une femme avait été expulsée d'un restaurant pour avoir allaité son fils de 43 ans ou un autre affirmant qu'une infirmière aurait échangé 9 000 bébés dans des maternités françaises.",
       "buzzsantedejour",
       "buzzsantedejour"
+    ],
+    "1726": [
+      2,
+      "Un site sensationnaliste belge qui peut s'avérer trompeur car il reprend régulièrement des canulars sans annoncer clairement la couleur. Il a par exemple repris au premier degré une fausse information affirmant que l'Islande rémunérait les hommes qui viendraient épouser des Islandaises, ou un autre affirmant que le hijab serait bientôt autorisé dans la police nationale.",
+      "Made in Belgium",
+      "made-in-belgium"
+    ],
+    "1727": [
+      2,
+      "Un site trompeur qui usurpe l'identité du site 20 minutes.",
+      "http://www.20minotes.com/",
+      "http-www-20minotes-com"
     ]
   },
   "urls": {
+    "20minotes.com": 1727,
+    "madeinbelgium.me": 1726,
+    "facebook.com/LBDTSS": 1726,
+    "twitter.com/LBDTSS": 1726,
     "buzzsantedejour.site": 1724,
     "lejournalnews.com": 1723,
     "facebook.com/lejournalnews": 1723,
