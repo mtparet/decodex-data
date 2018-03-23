@@ -6737,9 +6737,16 @@
       "Un site internet qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Il a par exemple repris au premier degré un canular affirmant qu'une infirmière aurait échangé plus de 9 000 bébés à la maternité ou un autre affirmant que Brigitte Macron aurait menti sur son âge.",
       "Ojobuzz.top",
       "ojobuzz-top"
+    ],
+    "1729": [
+      2,
+      "Un site internet trompeur qui se présente sous le nom de BFM-TV sans avoir de liens avec la chaîne de télévision BFMTV.",
+      "http://www.bfm-tv.com/",
+      "http-www-bfm-tv-com"
     ]
   },
   "urls": {
+    "bfm-tv.com": 1729,
     "ojobuzz.top": 1728,
     "20minotes.com": 1727,
     "madeinbelgium.me": 1726,
