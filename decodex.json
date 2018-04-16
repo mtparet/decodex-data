@@ -6743,9 +6743,24 @@
       "Un site internet trompeur qui se présente sous le nom de BFM-TV sans avoir de liens avec la chaîne de télévision BFMTV.",
       "http://www.bfm-tv.com/",
       "http-www-bfm-tv-com"
+    ],
+    "1730": [
+      3,
+      "Un site internet qui diffuse des informations sur la santé contestées par la majorité des spécialistes. Il se fait notamment le relais d'affirmations sensationnalistes comme une fausse information selon laquelle un verre de vin rouge pourrait remplacer une heure de sport intensif (affirmation cependant rectifiée par la suite).",
+      "Sain et Naturel",
+      "sain-et-naturel"
+    ],
+    "1731": [
+      2,
+      "Un blog qui reprend des informations de sources diverses sans forcément les vérifier. Il a notamment diffusé de fausses rumeurs sur une prétendue censure du chanteur Pierre Perret ou sur l'existence d'une arme manipulatrice du climat à l'origine de l'ouragan Irma en 2017.",
+      "DocJeanno.fr",
+      "docjeanno-fr"
     ]
   },
   "urls": {
+    "docjeanno.fr": 1731,
+    "sain-et-naturel.com": 1730,
+    "facebook.com/SainetNaturel": 1730,
     "bfm-tv.com": 1729,
     "ojobuzz.top": 1728,
     "20minotes.com": 1727,
