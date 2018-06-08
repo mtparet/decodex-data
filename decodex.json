@@ -4747,7 +4747,7 @@
       "astuces-des-femmes"
     ],
     "1389": [
-      3,
+      2,
       "Un site internet qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Il a par exemple repris une légende urbaine affirmant à tort que la boisson Red Bull contiendrait du sperme de taureau. Ce site diffuse également des conseils santé à prendre avec des pincettes, car ils ne sont pas validés par des spécialistes.",
       "Best Santé",
       "best-sante"
@@ -4807,8 +4807,8 @@
       "tusaisjetaime-com"
     ],
     "1400": [
-      3,
-      "Un site qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Il relaie également parfois de fausses informations comme un canular du Gorafi affirmant qu'un candidat de Fort Boyard aurait été retrouvé sept ans après avoir été oublié dans une cellule.",
+      2,
+      "Un site qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier. Il a notamment relayé une fausse information sur l'existence d'un prétendu fruit miracle pour guérir du cancer ou une rumeur erronée selon laquelle la boisson Red Bull contiendrait du sperme de taureau. Il diffuse également des conseils santé à prendre avec des pincettes, car ils ne sont pas validés par des spécialistes. Par ailleurs, le site ne donne aucune indication sur l'équipe qui l'alimente ou sa démarche éditoriale.Un site qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier. Il a notamment relayé une fausse information sur l'existence d'un prétendu fruit miracle pour guérir du cancer ou une rumeur erronée selon laquelle la boisson Red Bull contiendrait du sperme de taureau. Il diffuse également des conseils santé à prendre avec des pincettes, car ils ne sont pas validés par des spécialistes. Par ailleurs, le site ne donne aucune indication sur l'équipe qui l'alimente ou sa démarche éditoriale.",
       "bestsante.co",
       "bestsante-co"
     ],
@@ -6881,9 +6881,30 @@
       "Un site qui se présente comme une agence de presse africaine, mais qui reprend parfois de fausses informations. Elle a par exemple diffusé une rumeur erronée sur le prétendu divorce de Grace et Robert Mugabe et repris une théorie fumeuse affirmant que Bob Marley aurait été assassiné par la CIA.",
       "Apr-News",
       "apr-news"
+    ],
+    "1753": [
+      2,
+      "Un site qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier. Il a notamment relayé une fausse information sur l'existence d'un prétendu fruit miracle pour guérir du cancer ou une rumeur erronée selon laquelle la boisson Red Bull contiendrait du sperme de taureau. Il diffuse également des conseils santé à prendre avec des pincettes, car ils ne sont pas validés par des spécialistes. Par ailleurs, le site ne donne aucune indication sur l'équipe qui l'alimente ou sa démarche éditoriale.",
+      "bestsante.org",
+      "bestsante-org"
+    ],
+    "1754": [
+      1,
+      "Un site qui dit critiquer les médias par la caricature en diffusant de fausses informations.",
+      "mediamass",
+      "mediamass-1"
+    ],
+    "1755": [
+      3,
+      "Un site créé par le maire de Béziers, Robert Ménard, soutenu par le FN, qui a plusieurs fois publié ou relayé de fausses informations sur la construction de mosquées en France.",
+      "bvoltaire.com",
+      "bvoltaire-com"
     ]
   },
   "urls": {
+    "bvoltaire.com": 1755,
+    "fr.mediamass.net": 1754,
+    "bestsante.org": 1753,
     "apr-news.fr": 1752,
     "facebook.com/aprnews.fr": 1752,
     "twitter.com/APRNEWS1": 1752,
