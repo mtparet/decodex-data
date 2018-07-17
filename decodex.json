@@ -7121,9 +7121,26 @@
       "Un site internet américain spécialisé dans l'élaboration d'articles et vidéos qui visent à expliquer des sujets d'actualité.",
       "Vox",
       "vox"
+    ],
+    "1793": [
+      4,
+      "Un site qui rassemble des informations des antennes locales de France 3.",
+      "France 3 Régions",
+      "france-3-regions"
+    ],
+    "1794": [
+      4,
+      "Une station de radio privée française propriété du groupe NextRadio TV.",
+      "BFM Business",
+      "bfm-business"
     ]
   },
   "urls": {
+    "bfmbusiness.bfmtv.com": 1794,
+    "facebook.com/BFMBusiness": 1794,
+    "france3-regions.francetvinfo.fr": 1793,
+    "facebook.com/france3": 980,
+    "twitter.com/France3tv": 980,
     "vox.com": 1792,
     "facebook.com/Vox": 1792,
     "twitter.com/voxdotcom": 1792,
@@ -8505,8 +8522,6 @@
     "facebook.com/france5": 981,
     "twitter.com/France5tv": 981,
     "france3.fr": 980,
-    "facebook.com/france3": 980,
-    "twitter.com/France3tv": 980,
     "france24.com/fr": 979,
     "facebook.com/pages/France24/859770514134562": 979,
     "twitter.com/FRANCE24": 979,
