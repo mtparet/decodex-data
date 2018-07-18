@@ -294,6 +294,12 @@
       "Empire Sports",
       "empire-sports"
     ],
+    "622": [
+      1,
+      "Un site qui permet à n'importe quel internaute de créer un article fictif et de le partager sur les réseaux sociaux.",
+      "En Bref",
+      "en-bref"
+    ],
     "623": [
       1,
       "Un site qui permet à n'importe quel internaute de créer un article fictif et de le partager sur les réseaux sociaux.",
@@ -648,6 +654,12 @@
       "Bare Naked Islam",
       "bare-naked-islam"
     ],
+    "682": [
+      2,
+      "Un site qui propose aux internautes de donner leur avis sur des sujets variés, notamment politiques, sans appliquer de méthodologie qui rende ces pseudo-sondages représentatifs de la population française.",
+      "Bataii.com",
+      "bataii-com"
+    ],
     "683": [
       2,
       "Un site alimenté par un blogueur clairement raciste et antisémite, également fondateur de Breizatao, qui diffuse de nombreuses fausses informations et a été condamné à de la prison ferme pour « provocation à la haine ou à la violence ».",
@@ -1001,6 +1013,12 @@
       "Un site qui nous apparaît peu fiable et qui relaie des théories conspirationnistes.",
       "Lablogalupus",
       "lablogalupus"
+    ],
+    "744": [
+      2,
+      "Un site qui nous apparaît peu fiable et qui relaie des théories conspirationnistes.",
+      "Le Grand Soir",
+      "le-grand-soir"
     ],
     "745": [
       2,
@@ -1595,6 +1613,12 @@
       "Un site Internet américain de droite extrême qui relaie régulièrement des informations fausses. Son ancien directeur, Steve Bannon, est désormais conseiller de Donald Trump.",
       "Breitbart",
       "breitbart"
+    ],
+    "845": [
+      3,
+      "Une sorte de réplique du site américain BuzzFeed aux titres souvent sensationnalistes, qui publie de nombreuses informations non vérifiées, déformées ou exagérées. il a par exemple relayé une fausse information venue d'un site parodique selon laquelle une infirmière aurait échangé 9 000 bébés à la maternité.",
+      "Buzzfil",
+      "buzzfil"
     ],
     "846": [
       3,
@@ -2430,6 +2454,12 @@
       "Houston Chronicle",
       "houston-chronicle"
     ],
+    "996": [
+      4,
+      "Un site Web d'information et de divertissement lancé aux Etats-Unis et décliné dans plusieurs pays. Le site est en grande partie alimenté par les articles de la rédaction. A différencier des tribunes et billets de blogs, identifiés sous l'étiquette « Les Blogs », en haut de la page. Les informations que vous trouverez dans ces articles relaient des opinions variées (politiques, experts...) et ont une connotation plus subjective qu'un article journalistique.",
+      "Huffington Post",
+      "huffington-post"
+    ],
     "997": [
       4,
       "Journal économique américain publié en anglais, chinois, japonais et italien.",
@@ -3264,6 +3294,12 @@
       "Topibuzz",
       "topibuzz"
     ],
+    "1138": [
+      2,
+      "Une page Facebook qui relaie des informations de sites peu fiables, souvent sous des titres racoleurs.",
+      "Je t'aime Maman",
+      "je-t-aime-maman"
+    ],
     "1139": [
       2,
       "Un site Internet et une page Facebook affirmant décrypter l'actualité, mais qui diffusent régulièrement des informations déformées, voire erronées. Une de ses vidéos de décembre 2016 présentait ainsi de manière trompeuse un avis consultatif remis au ministère de la santé français sur les vaccins.",
@@ -3497,6 +3533,12 @@
       "Comme indiqué dans les mentions légales, il s'agit du site du Centre d’études et de documentation du sucre (CEDUS), qui rassemble les industriels du secteur betterave-canne-sucre en France. Il ne diffuse pas d'informations volontairement erronées, mais il tend à minimiser les risques du sucre pour en vanter plutôt les mérites.",
       "Centre d’études et de documentation du sucre (CEDUS)",
       "centre-d-etudes-et-de-documentation-du-sucre-cedus"
+    ],
+    "1182": [
+      2,
+      "Site édité par la Fondation pour le libre choix, société située au Luxembourg, il propose du contenu prétendument scientifique, régulièrement sans préciser ses sources, et vend les médicaments mentionnés dans ses « articles » en bas de page. Il dépend du groupe SuperSmart, qui se définit comme « pionnier du marché européen de la supplémentation nutritionnelle ».",
+      "NutraNews",
+      "nutranews"
     ],
     "1183": [
       3,
@@ -4332,6 +4374,12 @@
       "Les meilleurs phrases et VDM",
       "les-meilleurs-phrases-et-vdm"
     ],
+    "1326": [
+      3,
+      "Une page Facebook qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Elle relaie parfois de fausses informations, par exemple une légende urbaine sur des vols de voitures organisés en laissant un billet de 50 euros sur le pare-brise d'un véhicule.",
+      "Les objets les plus design du monde La minute déco",
+      "les-objets-les-plus-design-du-monde-la-minute-deco"
+    ],
     "1327": [
       3,
       "Une page Facebook qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Elle relaie parfois de fausses informations, par exemple une légende urbaine sur des vols de voitures organisés en laissant un billet de 50 euros sur le pare-brise d'un véhicule.",
@@ -5046,6 +5094,12 @@
       "Les pipelettes",
       "les-pipelettes"
     ],
+    "1449": [
+      3,
+      "Une page Facebook qui diffuse un certain nombre de fausses informations, notamment sur la vaccination. Il a par exemple repris une vidéo d'un thérapeute suisse qui colporte des affirmations sur la vaccination contestées par l'immense majorité des spécialistes, comme l'allégation selon laquelle les personnes vaccinées seraient plus souvent malades que les autres, ce qui n'est pas étayé par les faits.",
+      "Le changement par la consommation",
+      "le-changement-par-la-consommation"
+    ],
     "1450": [
       3,
       "Une page Facebook qui se présente comme émanant du mouvement Anonymous, bien que ce ne soit pas avéré, et qui diffuse parfois de fausses informations, par exemple lorsqu'elle a accusé à tort Bill Gates de soutenir la vaccination pour faire baisser la population en Afrique.",
@@ -5399,6 +5453,12 @@
       "Une page Facebook américaine favorable à Donald Trump qui agrège des informations de sources diverses sans forcément les vérifier systématiquement. Elle a notamment relayé au premier degré un canular d'un site parodique affirmant qu'un navire viking aurait été retrouvé près du Mississippi ainsi qu'une accusation mensongère à l'encontre de Bill Gates, suspecté à tort de soutenir la vaccination pour contrôler la population africaine.",
       "Light Up Trump's Christmas Caboose",
       "light-up-trump-s-christmas-caboose"
+    ],
+    "1510": [
+      2,
+      "Une page Facebook sensationnaliste qui agrège des informations de sources diverses sans forcément les vérifier systématiquement. Elle a notamment repris au premier degré un canular du Gorafi évoquant un candidat de « Fort Boyard » retrouvé dans une cellule après sept ans, ainsi qu'une fausse information sur un Chinois qui aurait été infesté par des vers après avoir mangé des sushis.",
+      "Même à 3 heures du mat, tu seras toujours là pour tes potes",
+      "meme-a-3-heures-du-mat-tu-seras-toujours-la-pour-tes-potes"
     ],
     "1511": [
       2,
@@ -6113,6 +6173,12 @@
       "Un site internet qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier systématiquement. Il a notamment diffusé au premier degré un canular affirmant qu'un candidat de « Fort Boyard » aurait été abandonné dans une cellule pendant sept ans.",
       "la-suite-mobile.com",
       "la-suite-mobile-com"
+    ],
+    "1631": [
+      2,
+      "Une page Facebook sensationnaliste qui agrège des informations de sources diverses sans forcément les vérifier systématiquement. Elle a notamment relayé au premier degré un canular affirmant qu'une femme aurait donné naissance à un bébé de 20 kilos.",
+      "Humour by ASF Groupe",
+      "humour-by-asf-groupe"
     ],
     "1632": [
       2,
@@ -7067,9 +7133,16 @@
       "Une station de radio privée française propriété du groupe NextRadio TV.",
       "BFM Business",
       "bfm-business"
+    ],
+    "1795": [
+      1,
+      "Un site parodique en anglais et parfois en français, à lire au second degré.",
+      "News7pm.com",
+      "news7pm-com"
     ]
   },
   "urls": {
+    "news7pm.com": 1795,
     "bfmbusiness.bfmtv.com": 1794,
     "facebook.com/BFMBusiness": 1794,
     "france3-regions.francetvinfo.fr": 1793,
@@ -7173,7 +7246,7 @@
     "franbuzz.fr": 1739,
     "facebook.com/franbuzz.fr": 1739,
     "buzzfil.me": 1738,
-    "facebook.com/buzzfil": 1738,
+    "facebook.com/buzzfil": 845,
     "aujourd8.fr": 1737,
     "abidjantv.net": 1736,
     "coindubuzz.com": 1735,
@@ -7307,6 +7380,7 @@
     "facebook.com/Un-jour-Dieu-demanda-%C3%A0-David-de-guetter-et-David-Guetta--334078083185": 1633,
     "facebook.com/829834240390782": 1632,
     "facebook.com/La-T%C3%A9l%C3%A9r%C3%A9alit%C3%A9-Y-en-a-Assez-829834240390782": 1632,
+    "facebook.com/LhumourByASFGROUPE": 1631,
     "la-suite-mobile.com": 1630,
     "facebook.com/codedcouple": 1629,
     "buzzligne.com": 1628,
@@ -7457,6 +7531,8 @@
     "facebook.com/Ma-meilleure-amie-ma-vie--1470537853232552": 1512,
     "facebook.com/121083388058285": 1511,
     "facebook.com/La-Verit%C3%A0-ci-Rende-Liberi-121083388058285": 1511,
+    "facebook.com/100772499962351": 1510,
+    "facebook.com/meme-a-3h-du-mat-tu-seras-toujours-la-pour-tes-potes-100772499962351": 1510,
     "facebook.com/1000917043293023": 1509,
     "facebook.com/Light-Up-Trumps-Christmas-Caboose-1000917043293023": 1509,
     "allosante.eu": 1508,
@@ -7549,6 +7625,8 @@
     "facebook.com/ATWIO": 1452,
     "facebook.com/AnonymousPortugalInternacional": 1451,
     "facebook.com/anonymousaroundtheworld": 1450,
+    "facebook.com/218263484852205": 1449,
+    "facebook.com/Le-changement-par-la-consommation-218263484852205": 1449,
     "lespipelettes.net": 1448,
     "alternativesante.fr": 1447,
     "facebook.com/alternativesante": 1447,
@@ -7698,6 +7776,7 @@
     "facebook.com/taouages.tattoo": 1329,
     "facebook.com/Les-pires-fail-de-tattouage-1448112128769781": 1328,
     "facebook.com/Les-perles-des-copies-délèves-496101910512827": 1327,
+    "facebook.com/Les-objets-les-plus-design-du-monde-La-minute-déco-1519635374945059": 1326,
     "facebook.com/SuperVdm": 1325,
     "facebook.com/Les-Meilleures-Photos-Tatouage-1477488732471583": 1324,
     "facebook.com/Les-meilleures-photos-de-ralentis-1446025622312036": 1323,
@@ -7954,6 +8033,7 @@
     "facebook.com/jmmorandinisante": 1184,
     "twitter.com/morandinisante": 1184,
     "ooreka.fr/univers/sante": 1183,
+    "nutranews.org": 1182,
     "lesucre.com": 1181,
     "facebook.com/lesucrepage": 1181,
     "twitter.com/lesucretvous": 1181,
@@ -8039,6 +8119,7 @@
     "twitter.com/JVCom": 1140,
     "paslinfo.blogspot.fr": 1139,
     "facebook.com/paslinfo": 1139,
+    "facebook.com/jetaimemamann": 1138,
     "topibuzz.com": 1137,
     "facebook.com/topibuzz": 1137,
     "astucesnaturelles.net": 1136,
@@ -8409,6 +8490,9 @@
     "twitter.com/IsFearrAnStar": 998,
     "ibtimes.com": 997,
     "facebook.com/IBTimes": 997,
+    "huffingtonpost.fr": 996,
+    "facebook.com/LeHuffPost": 996,
+    "twitter.com/LeHuffPost": 996,
     "chron.com": 995,
     "facebook.com/houstonchronicle": 995,
     "twitter.com/HoustonChron": 995,
@@ -8788,6 +8872,8 @@
     "youtube.com/channel/UCp6W9gfT281VmbMPH4q6F9w": 849,
     "contre-info.com": 848,
     "christianophobie.fr": 846,
+    "buzzfil.net": 845,
+    "twitter.com/BuzzFilcom": 845,
     "breitbart.com": 844,
     "facebook.com/Breitbart": 844,
     "twitter.com/BreitbartNews": 844,
@@ -8960,6 +9046,7 @@
     "facebook.com/PrJoyeux": 746,
     "twitter.com/PrJoyeux": 746,
     "lesalonbeige.blogs.com": 745,
+    "legrandsoir.info": 744,
     "leblogalupus.com": 743,
     "facebook.com/Larevoltedesvachesalait": 742,
     "laminedinfos.fr": 740,
@@ -9073,6 +9160,7 @@
     "facebook.com/Boris-Le-Lay-403505586497759": 683,
     "twitter.com/boris_lay": 683,
     "youtube.com/channel/UC36mSY_4inu-Rx5TAIfKXfA": 683,
+    "bataii.com": 682,
     "barenakedislam.com": 681,
     "twitter.com/@barenakedislam": 681,
     "fr.awdnews.com": 680,
@@ -9169,6 +9257,7 @@
     "facebook.com/footballfrance.fr": 624,
     "twitter.com/FootballFrance_": 624,
     "flashinfo.org": 623,
+    "en-bref.fr": 622,
     "empiresports.co": 621,
     "empirenews.net": 620,
     "facebook.com/EmpireNewsNet": 620,
