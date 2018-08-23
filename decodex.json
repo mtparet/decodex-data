@@ -7139,9 +7139,17 @@
       "Un site parodique en anglais et parfois en français, à lire au second degré.",
       "News7pm.com",
       "news7pm-com"
+    ],
+    "1796": [
+      1,
+      "Un site qui peut paraître, au premier regard, diffuser des affirmations scientifiques, mais qui publie en réalité des articles satiriques mimant des publications scientifiques pour mieux dénoncer les raisonnements pseudo-scientifiques et les affirmations péremptoires.",
+      "Institut International Indépendant pour la Promotion de la Recherche Scientifique",
+      "institut-international-independant-pour-la-promotion-de-la-recherche-scientifique"
     ]
   },
   "urls": {
+    "iiiprs.org": 1796,
+    "twitter.com/iiiprs?lang=fr": 1796,
     "news7pm.com": 1795,
     "bfmbusiness.bfmtv.com": 1794,
     "facebook.com/BFMBusiness": 1794,
