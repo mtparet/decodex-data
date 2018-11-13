@@ -7145,9 +7145,73 @@
       "Un site qui peut paraître, au premier regard, diffuser des affirmations scientifiques, mais qui publie en réalité des articles satiriques mimant des publications scientifiques pour mieux dénoncer les raisonnements pseudo-scientifiques et les affirmations péremptoires.",
       "Institut International Indépendant pour la Promotion de la Recherche Scientifique",
       "institut-international-independant-pour-la-promotion-de-la-recherche-scientifique"
+    ],
+    "1797": [
+      2,
+      "Un site qui se présente comme un média « alternatif », qui fait partie d'un vaste réseau de sites de désinformation, comme l'explique une enquête des Décodeurs (voir la section « Références » ci-dessous). Les titres mensongers se comptent par dizaines sur ces sites, sur des sujets aussi variés que le résultat des élections, la politique vaccinale, le compteur électrique Linky ou la guerre en Syrie.",
+      "OsonsRever.fr",
+      "osonsrever-fr"
+    ],
+    "1798": [
+      2,
+      "Un site qui se présente comme un média « alternatif », qui fait partie d'un vaste réseau de sites de désinformation, comme l'explique une enquête des Décodeurs (voir la section « Références » ci-dessous). Les titres mensongers se comptent par dizaines sur ces sites, sur des sujets aussi variés que le résultat des élections, la politique vaccinale, le compteur électrique Linky ou la guerre en Syrie.",
+      "Osons-Rever.fr",
+      "osons-rever-fr"
+    ],
+    "1799": [
+      2,
+      "Un site qui se présente comme un média « alternatif », qui fait partie d'un vaste réseau de sites de désinformation, comme l'explique une enquête des Décodeurs (voir la section « Références » ci-dessous). Les titres mensongers se comptent par dizaines sur ces sites, sur des sujets aussi variés que le résultat des élections, la politique vaccinale, le compteur électrique Linky ou la guerre en Syrie.",
+      "BellesAlternatives",
+      "bellesalternatives"
+    ],
+    "1800": [
+      2,
+      "Une page Facebook qui fait partie d'un vaste réseau de sites de désinformation, comme l'explique une enquête des Décodeurs (voir la section « Références » ci-dessous). Les titres mensongers se comptent par dizaines sur ces sites, sur des sujets aussi variés que le résultat des élections, la politique vaccinale, le compteur électrique Linky ou la guerre en Syrie.",
+      "Observe",
+      "observe"
+    ],
+    "1801": [
+      2,
+      "Une page Facebook qui fait partie d'un vaste réseau de sites de désinformation, comme l'explique une enquête des Décodeurs (voir la section « Références » ci-dessous). Les titres mensongers se comptent par dizaines sur ces sites, sur des sujets aussi variés que le résultat des élections, la politique vaccinale, le compteur électrique Linky ou la guerre en Syrie.",
+      "Esprits Libres (Groupe Facebook)",
+      "esprits-libres-groupe-facebook"
+    ],
+    "1802": [
+      2,
+      "Un site qui se présente comme un média « alternatif », qui fait partie d'un vaste réseau de sites de désinformation, comme l'explique une enquête des Décodeurs (voir la section « Références » ci-dessous). Les titres mensongers se comptent par dizaines sur ces sites, sur des sujets aussi variés que le résultat des élections, la politique vaccinale, le compteur électrique Linky ou la guerre en Syrie.",
+      "La-revue-de-presse.fr",
+      "la-revue-de-presse-fr"
+    ],
+    "1803": [
+      2,
+      "Un site qui se présente comme un média « alternatif », qui fait partie d'un vaste réseau de sites de désinformation, comme l'explique une enquête des Décodeurs (voir la section « Références » ci-dessous). Les titres mensongers se comptent par dizaines sur ces sites, sur des sujets aussi variés que le résultat des élections, la politique vaccinale, le compteur électrique Linky ou la guerre en Syrie.",
+      "Esprits Libres",
+      "esprits-libres-2"
+    ],
+    "1804": [
+      2,
+      "Un site qui se présente comme un média « alternatif », qui fait partie d'un vaste réseau de sites de désinformation, comme l'explique une enquête des Décodeurs (voir la section « Références » ci-dessous). Les titres mensongers se comptent par dizaines sur ces sites, sur des sujets aussi variés que le résultat des élections, la politique vaccinale, le compteur électrique Linky ou la guerre en Syrie.",
+      "Cadoitsesavoir.fr",
+      "cadoitsesavoir-fr"
+    ],
+    "1805": [
+      2,
+      "Un site qui se présente comme un média « alternatif », qui fait partie d'un vaste réseau de sites de désinformation, comme l'explique une enquête des Décodeurs (voir la section « Références » ci-dessous). Les titres mensongers se comptent par dizaines sur ces sites, sur des sujets aussi variés que le résultat des élections, la politique vaccinale, le compteur électrique Linky ou la guerre en Syrie.",
+      "Ca-doit-se-savoir.fr",
+      "ca-doit-se-savoir-fr"
     ]
   },
   "urls": {
+    "ca-doit-se-savoir.fr": 1805,
+    "cadoitsesavoir.fr": 1804,
+    "esprits-libres.fr": 1803,
+    "la-revue-de-presse.fr": 1802,
+    "facebook.com/groups/1020963217933018": 1801,
+    "facebook.com/ObserveOfficiel": 1800,
+    "bellesalternatives.fr": 1799,
+    "osons-rever.fr": 1798,
+    "osonsrever.fr": 1797,
+    "business.facebook.com/osonsrever.fr": 1797,
     "iiiprs.org": 1796,
     "twitter.com/iiiprs?lang=fr": 1796,
     "news7pm.com": 1795,
