@@ -7403,9 +7403,16 @@
       "Une page Facebook qui fait partie d'un vaste réseau de sites de désinformation, comme l'explique une enquête des Décodeurs (voir la section « Références » ci-dessous). Les titres mensongers se comptent par dizaines sur ces sites, sur des sujets aussi variés que le résultat des élections, la politique vaccinale, le compteur électrique Linky ou la guerre en Syrie.",
       "Face2plouk",
       "face2plouk-1"
+    ],
+    "1840": [
+      1,
+      "Un site parodique qui déclare publier « toute l'infaux en continu ».",
+      "ICI L'Info",
+      "ici-l-info"
     ]
   },
   "urls": {
+    "icl0.com": 1840,
     "facebook.com/face2plouk": 1839,
     "facebook.com/Loeil-m%C3%A9diatique-241215176719875": 1838,
     "facebook.com/Loeil-vert-152571605394628": 1837,
