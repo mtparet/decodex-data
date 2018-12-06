@@ -7409,9 +7409,17 @@
       "Un site parodique qui déclare publier « toute l'infaux en continu ».",
       "ICI L'Info",
       "ici-l-info"
+    ],
+    "1841": [
+      2,
+      "Un site qui se présente comme un média « alternatif », qui fait partie d'un vaste réseau de sites de désinformation, comme l'explique une enquête des Décodeurs (voir la section « Références » ci-dessous). Les titres mensongers se comptent par dizaines sur ces sites, sur des sujets aussi variés que le résultat des élections, la politique vaccinale, le compteur électrique Linky ou la guerre en Syrie.",
+      "Lavraiedemocratie.net",
+      "lavraiedemocratie-net"
     ]
   },
   "urls": {
+    "lavraiedemocratie.org": 1829,
+    "facebook.com/lavraiedemocratie": 1829,
     "icl0.com": 1840,
     "facebook.com/face2plouk": 1839,
     "facebook.com/Loeil-m%C3%A9diatique-241215176719875": 1838,
@@ -7427,8 +7435,6 @@
     "facebook.com/loeilofficiel": 1831,
     "mademoisellemauvaiselangue.fr": 1830,
     "facebook.com/payetonsmile.fr": 1823,
-    "lavraiedemocratie.org": 1829,
-    "facebook.com/lavraiedemocratie": 1829,
     "crazyplanet.net": 1828,
     "facebook.com/Poop-Break-2100508900070684": 1828,
     "cfouca.fr": 1827,
