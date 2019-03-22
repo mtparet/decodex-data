@@ -7415,9 +7415,18 @@
       "Un site qui se présente comme un média « alternatif », qui fait partie d'un vaste réseau de sites de désinformation, comme l'explique une enquête des Décodeurs (voir la section « Références » ci-dessous). Les titres mensongers se comptent par dizaines sur ces sites, sur des sujets aussi variés que le résultat des élections, la politique vaccinale, le compteur électrique Linky ou la guerre en Syrie.",
       "Lavraiedemocratie.net",
       "lavraiedemocratie-net"
+    ],
+    "1842": [
+      1,
+      "Un site parodique qui garanti qu'aucune des informations qu'il ne diffuse n'est réelle, \"ou alors c'est que c'est encore plus grave qu'on pensait...\"",
+      "20 secondes",
+      "20-secondes"
     ]
   },
   "urls": {
+    "20secondes.fr": 1842,
+    "facebook.com/20secondesfr-139597426995801": 1842,
+    "twitter.com/20secondesfr": 1842,
     "lavraiedemocratie.org": 1829,
     "facebook.com/lavraiedemocratie": 1829,
     "icl0.com": 1840,
