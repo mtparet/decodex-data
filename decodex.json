@@ -7427,9 +7427,17 @@
       "Un site internet suisse qui publie des conseils en matière de santé. Certaines de ses publications contiennent des affirmations contestables, notamment en matière de vaccination - il affirme par exemple que c'est le vaccin contre la rougeole qui aurait fait de cette maladie un problème de santé publique, là où l'immense majorité des spécialistes juge au contraire qu'une couverture vaccinale suffisante la fait disparaître. Certaines de ses recommandations en matière de nutrition sont également simplistes, faisant notamment la part belle aux prétendus \"super-aliments\" contre le cancer.",
       "Santé Corps Esprit",
       "sante-corps-esprit"
+    ],
+    "1844": [
+      1,
+      "Un compte Twitter parodique qui diffuse uniquement des informations à prendre au second degré.",
+      "Le Journal de L'Elysée",
+      "le-journal-de-l-elysee"
     ]
   },
   "urls": {
+    "twitter.com/JournalElysee": 1844,
+    "facebook.com/JournalElysee": 1844,
     "sante-corps-esprit.com": 1843,
     "facebook.com/Sant%C3%A9-Corps-Esprit-604490939711468": 1843,
     "20secondes.fr": 1842,
