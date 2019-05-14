@@ -7433,9 +7433,16 @@
       "Un compte Twitter parodique qui diffuse uniquement des informations à prendre au second degré.",
       "Le Journal de L'Elysée",
       "le-journal-de-l-elysee"
+    ],
+    "1845": [
+      2,
+      "Un site qui usurpe l'identité du média Français 20 Minutes pour faire la promotion d'un service de vidéo en ligne.",
+      "http://20minutesfrance.com/",
+      "http-20minutesfrance-com"
     ]
   },
   "urls": {
+    "20minutesfrance.com": 1845,
     "twitter.com/JournalElysee": 1844,
     "facebook.com/JournalElysee": 1844,
     "sante-corps-esprit.com": 1843,
