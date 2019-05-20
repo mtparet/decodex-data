@@ -7439,9 +7439,16 @@
       "Un site qui usurpe l'identité du média Français 20 Minutes pour faire la promotion d'un service de vidéo en ligne.",
       "http://20minutesfrance.com/",
       "http-20minutesfrance-com"
+    ],
+    "1846": [
+      1,
+      "Un site satirique guadeloupéen, qui revendique publier de fausses informations dans un but purement humoristique.",
+      "Farce-Antilles Guadeloupe",
+      "farce-antilles-guadeloupe"
     ]
   },
   "urls": {
+    "guadeloupe.farceantilles.fr": 1846,
     "20minutesfrance.com": 1845,
     "twitter.com/JournalElysee": 1844,
     "facebook.com/JournalElysee": 1844,
