@@ -7445,9 +7445,18 @@
       "Un site satirique guadeloupéen, qui revendique publier de fausses informations dans un but purement humoristique.",
       "Farce-Antilles Guadeloupe",
       "farce-antilles-guadeloupe"
+    ],
+    "1847": [
+      1,
+      "Un site satirique sur le football, qui précise que ses articles sont \"fictifs et issus de l'imagination du rédacteur\".",
+      "Jnewsfoot",
+      "jnewsfoot"
     ]
   },
   "urls": {
+    "jnewsfoot.com": 1847,
+    "facebook.com/Jnewsfoot": 1847,
+    "twitter.com/jnewsfoot": 1847,
     "guadeloupe.farceantilles.fr": 1846,
     "20minutesfrance.com": 1845,
     "twitter.com/JournalElysee": 1844,
