@@ -7451,9 +7451,16 @@
       "Un site satirique sur le football, qui précise que ses articles sont \"fictifs et issus de l'imagination du rédacteur\".",
       "Jnewsfoot",
       "jnewsfoot"
+    ],
+    "1848": [
+      3,
+      "Un groupe Facebook créé en octobre 2018 qui entend rassembler des internautes hostiles à la politique du gouvernement. On y trouve cependant régulièrement de fausses informations, par exemple au sujet du traité d’Aix-la-Chapelle signé par la France et l’Allemagne au début de 2019 ou sur la loi de 1973, accusée à tort d’avoir créé la dette française.",
+      "Un vent de révolte, le groupe",
+      "un-vent-de-revolte-le-groupe"
     ]
   },
   "urls": {
+    "facebook.com/groups/1647592058685887": 1848,
     "jnewsfoot.com": 1847,
     "facebook.com/Jnewsfoot": 1847,
     "twitter.com/jnewsfoot": 1847,
