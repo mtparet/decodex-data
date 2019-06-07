@@ -7577,9 +7577,73 @@
       "Une page Facebook qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier. Elle relaie parfois de fausses informations, par exemple lorsqu’elle a repris au premier degré un canular du Gorafi affirmant qu’un homme avait été oublié sept ans à fort Boyard.",
       "Si toi aussi tu m’aimes",
       "si-toi-aussi-tu-m-aimes"
+    ],
+    "1869": [
+      2,
+      "Une page Facebook qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier. Elle relaie parfois de fausses informations, par exemple lorsqu’elle a repris au premier degré un canular du Gorafi affirmant qu’un homme avait été oublié sept ans à fort Boyard.",
+      "Bréf je t'aime",
+      "bref-je-t-aime"
+    ],
+    "1870": [
+      2,
+      "Une page Facebook qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier. Elle relaie parfois de fausses informations, par exemple lorsqu’elle a écrit que la Chine produit du riz en plastique commercialisé à l’étranger.",
+      "Bridoz",
+      "bridoz"
+    ],
+    "1871": [
+      2,
+      "Une page Facebook qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier. Elle relaie parfois de fausses informations, par exemple lorsqu’elle a repris l’histoire mensongère d’un bateau réapparu <em>« quatre-vingt-dix ans après avoir disparu dans le triangle des Bermudes ? »</em>.",
+      "Enquêteur Paranormale",
+      "enqueteur-paranormale"
+    ],
+    "1872": [
+      2,
+      "Une page Facebook qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier. Elle relaie parfois de fausses informations, notamment sur la vaccination.",
+      "Esprits Libérés",
+      "esprits-liberes"
+    ],
+    "1873": [
+      2,
+      "Une page Facebook qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier. Elle relaie parfois de fausses informations, par exemple lorsqu’elle a repris au premier degré un canular du Gorafi affirmant qu’un homme avait été oublié sept ans à fort Boyard.",
+      "Gif Porn RNB",
+      "gif-porn-rnb-1"
+    ],
+    "1874": [
+      2,
+      "Une page Facebook hostile à la mondialisation qui agrège des informations de sources variables, sans forcément les vérifier. Elle a relayé plusieurs fausses informations, notamment sur la vaccination.",
+      "Globalism Exposed",
+      "globalism-exposed"
+    ],
+    "1875": [
+      2,
+      "Un site qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier. Elle véhicule notamment des conseils en matière de santé contestés par l’immense majorité des spécialistes, affirmant notamment qu’il existe des aliments miracles contre le cancer.",
+      "Healthy and Natural World",
+      "healthy-and-natural-world"
+    ],
+    "1876": [
+      2,
+      "Une page Facebook qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier. Elle relaie parfois de fausses informations, par exemple lorsqu’elle a repris au premier degré un canular selon lequel une femme de 101 ans aurait donné naissance à un bébé.",
+      "Je t’aime maman",
+      "je-t-aime-maman-2"
+    ],
+    "1877": [
+      2,
+      "Une page Facebook qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier. Elle relaie parfois de fausses informations, par exemple lorsqu’elle a affirmé que les traitements contre le cancer n’améliorent pas l’espérance de vie.",
+      "Astuces de Grands-Mères",
+      "astuces-de-grands-meres"
     ]
   },
   "urls": {
+    "facebook.com/lesastucesdegrandsmeres": 1877,
+    "facebook.com/Je.aime.maman": 1876,
+    "healthyandnaturalworld.com": 1875,
+    "facebook.com/HealthyAndNaturalWorld": 1875,
+    "facebook.com/Globexpo": 1874,
+    "facebook.com/Gif.Porn.RNB": 1303,
+    "facebook.com/espritsliberes": 1872,
+    "facebook.com/EnqueteurParanormale": 1871,
+    "facebook.com/BridozInsolite": 1870,
+    "facebook.com/brefjetaimee": 1869,
     "facebook.com/amoureuse.officielle": 1868,
     "facebook.com/541709039357691": 1867,
     "facebook.com/astucesdemamie123": 1867,
@@ -8350,7 +8414,6 @@
     "facebook.com/1379967825659061": 1306,
     "facebook.com/HumourDeJeunes.fr": 1305,
     "facebook.com/humour.homme": 1304,
-    "facebook.com/Gif.Porn.RNB": 1303,
     "feroce.co": 1302,
     "facebook.com/ferocefrance": 1302,
     "facebook.com/pausecafeinscience": 1301,
