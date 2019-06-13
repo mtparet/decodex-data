@@ -7733,9 +7733,16 @@
       "Une page Facebook qui agrège des informations de sources variables sous des titres souvent sensationnalistes, sans forcément les vérifier. Elle relaie parfois de fausses informations, par exemple lorsqu’elle a écrit que le gouvernement comptait amputer les pensions de réversion d’un quart.",
       "La vie est belle",
       "la-vie-est-belle-1"
+    ],
+    "1895": [
+      1,
+      "Un site parodique qui revendique publier des articles humoristiques \"inspirés de la réalité\".",
+      "Francheinfo",
+      "francheinfo"
     ]
   },
   "urls": {
+    "franchetvinfo.fr": 1895,
     "facebook.com/lavieestbelle76": 1894,
     "elishean-aufeminin.com": 1893,
     "facebook.com/ELISHEANattitude": 1893,
