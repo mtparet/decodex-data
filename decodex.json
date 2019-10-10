@@ -7745,9 +7745,16 @@
       "Bopress.ma est un site d’informations parodiques marocain créé en 2016.",
       "Bopress",
       "http-www-bopress-ma"
+    ],
+    "1929": [
+      2,
+      "Un site d'extrême droite qui appartient au réseau Suavelos, qui diffuse des informations partiales et parfois inexactes. Il défend un « féminisme occidental », dans la lignée de la mouvance nationaliste blanche à l'idéologie raciste..",
+      "Bellica.fr",
+      "bellica-fr"
     ]
   },
   "urls": {
+    "bellica.fr": 1929,
     "bopress.ma": 1896,
     "franchetvinfo.fr": 1895,
     "facebook.com/lavieestbelle76": 1894,
