@@ -7961,9 +7961,30 @@
       "Un site de divertissement qui relaie des informations de sources variées, sans forcément les vérifier systématiquement et sous des titres souvent sensationnalistes. Il a par exemple relayé l'histoire d'un « homme dont les flatulences tuent les moustiques » en la présentant comme une information avérée, alors qu'il s'agit en réalité d'un canular d'un site parodique.",
       "Ayoyeglobal.com",
       "ayoyeglobal-com"
+    ],
+    "1966": [
+      4,
+      "Le portail de MSN, consacré à l'actualité. Il agrège des contenus de différents sites. Il vaut donc mieux s'informer au cas par cas sur ces derniers pour en savoir plus.",
+      "MSN",
+      "msn"
+    ],
+    "1967": [
+      4,
+      "Le portail de Google consacré à l'actualité. Il agrège des contenus de différents sites. Il vaut donc mieux s'informer au cas par cas sur ces derniers pour en savoir plus.",
+      "Google News",
+      "google-news"
+    ],
+    "1968": [
+      4,
+      "LesLignesBougent.org n'est pas une source d'information. Il s'agit d'une plateforme de pétitions sur laquelle n'importe quel internaute peut lancer un appel.",
+      "LesLignesBougent.org",
+      "leslignesbougent-org"
     ]
   },
   "urls": {
+    "leslignesbougent.org": 1968,
+    "news.google.com": 1967,
+    "msn.com/fr-fr": 1966,
     "ayoyeglobal.com": 1965,
     "facebook.com/ademarhartigan76": 1964,
     "facebook.com/dordognefn24": 1963,
